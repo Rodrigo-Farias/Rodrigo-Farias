@@ -398,3 +398,4 @@
 35787. fix: resolve issue with date parsing #35787
 94709. refactor: remove redundant code blocks #94709
 57190. refactor: clean up auth middleware #57190
+80592. fix: fix null pointer exception on login #80592
