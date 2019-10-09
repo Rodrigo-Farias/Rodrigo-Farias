@@ -405,3 +405,4 @@
 23715. chore: add GitHub actions badge #23715
 28105. perf: lazy-load components #28105
 52236. docs: document token refresh logic #52236
+88675. chore: add GitHub actions badge #88675
