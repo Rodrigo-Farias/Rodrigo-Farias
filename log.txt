@@ -201,3 +201,4 @@
 70355. fix: correct typo in registration form #70355
 85339. chore: rename env.example #85339
 75887. test: increase coverage on auth module #75887
+77332. fix: fix broken CSS in mobile view #77332
