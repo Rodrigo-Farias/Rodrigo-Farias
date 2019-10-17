@@ -202,3 +202,4 @@
 85339. chore: rename env.example #85339
 75887. test: increase coverage on auth module #75887
 77332. fix: fix broken CSS in mobile view #77332
+9080. style: rename variables for clarity #9080
