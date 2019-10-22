@@ -1,1 +1,2 @@
 67366. test: add unit test for quiz service #67366
+38528. fix: fix broken CSS in mobile view #38528
