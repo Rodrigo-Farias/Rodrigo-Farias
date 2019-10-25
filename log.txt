@@ -419,3 +419,4 @@
 10973. docs: update README with setup steps #10973
 0994. feat: create admin dashboard #994
 87956. style: rename variables for clarity #87956
+61897. docs: update README with setup steps #61897
