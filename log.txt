@@ -425,3 +425,4 @@
 67779. feat: add export to CSV option #67779
 69142. refactor: clean up auth middleware #69142
 46143. test: mock database connection in test suite #46143
+72882. feat: create admin dashboard #72882
