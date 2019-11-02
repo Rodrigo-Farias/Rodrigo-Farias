@@ -431,3 +431,4 @@
 32627. chore: clean up unused files #32627
 75526. docs: document token refresh logic #75526
 22208. refactor: clean up auth middleware #22208
+71634. feat: enable dark mode toggle #71634
