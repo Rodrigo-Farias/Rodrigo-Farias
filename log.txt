@@ -432,3 +432,4 @@
 75526. docs: document token refresh logic #75526
 22208. refactor: clean up auth middleware #22208
 71634. feat: enable dark mode toggle #71634
+96751. feat: enable dark mode toggle #96751
