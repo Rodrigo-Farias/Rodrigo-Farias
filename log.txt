@@ -436,3 +436,4 @@
 7761. style: rename variables for clarity #7761
 33082. perf: lazy-load components #33082
 91593. perf: reduce image load time #91593
+36787. feat: support email verification #36787
