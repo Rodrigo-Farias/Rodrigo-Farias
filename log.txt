@@ -435,3 +435,4 @@
 96751. feat: enable dark mode toggle #96751
 7761. style: rename variables for clarity #7761
 33082. perf: lazy-load components #33082
+91593. perf: reduce image load time #91593
