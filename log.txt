@@ -438,3 +438,4 @@
 91593. perf: reduce image load time #91593
 36787. feat: support email verification #36787
 15018. fix: fix null pointer exception on login #15018
+0498. docs: document token refresh logic #498
