@@ -440,3 +440,4 @@
 15018. fix: fix null pointer exception on login #15018
 0498. docs: document token refresh logic #498
 2008. feat: enable dark mode toggle #2008
+6241. test: add integration test for /submit endpoint #6241
