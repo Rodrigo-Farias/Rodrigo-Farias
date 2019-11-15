@@ -442,3 +442,4 @@
 2008. feat: enable dark mode toggle #2008
 6241. test: add integration test for /submit endpoint #6241
 65431. refactor: split large controller into smaller functions #65431
+4205. feat: enable dark mode toggle #4205
