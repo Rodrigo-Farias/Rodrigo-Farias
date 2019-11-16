@@ -445,3 +445,4 @@
 4205. feat: enable dark mode toggle #4205
 23271. refactor: organize models into subfolders #23271
 89139. refactor: remove redundant code blocks #89139
+31613. perf: lazy-load components #31613
