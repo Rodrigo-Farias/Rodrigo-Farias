@@ -447,3 +447,4 @@
 89139. refactor: remove redundant code blocks #89139
 31613. perf: lazy-load components #31613
 89825. perf: optimize database query for quiz results #89825
+43275. docs: write FAQ section #43275
