@@ -450,3 +450,4 @@
 43275. docs: write FAQ section #43275
 25889. feat: enable dark mode toggle #25889
 49170. test: test user registration edge cases #49170
+88977. refactor: split large controller into smaller functions #88977
