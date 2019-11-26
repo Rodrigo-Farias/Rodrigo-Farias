@@ -456,3 +456,4 @@
 48885. chore: update .gitignore #48885
 88239. style: reformat files with black #88239
 53710. refactor: remove redundant code blocks #53710
+81765. test: test user registration edge cases #81765
