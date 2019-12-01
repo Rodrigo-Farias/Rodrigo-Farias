@@ -460,3 +460,4 @@
 8221. style: rename variables for clarity #8221
 70589. feat: support email verification #70589
 91654. style: remove trailing whitespace #91654
+55566. perf: optimize database query for quiz results #55566
