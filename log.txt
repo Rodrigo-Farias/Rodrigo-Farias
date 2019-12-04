@@ -465,3 +465,4 @@
 98890. fix: resolve issue with date parsing #98890
 52669. style: apply consistent indentation #52669
 99070. fix: fix null pointer exception on login #99070
+65602. feat: add export to CSV option #65602
