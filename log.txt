@@ -205,3 +205,4 @@
 9080. style: rename variables for clarity #9080
 99932. chore: add GitHub actions badge #99932
 70132. fix: prevent crash on empty input #70132
+35691. perf: cache repeated calculations #35691
