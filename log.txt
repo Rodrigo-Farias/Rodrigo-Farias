@@ -6,3 +6,4 @@
 94722. docs: clarify environment setup #94722
 38415. docs: document token refresh logic #38415
 81982. docs: update README with setup steps #81982
+52492. chore: add GitHub actions badge #52492
