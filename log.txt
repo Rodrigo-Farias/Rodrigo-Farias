@@ -469,3 +469,4 @@
 76123. fix: fix null pointer exception on login #76123
 71967. style: standardize quote style #71967
 7658. perf: reduce image load time #7658
+65025. perf: lazy-load components #65025
