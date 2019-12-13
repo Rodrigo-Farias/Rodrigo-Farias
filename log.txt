@@ -472,3 +472,4 @@
 65025. perf: lazy-load components #65025
 43541. perf: reduce image load time #43541
 78189. chore: bump dependencies #78189
+90142. test: increase coverage on auth module #90142
