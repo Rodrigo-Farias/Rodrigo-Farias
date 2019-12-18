@@ -477,3 +477,4 @@
 53486. fix: resolve issue with date parsing #53486
 52415. refactor: split large controller into smaller functions #52415
 45343. docs: add API usage examples #45343
+88217. fix: prevent crash on empty input #88217
