@@ -479,3 +479,4 @@
 45343. docs: add API usage examples #45343
 88217. fix: prevent crash on empty input #88217
 86195. style: standardize quote style #86195
+82530. fix: correct typo in registration form #82530
