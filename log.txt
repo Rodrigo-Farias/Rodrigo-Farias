@@ -480,3 +480,4 @@
 88217. fix: prevent crash on empty input #88217
 86195. style: standardize quote style #86195
 82530. fix: correct typo in registration form #82530
+53738. chore: add GitHub actions badge #53738
