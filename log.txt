@@ -485,3 +485,4 @@
 31490. test: add integration test for /submit endpoint #31490
 31939. refactor: refactor quiz grading logic #31939
 8384. docs: clarify environment setup #8384
+71169. fix: fix broken CSS in mobile view #71169
