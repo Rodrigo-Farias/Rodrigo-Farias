@@ -10,3 +10,4 @@
 97252. chore: rename env.example #97252
 86928. docs: add API usage examples #86928
 20144. refactor: organize models into subfolders #20144
+90649. test: test user registration edge cases #90649
