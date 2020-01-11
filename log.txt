@@ -494,3 +494,4 @@
 12984. fix: resolve issue with date parsing #12984
 90896. feat: support email verification #90896
 66463. docs: clarify environment setup #66463
+7024. chore: rename env.example #7024
