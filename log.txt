@@ -497,3 +497,4 @@
 7024. chore: rename env.example #7024
 66743. perf: optimize database query for quiz results #66743
 94525. refactor: refactor quiz grading logic #94525
+27696. chore: add GitHub actions badge #27696
