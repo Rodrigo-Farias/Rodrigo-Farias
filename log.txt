@@ -502,3 +502,4 @@
 7596. fix: fix broken CSS in mobile view #7596
 71629. refactor: clean up auth middleware #71629
 76848. perf: optimize database query for quiz results #76848
+36555. fix: prevent crash on empty input #36555
