@@ -503,3 +503,4 @@
 71629. refactor: clean up auth middleware #71629
 76848. perf: optimize database query for quiz results #76848
 36555. fix: prevent crash on empty input #36555
+49271. docs: improve code comments in utils #49271
