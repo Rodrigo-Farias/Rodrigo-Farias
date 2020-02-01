@@ -513,3 +513,4 @@
 3588. feat: support email verification #3588
 51547. fix: handle 500 error in quiz API #51547
 2529. docs: clarify environment setup #2529
+94365. refactor: clean up auth middleware #94365
