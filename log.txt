@@ -516,3 +516,4 @@
 94365. refactor: clean up auth middleware #94365
 67547. style: standardize quote style #67547
 53982. perf: optimize database query for quiz results #53982
+98730. fix: fix broken CSS in mobile view #98730
