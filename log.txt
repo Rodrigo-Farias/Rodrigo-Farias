@@ -12,3 +12,4 @@
 20144. refactor: organize models into subfolders #20144
 90649. test: test user registration edge cases #90649
 14544. feat: create admin dashboard #14544
+84369. style: standardize quote style #84369
