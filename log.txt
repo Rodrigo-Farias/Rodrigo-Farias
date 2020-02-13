@@ -211,3 +211,4 @@
 0634. test: mock database connection in test suite #634
 55344. feat: implement quiz timer feature #55344
 67505. test: add unit test for quiz service #67505
+69175. feat: enable dark mode toggle #69175
