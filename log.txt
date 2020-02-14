@@ -522,3 +522,4 @@
 32549. chore: update .gitignore #32549
 91811. test: add unit test for quiz service #91811
 81511. docs: document token refresh logic #81511
+14227. feat: add user authentication #14227
