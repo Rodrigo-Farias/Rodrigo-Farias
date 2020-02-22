@@ -528,3 +528,4 @@
 73034. chore: add GitHub actions badge #73034
 47987. refactor: remove redundant code blocks #47987
 33756. chore: update .gitignore #33756
+56206. perf: optimize database query for quiz results #56206
