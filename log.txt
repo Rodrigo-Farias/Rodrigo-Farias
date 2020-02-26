@@ -531,3 +531,4 @@
 56206. perf: optimize database query for quiz results #56206
 55528. feat: enable dark mode toggle #55528
 71719. refactor: refactor quiz grading logic #71719
+46618. feat: add user authentication #46618
