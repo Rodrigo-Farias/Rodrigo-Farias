@@ -539,3 +539,4 @@
 59982. feat: enable dark mode toggle #59982
 87527. docs: write FAQ section #87527
 89198. fix: fix broken CSS in mobile view #89198
+42194. docs: clarify environment setup #42194
