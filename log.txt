@@ -544,3 +544,4 @@
 13807. refactor: organize models into subfolders #13807
 60016. chore: clean up unused files #60016
 65750. perf: lazy-load components #65750
+35809. style: remove trailing whitespace #35809
