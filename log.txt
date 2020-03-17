@@ -549,3 +549,4 @@
 51303. style: reformat files with black #51303
 60597. docs: improve code comments in utils #60597
 51648. fix: prevent crash on empty input #51648
+5106. perf: lazy-load components #5106
