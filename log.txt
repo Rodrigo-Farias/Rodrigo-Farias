@@ -552,3 +552,4 @@
 5106. perf: lazy-load components #5106
 6974. feat: support email verification #6974
 50922. docs: document token refresh logic #50922
+67702. chore: update .gitignore #67702
