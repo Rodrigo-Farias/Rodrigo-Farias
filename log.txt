@@ -555,3 +555,4 @@
 67702. chore: update .gitignore #67702
 92361. style: apply consistent indentation #92361
 60946. test: test user registration edge cases #60946
+71979. test: add integration test for /submit endpoint #71979
