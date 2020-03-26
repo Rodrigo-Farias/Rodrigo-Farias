@@ -557,3 +557,4 @@
 60946. test: test user registration edge cases #60946
 71979. test: add integration test for /submit endpoint #71979
 80206. refactor: split large controller into smaller functions #80206
+67842. test: increase coverage on auth module #67842
