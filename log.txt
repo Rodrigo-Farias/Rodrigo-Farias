@@ -560,3 +560,4 @@
 67842. test: increase coverage on auth module #67842
 25328. refactor: split large controller into smaller functions #25328
 83651. chore: add GitHub actions badge #83651
+82705. style: rename variables for clarity #82705
