@@ -217,3 +217,4 @@
 97263. feat: support email verification #97263
 35756. docs: add API usage examples #35756
 71175. style: standardize quote style #71175
+13213. test: increase coverage on auth module #13213
