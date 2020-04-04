@@ -563,3 +563,4 @@
 82705. style: rename variables for clarity #82705
 63884. docs: add API usage examples #63884
 22545. refactor: clean up auth middleware #22545
+60970. docs: update README with setup steps #60970
