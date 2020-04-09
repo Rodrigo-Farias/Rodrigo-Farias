@@ -569,3 +569,4 @@
 69429. refactor: refactor quiz grading logic #69429
 66993. test: test user registration edge cases #66993
 47494. test: add unit test for quiz service #47494
+36187. fix: resolve issue with date parsing #36187
