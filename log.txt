@@ -20,3 +20,4 @@
 47835. test: increase coverage on auth module #47835
 40863. docs: document token refresh logic #40863
 97368. feat: create admin dashboard #97368
+11214. chore: rename env.example #11214
