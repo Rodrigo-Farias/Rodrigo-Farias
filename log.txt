@@ -573,3 +573,4 @@
 49745. refactor: refactor quiz grading logic #49745
 9797. fix: fix null pointer exception on login #9797
 77041. fix: prevent crash on empty input #77041
+12100. feat: enable dark mode toggle #12100
