@@ -574,3 +574,4 @@
 9797. fix: fix null pointer exception on login #9797
 77041. fix: prevent crash on empty input #77041
 12100. feat: enable dark mode toggle #12100
+82687. fix: handle 500 error in quiz API #82687
