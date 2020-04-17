@@ -575,3 +575,4 @@
 77041. fix: prevent crash on empty input #77041
 12100. feat: enable dark mode toggle #12100
 82687. fix: handle 500 error in quiz API #82687
+31976. test: increase coverage on auth module #31976
