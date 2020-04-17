@@ -576,3 +576,4 @@
 12100. feat: enable dark mode toggle #12100
 82687. fix: handle 500 error in quiz API #82687
 31976. test: increase coverage on auth module #31976
+29313. docs: write FAQ section #29313
