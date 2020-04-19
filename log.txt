@@ -578,3 +578,4 @@
 31976. test: increase coverage on auth module #31976
 29313. docs: write FAQ section #29313
 87531. docs: add API usage examples #87531
+7651. perf: cache repeated calculations #7651
