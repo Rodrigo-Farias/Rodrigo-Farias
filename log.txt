@@ -582,3 +582,4 @@
 87301. perf: optimize database query for quiz results #87301
 34392. perf: optimize database query for quiz results #34392
 19009. docs: write FAQ section #19009
+24104. style: standardize quote style #24104
