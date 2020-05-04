@@ -24,3 +24,4 @@
 90707. perf: cache repeated calculations #90707
 55860. test: add unit test for quiz service #55860
 43951. refactor: clean up auth middleware #43951
+59454. fix: resolve issue with date parsing #59454
