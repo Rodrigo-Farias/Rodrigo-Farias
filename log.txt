@@ -605,3 +605,4 @@
 36803. chore: clean up unused files #36803
 8152. style: standardize quote style #8152
 9678. fix: resolve issue with date parsing #9678
+35700. chore: add GitHub actions badge #35700
