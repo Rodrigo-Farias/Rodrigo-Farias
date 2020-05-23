@@ -612,3 +612,4 @@
 31386. chore: update .gitignore #31386
 24079. test: increase coverage on auth module #24079
 44887. feat: add export to CSV option #44887
+10818. fix: correct typo in registration form #10818
