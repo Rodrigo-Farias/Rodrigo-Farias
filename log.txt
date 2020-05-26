@@ -25,3 +25,4 @@
 55860. test: add unit test for quiz service #55860
 43951. refactor: clean up auth middleware #43951
 59454. fix: resolve issue with date parsing #59454
+77489. fix: fix broken CSS in mobile view #77489
