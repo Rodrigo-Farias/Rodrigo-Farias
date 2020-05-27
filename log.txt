@@ -615,3 +615,4 @@
 10818. fix: correct typo in registration form #10818
 45529. perf: lazy-load components #45529
 95588. feat: implement quiz timer feature #95588
+79343. chore: clean up unused files #79343
