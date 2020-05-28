@@ -26,3 +26,4 @@
 43951. refactor: clean up auth middleware #43951
 59454. fix: resolve issue with date parsing #59454
 77489. fix: fix broken CSS in mobile view #77489
+34014. feat: add user authentication #34014
