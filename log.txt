@@ -222,3 +222,4 @@
 62184. refactor: split large controller into smaller functions #62184
 49383. docs: clarify environment setup #49383
 62225. test: increase coverage on auth module #62225
+81965. perf: reduce image load time #81965
