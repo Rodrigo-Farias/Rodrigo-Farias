@@ -620,3 +620,4 @@
 77713. chore: add GitHub actions badge #77713
 74059. fix: resolve issue with date parsing #74059
 54425. refactor: clean up auth middleware #54425
+7722. fix: prevent crash on empty input #7722
