@@ -223,3 +223,4 @@
 49383. docs: clarify environment setup #49383
 62225. test: increase coverage on auth module #62225
 81965. perf: reduce image load time #81965
+19242. refactor: clean up auth middleware #19242
