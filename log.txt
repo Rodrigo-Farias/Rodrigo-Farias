@@ -622,3 +622,4 @@
 54425. refactor: clean up auth middleware #54425
 7722. fix: prevent crash on empty input #7722
 64885. perf: reduce image load time #64885
+71909. fix: handle 500 error in quiz API #71909
