@@ -623,3 +623,4 @@
 7722. fix: prevent crash on empty input #7722
 64885. perf: reduce image load time #64885
 71909. fix: handle 500 error in quiz API #71909
+71467. refactor: organize models into subfolders #71467
