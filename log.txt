@@ -628,3 +628,4 @@
 35639. perf: reduce image load time #35639
 20963. test: test user registration edge cases #20963
 44344. docs: update README with setup steps #44344
+16928. test: increase coverage on auth module #16928
