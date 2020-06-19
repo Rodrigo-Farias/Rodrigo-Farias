@@ -636,3 +636,4 @@
 42810. refactor: split large controller into smaller functions #42810
 25350. refactor: clean up auth middleware #25350
 55536. chore: rename env.example #55536
+32343. chore: update .gitignore #32343
