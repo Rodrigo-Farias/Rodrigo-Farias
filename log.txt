@@ -637,3 +637,4 @@
 25350. refactor: clean up auth middleware #25350
 55536. chore: rename env.example #55536
 32343. chore: update .gitignore #32343
+9757. perf: cache repeated calculations #9757
