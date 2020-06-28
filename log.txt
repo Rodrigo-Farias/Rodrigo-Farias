@@ -642,3 +642,4 @@
 51615. refactor: refactor quiz grading logic #51615
 5695. perf: reduce image load time #5695
 40707. docs: write FAQ section #40707
+37801. docs: update README with setup steps #37801
