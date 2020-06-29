@@ -643,3 +643,4 @@
 5695. perf: reduce image load time #5695
 40707. docs: write FAQ section #40707
 37801. docs: update README with setup steps #37801
+13808. style: remove trailing whitespace #13808
