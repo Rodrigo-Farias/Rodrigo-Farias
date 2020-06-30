@@ -227,3 +227,4 @@
 71528. test: mock database connection in test suite #71528
 90297. refactor: split large controller into smaller functions #90297
 3990. fix: fix null pointer exception on login #3990
+59524. perf: lazy-load components #59524
