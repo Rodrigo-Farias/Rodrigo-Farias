@@ -645,3 +645,4 @@
 37801. docs: update README with setup steps #37801
 13808. style: remove trailing whitespace #13808
 89982. refactor: refactor quiz grading logic #89982
+95296. chore: add GitHub actions badge #95296
