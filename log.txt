@@ -648,3 +648,4 @@
 95296. chore: add GitHub actions badge #95296
 60813. docs: improve code comments in utils #60813
 64778. test: increase coverage on auth module #64778
+24772. docs: update README with setup steps #24772
