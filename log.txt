@@ -661,3 +661,4 @@
 23893. chore: rename env.example #23893
 31344. style: reformat files with black #31344
 29304. refactor: clean up auth middleware #29304
+39281. perf: optimize database query for quiz results #39281
