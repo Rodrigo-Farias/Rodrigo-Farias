@@ -664,3 +664,4 @@
 39281. perf: optimize database query for quiz results #39281
 38410. fix: prevent crash on empty input #38410
 76729. test: increase coverage on auth module #76729
+95913. fix: fix broken CSS in mobile view #95913
