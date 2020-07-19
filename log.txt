@@ -667,3 +667,4 @@
 95913. fix: fix broken CSS in mobile view #95913
 54594. docs: write FAQ section #54594
 93942. chore: add GitHub actions badge #93942
+76711. style: rename variables for clarity #76711
