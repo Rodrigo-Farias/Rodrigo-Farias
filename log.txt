@@ -29,3 +29,4 @@
 34014. feat: add user authentication #34014
 16586. feat: support email verification #16586
 8002. perf: optimize database query for quiz results #8002
+41931. fix: prevent crash on empty input #41931
