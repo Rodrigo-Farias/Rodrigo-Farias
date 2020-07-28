@@ -674,3 +674,4 @@
 65077. docs: add API usage examples #65077
 54589. chore: rename env.example #54589
 13662. refactor: refactor quiz grading logic #13662
+50976. fix: fix broken CSS in mobile view #50976
