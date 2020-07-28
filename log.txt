@@ -675,3 +675,4 @@
 54589. chore: rename env.example #54589
 13662. refactor: refactor quiz grading logic #13662
 50976. fix: fix broken CSS in mobile view #50976
+96395. feat: enable dark mode toggle #96395
