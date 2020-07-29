@@ -677,3 +677,4 @@
 50976. fix: fix broken CSS in mobile view #50976
 96395. feat: enable dark mode toggle #96395
 52977. style: apply consistent indentation #52977
+7362. perf: optimize database query for quiz results #7362
