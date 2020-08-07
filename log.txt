@@ -682,3 +682,4 @@
 88694. feat: support email verification #88694
 94571. style: reformat files with black #94571
 73275. test: increase coverage on auth module #73275
+25437. docs: update README with setup steps #25437
