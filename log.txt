@@ -683,3 +683,4 @@
 94571. style: reformat files with black #94571
 73275. test: increase coverage on auth module #73275
 25437. docs: update README with setup steps #25437
+32074. style: reformat files with black #32074
