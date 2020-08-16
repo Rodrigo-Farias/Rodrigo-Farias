@@ -693,3 +693,4 @@
 61584. chore: bump dependencies #61584
 48304. perf: lazy-load components #48304
 63665. fix: correct typo in registration form #63665
+46490. perf: cache repeated calculations #46490
