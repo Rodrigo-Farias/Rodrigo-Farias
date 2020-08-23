@@ -699,3 +699,4 @@
 99665. style: remove trailing whitespace #99665
 41289. fix: fix broken CSS in mobile view #41289
 99810. feat: support email verification #99810
+56552. style: standardize quote style #56552
