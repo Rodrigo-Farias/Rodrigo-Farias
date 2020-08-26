@@ -704,3 +704,4 @@
 76274. refactor: organize models into subfolders #76274
 82753. chore: bump dependencies #82753
 94117. refactor: clean up auth middleware #94117
+39178. test: mock database connection in test suite #39178
