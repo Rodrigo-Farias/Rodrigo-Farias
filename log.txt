@@ -35,3 +35,4 @@
 87663. docs: clarify environment setup #87663
 69966. refactor: split large controller into smaller functions #69966
 7647. style: standardize quote style #7647
+90195. perf: lazy-load components #90195
