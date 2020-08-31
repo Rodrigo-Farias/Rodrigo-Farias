@@ -709,3 +709,4 @@
 33947. docs: write FAQ section #33947
 40390. perf: reduce image load time #40390
 56580. test: mock database connection in test suite #56580
+76232. refactor: refactor quiz grading logic #76232
