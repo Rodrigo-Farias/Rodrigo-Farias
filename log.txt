@@ -715,3 +715,4 @@
 67892. perf: cache repeated calculations #67892
 78737. chore: rename env.example #78737
 31620. perf: optimize database query for quiz results #31620
+22541. docs: write FAQ section #22541
