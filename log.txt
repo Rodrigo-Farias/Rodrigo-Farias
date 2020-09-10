@@ -718,3 +718,4 @@
 22541. docs: write FAQ section #22541
 49438. test: test user registration edge cases #49438
 67877. chore: rename env.example #67877
+95195. chore: add GitHub actions badge #95195
