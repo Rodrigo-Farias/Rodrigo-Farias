@@ -722,3 +722,4 @@
 25989. style: apply consistent indentation #25989
 14407. test: add integration test for /submit endpoint #14407
 95182. style: standardize quote style #95182
+71243. fix: handle 500 error in quiz API #71243
