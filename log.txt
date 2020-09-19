@@ -239,3 +239,4 @@
 86026. test: add integration test for /submit endpoint #86026
 13749. refactor: remove redundant code blocks #13749
 68605. style: standardize quote style #68605
+13834. docs: document token refresh logic #13834
