@@ -38,3 +38,4 @@
 90195. perf: lazy-load components #90195
 18278. style: apply consistent indentation #18278
 52655. test: mock database connection in test suite #52655
+42830. perf: cache repeated calculations #42830
