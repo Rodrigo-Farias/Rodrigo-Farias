@@ -732,3 +732,4 @@
 8258. test: add unit test for quiz service #8258
 91450. feat: create admin dashboard #91450
 17179. fix: prevent crash on empty input #17179
+43134. test: test user registration edge cases #43134
