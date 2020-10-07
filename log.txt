@@ -40,3 +40,4 @@
 52655. test: mock database connection in test suite #52655
 42830. perf: cache repeated calculations #42830
 84051. fix: correct typo in registration form #84051
+99256. refactor: split large controller into smaller functions #99256
