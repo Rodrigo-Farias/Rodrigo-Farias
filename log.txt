@@ -42,3 +42,4 @@
 84051. fix: correct typo in registration form #84051
 99256. refactor: split large controller into smaller functions #99256
 68461. perf: cache repeated calculations #68461
+42697. feat: support email verification #42697
