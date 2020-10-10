@@ -738,3 +738,4 @@
 74598. docs: write FAQ section #74598
 35827. perf: lazy-load components #35827
 51568. docs: write FAQ section #51568
+66275. feat: add user authentication #66275
