@@ -741,3 +741,4 @@
 66275. feat: add user authentication #66275
 23783. refactor: split large controller into smaller functions #23783
 18552. docs: add API usage examples #18552
+73216. style: remove trailing whitespace #73216
