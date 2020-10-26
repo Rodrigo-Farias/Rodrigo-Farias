@@ -749,3 +749,4 @@
 46548. perf: reduce image load time #46548
 49821. style: remove trailing whitespace #49821
 70533. perf: reduce image load time #70533
+88396. fix: handle 500 error in quiz API #88396
