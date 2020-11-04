@@ -762,3 +762,4 @@
 76424. style: standardize quote style #76424
 17926. style: standardize quote style #17926
 59787. refactor: remove redundant code blocks #59787
+17669. test: increase coverage on auth module #17669
