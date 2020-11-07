@@ -764,3 +764,4 @@
 59787. refactor: remove redundant code blocks #59787
 17669. test: increase coverage on auth module #17669
 94514. test: test user registration edge cases #94514
+82430. perf: reduce image load time #82430
