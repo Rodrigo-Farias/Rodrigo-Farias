@@ -44,3 +44,4 @@
 68461. perf: cache repeated calculations #68461
 42697. feat: support email verification #42697
 27202. style: rename variables for clarity #27202
+2894. feat: create admin dashboard #2894
