@@ -771,3 +771,4 @@
 55751. feat: create admin dashboard #55751
 44567. test: add unit test for quiz service #44567
 57214. refactor: organize models into subfolders #57214
+19670. fix: fix null pointer exception on login #19670
