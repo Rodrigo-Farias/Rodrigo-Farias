@@ -773,3 +773,4 @@
 57214. refactor: organize models into subfolders #57214
 19670. fix: fix null pointer exception on login #19670
 91174. fix: handle 500 error in quiz API #91174
+71706. fix: prevent crash on empty input #71706
