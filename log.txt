@@ -776,3 +776,4 @@
 71706. fix: prevent crash on empty input #71706
 17588. style: reformat files with black #17588
 46244. style: remove trailing whitespace #46244
+75469. style: rename variables for clarity #75469
