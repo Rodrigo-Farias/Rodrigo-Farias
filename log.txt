@@ -775,3 +775,4 @@
 91174. fix: handle 500 error in quiz API #91174
 71706. fix: prevent crash on empty input #71706
 17588. style: reformat files with black #17588
+46244. style: remove trailing whitespace #46244
