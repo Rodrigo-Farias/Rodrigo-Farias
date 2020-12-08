@@ -47,3 +47,4 @@
 2894. feat: create admin dashboard #2894
 51058. refactor: organize models into subfolders #51058
 40545. refactor: clean up auth middleware #40545
+77896. chore: add GitHub actions badge #77896
