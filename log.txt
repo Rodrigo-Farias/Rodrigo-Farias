@@ -786,3 +786,4 @@
 21151. perf: reduce image load time #21151
 52999. test: increase coverage on auth module #52999
 86684. docs: improve code comments in utils #86684
+63409. fix: prevent crash on empty input #63409
