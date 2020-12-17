@@ -790,3 +790,4 @@
 24470. docs: update README with setup steps #24470
 59321. feat: implement quiz timer feature #59321
 6749. style: apply consistent indentation #6749
+37080. perf: reduce image load time #37080
