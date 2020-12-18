@@ -792,3 +792,4 @@
 6749. style: apply consistent indentation #6749
 37080. perf: reduce image load time #37080
 90131. perf: optimize database query for quiz results #90131
+9596. docs: improve code comments in utils #9596
