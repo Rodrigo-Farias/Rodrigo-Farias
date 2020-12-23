@@ -797,3 +797,4 @@
 73877. test: test user registration edge cases #73877
 98061. docs: update README with setup steps #98061
 94737. chore: add GitHub actions badge #94737
+83636. perf: lazy-load components #83636
