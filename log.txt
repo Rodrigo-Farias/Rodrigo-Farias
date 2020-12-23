@@ -799,3 +799,4 @@
 94737. chore: add GitHub actions badge #94737
 83636. perf: lazy-load components #83636
 74880. docs: update README with setup steps #74880
+0047. fix: handle 500 error in quiz API #47
