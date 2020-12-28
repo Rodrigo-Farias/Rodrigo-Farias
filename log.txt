@@ -801,3 +801,4 @@
 74880. docs: update README with setup steps #74880
 0047. fix: handle 500 error in quiz API #47
 70306. docs: document token refresh logic #70306
+89268. refactor: clean up auth middleware #89268
