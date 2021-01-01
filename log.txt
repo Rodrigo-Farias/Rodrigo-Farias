@@ -803,3 +803,4 @@
 70306. docs: document token refresh logic #70306
 89268. refactor: clean up auth middleware #89268
 16808. feat: implement quiz timer feature #16808
+11088. feat: support email verification #11088
