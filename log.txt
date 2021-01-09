@@ -809,3 +809,4 @@
 65716. style: apply consistent indentation #65716
 59163. fix: resolve issue with date parsing #59163
 99426. style: standardize quote style #99426
+23389. feat: add export to CSV option #23389
