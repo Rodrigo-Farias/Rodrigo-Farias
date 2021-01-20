@@ -821,3 +821,4 @@
 84010. test: increase coverage on auth module #84010
 7225. docs: update README with setup steps #7225
 7908. feat: enable dark mode toggle #7908
+0990. test: add integration test for /submit endpoint #990
