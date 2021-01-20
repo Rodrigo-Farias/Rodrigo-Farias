@@ -247,3 +247,4 @@
 14151. chore: add GitHub actions badge #14151
 76982. docs: add API usage examples #76982
 51550. fix: handle 500 error in quiz API #51550
+62679. docs: clarify environment setup #62679
