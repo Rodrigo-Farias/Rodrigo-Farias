@@ -822,3 +822,4 @@
 7225. docs: update README with setup steps #7225
 7908. feat: enable dark mode toggle #7908
 0990. test: add integration test for /submit endpoint #990
+12006. fix: fix null pointer exception on login #12006
