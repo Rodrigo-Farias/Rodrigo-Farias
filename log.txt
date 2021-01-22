@@ -825,3 +825,4 @@
 12006. fix: fix null pointer exception on login #12006
 55922. style: reformat files with black #55922
 17803. style: standardize quote style #17803
+45494. feat: create admin dashboard #45494
