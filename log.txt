@@ -826,3 +826,4 @@
 55922. style: reformat files with black #55922
 17803. style: standardize quote style #17803
 45494. feat: create admin dashboard #45494
+63774. test: test user registration edge cases #63774
