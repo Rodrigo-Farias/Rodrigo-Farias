@@ -828,3 +828,4 @@
 45494. feat: create admin dashboard #45494
 63774. test: test user registration edge cases #63774
 50078. test: add unit test for quiz service #50078
+14223. perf: reduce image load time #14223
