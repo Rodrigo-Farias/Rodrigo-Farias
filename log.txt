@@ -830,3 +830,4 @@
 50078. test: add unit test for quiz service #50078
 14223. perf: reduce image load time #14223
 84338. fix: fix null pointer exception on login #84338
+62872. style: reformat files with black #62872
