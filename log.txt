@@ -832,3 +832,4 @@
 84338. fix: fix null pointer exception on login #84338
 62872. style: reformat files with black #62872
 78212. perf: optimize database query for quiz results #78212
+51166. perf: reduce image load time #51166
