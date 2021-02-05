@@ -838,3 +838,4 @@
 47148. docs: update README with setup steps #47148
 98507. style: rename variables for clarity #98507
 17274. perf: lazy-load components #17274
+43598. chore: update .gitignore #43598
