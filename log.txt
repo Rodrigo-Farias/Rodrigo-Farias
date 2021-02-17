@@ -249,3 +249,4 @@
 51550. fix: handle 500 error in quiz API #51550
 62679. docs: clarify environment setup #62679
 26826. refactor: remove redundant code blocks #26826
+71800. test: increase coverage on auth module #71800
