@@ -846,3 +846,4 @@
 48128. style: rename variables for clarity #48128
 67998. docs: update README with setup steps #67998
 2751. fix: resolve issue with date parsing #2751
+1494. test: increase coverage on auth module #1494
