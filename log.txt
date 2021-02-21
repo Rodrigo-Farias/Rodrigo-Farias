@@ -848,3 +848,4 @@
 2751. fix: resolve issue with date parsing #2751
 1494. test: increase coverage on auth module #1494
 84036. style: reformat files with black #84036
+46920. fix: correct typo in registration form #46920
