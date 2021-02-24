@@ -250,3 +250,4 @@
 62679. docs: clarify environment setup #62679
 26826. refactor: remove redundant code blocks #26826
 71800. test: increase coverage on auth module #71800
+93804. style: apply consistent indentation #93804
