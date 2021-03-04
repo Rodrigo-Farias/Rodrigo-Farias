@@ -859,3 +859,4 @@
 81759. perf: cache repeated calculations #81759
 6920. fix: prevent crash on empty input #6920
 60567. style: reformat files with black #60567
+73286. perf: lazy-load components #73286
