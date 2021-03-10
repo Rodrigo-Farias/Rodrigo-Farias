@@ -864,3 +864,4 @@
 15401. docs: document token refresh logic #15401
 60376. feat: implement quiz timer feature #60376
 39457. docs: improve code comments in utils #39457
+40896. perf: reduce image load time #40896
