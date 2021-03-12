@@ -867,3 +867,4 @@
 40896. perf: reduce image load time #40896
 16552. style: remove trailing whitespace #16552
 30641. fix: fix null pointer exception on login #30641
+59134. style: reformat files with black #59134
