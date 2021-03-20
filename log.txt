@@ -54,3 +54,4 @@
 68340. style: reformat files with black #68340
 63947. test: mock database connection in test suite #63947
 88704. style: apply consistent indentation #88704
+78372. docs: clarify environment setup #78372
