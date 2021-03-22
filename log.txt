@@ -875,3 +875,4 @@
 52749. refactor: refactor quiz grading logic #52749
 21974. style: standardize quote style #21974
 44243. docs: add API usage examples #44243
+41218. fix: fix null pointer exception on login #41218
