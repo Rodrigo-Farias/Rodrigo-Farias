@@ -878,3 +878,4 @@
 41218. fix: fix null pointer exception on login #41218
 40594. chore: clean up unused files #40594
 49765. chore: add GitHub actions badge #49765
+52928. fix: fix null pointer exception on login #52928
