@@ -882,3 +882,4 @@
 11010. fix: correct typo in registration form #11010
 64261. fix: resolve issue with date parsing #64261
 21715. feat: implement quiz timer feature #21715
+12237. fix: correct typo in registration form #12237
