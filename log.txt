@@ -885,3 +885,4 @@
 12237. fix: correct typo in registration form #12237
 11086. chore: add GitHub actions badge #11086
 23689. chore: update .gitignore #23689
+34986. perf: lazy-load components #34986
