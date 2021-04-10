@@ -57,3 +57,4 @@
 78372. docs: clarify environment setup #78372
 15239. feat: create admin dashboard #15239
 66423. style: rename variables for clarity #66423
+49086. docs: write FAQ section #49086
