@@ -58,3 +58,4 @@
 15239. feat: create admin dashboard #15239
 66423. style: rename variables for clarity #66423
 49086. docs: write FAQ section #49086
+66813. feat: create admin dashboard #66813
