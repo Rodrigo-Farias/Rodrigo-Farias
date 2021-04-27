@@ -910,3 +910,4 @@
 99131. style: reformat files with black #99131
 76336. test: add integration test for /submit endpoint #76336
 40563. test: add integration test for /submit endpoint #40563
+94057. test: test user registration edge cases #94057
