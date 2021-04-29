@@ -914,3 +914,4 @@
 92121. docs: clarify environment setup #92121
 37741. docs: write FAQ section #37741
 5635. test: add integration test for /submit endpoint #5635
+62514. feat: add user authentication #62514
