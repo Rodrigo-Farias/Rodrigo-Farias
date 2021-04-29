@@ -912,3 +912,4 @@
 40563. test: add integration test for /submit endpoint #40563
 94057. test: test user registration edge cases #94057
 92121. docs: clarify environment setup #92121
+37741. docs: write FAQ section #37741
