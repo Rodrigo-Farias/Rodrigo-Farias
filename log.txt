@@ -916,3 +916,4 @@
 5635. test: add integration test for /submit endpoint #5635
 62514. feat: add user authentication #62514
 28992. feat: add user authentication #28992
+10534. perf: lazy-load components #10534
