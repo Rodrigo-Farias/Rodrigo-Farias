@@ -254,3 +254,4 @@
 25902. fix: prevent crash on empty input #25902
 82203. style: apply consistent indentation #82203
 82538. perf: reduce image load time #82538
+79401. feat: support email verification #79401
