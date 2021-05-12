@@ -923,3 +923,4 @@
 78246. chore: update .gitignore #78246
 9777. test: increase coverage on auth module #9777
 57814. feat: create admin dashboard #57814
+60565. perf: reduce image load time #60565
