@@ -60,3 +60,4 @@
 49086. docs: write FAQ section #49086
 66813. feat: create admin dashboard #66813
 20175. feat: add user authentication #20175
+40822. refactor: refactor quiz grading logic #40822
