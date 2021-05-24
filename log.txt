@@ -930,3 +930,4 @@
 47266. refactor: split large controller into smaller functions #47266
 63889. refactor: organize models into subfolders #63889
 26736. test: increase coverage on auth module #26736
+45737. docs: write FAQ section #45737
