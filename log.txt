@@ -932,3 +932,4 @@
 26736. test: increase coverage on auth module #26736
 45737. docs: write FAQ section #45737
 62545. test: increase coverage on auth module #62545
+61929. style: remove trailing whitespace #61929
