@@ -62,3 +62,4 @@
 20175. feat: add user authentication #20175
 40822. refactor: refactor quiz grading logic #40822
 63256. refactor: clean up auth middleware #63256
+52210. feat: support email verification #52210
