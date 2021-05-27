@@ -935,3 +935,4 @@
 61929. style: remove trailing whitespace #61929
 83925. feat: add export to CSV option #83925
 81106. feat: enable dark mode toggle #81106
+32938. style: standardize quote style #32938
