@@ -937,3 +937,4 @@
 81106. feat: enable dark mode toggle #81106
 32938. style: standardize quote style #32938
 53494. perf: cache repeated calculations #53494
+65753. style: apply consistent indentation #65753
