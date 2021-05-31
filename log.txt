@@ -939,3 +939,4 @@
 53494. perf: cache repeated calculations #53494
 65753. style: apply consistent indentation #65753
 75712. feat: add export to CSV option #75712
+82447. refactor: refactor quiz grading logic #82447
