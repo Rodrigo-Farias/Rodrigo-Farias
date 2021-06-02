@@ -942,3 +942,4 @@
 82447. refactor: refactor quiz grading logic #82447
 61717. fix: fix broken CSS in mobile view #61717
 70044. refactor: split large controller into smaller functions #70044
+10017. fix: fix null pointer exception on login #10017
