@@ -943,3 +943,4 @@
 61717. fix: fix broken CSS in mobile view #61717
 70044. refactor: split large controller into smaller functions #70044
 10017. fix: fix null pointer exception on login #10017
+25903. feat: support email verification #25903
