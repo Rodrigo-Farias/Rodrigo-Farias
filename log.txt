@@ -64,3 +64,4 @@
 63256. refactor: clean up auth middleware #63256
 52210. feat: support email verification #52210
 91757. feat: implement quiz timer feature #91757
+51274. fix: correct typo in registration form #51274
