@@ -948,3 +948,4 @@
 59193. test: add integration test for /submit endpoint #59193
 17471. fix: fix null pointer exception on login #17471
 25206. docs: document token refresh logic #25206
+39754. test: increase coverage on auth module #39754
