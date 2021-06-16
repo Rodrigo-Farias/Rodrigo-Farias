@@ -952,3 +952,4 @@
 52020. style: remove trailing whitespace #52020
 31712. style: remove trailing whitespace #31712
 58748. docs: clarify environment setup #58748
+80345. fix: handle 500 error in quiz API #80345
