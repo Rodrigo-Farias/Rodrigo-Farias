@@ -261,3 +261,4 @@
 3474. fix: handle 500 error in quiz API #3474
 16930. test: test user registration edge cases #16930
 76387. chore: rename env.example #76387
+37317. perf: cache repeated calculations #37317
