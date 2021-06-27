@@ -958,3 +958,4 @@
 50833. refactor: remove redundant code blocks #50833
 16641. chore: clean up unused files #16641
 12066. docs: clarify environment setup #12066
+51861. perf: lazy-load components #51861
