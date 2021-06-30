@@ -961,3 +961,4 @@
 51861. perf: lazy-load components #51861
 46767. feat: implement quiz timer feature #46767
 29571. chore: clean up unused files #29571
+98265. perf: optimize database query for quiz results #98265
