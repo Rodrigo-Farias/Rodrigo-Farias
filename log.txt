@@ -969,3 +969,4 @@
 54474. chore: add GitHub actions badge #54474
 71294. style: standardize quote style #71294
 2691. style: rename variables for clarity #2691
+66110. docs: write FAQ section #66110
