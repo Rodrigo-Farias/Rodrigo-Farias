@@ -972,3 +972,4 @@
 66110. docs: write FAQ section #66110
 27655. chore: update .gitignore #27655
 25276. chore: rename env.example #25276
+47307. refactor: remove redundant code blocks #47307
