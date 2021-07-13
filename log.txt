@@ -975,3 +975,4 @@
 47307. refactor: remove redundant code blocks #47307
 80862. fix: fix null pointer exception on login #80862
 22058. refactor: clean up auth middleware #22058
+18604. test: test user registration edge cases #18604
