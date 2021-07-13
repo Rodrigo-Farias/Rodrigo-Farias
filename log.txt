@@ -263,3 +263,4 @@
 76387. chore: rename env.example #76387
 37317. perf: cache repeated calculations #37317
 9025. style: apply consistent indentation #9025
+73948. chore: add GitHub actions badge #73948
