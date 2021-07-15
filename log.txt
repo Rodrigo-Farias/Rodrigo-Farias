@@ -977,3 +977,4 @@
 22058. refactor: clean up auth middleware #22058
 18604. test: test user registration edge cases #18604
 68355. feat: add user authentication #68355
+61449. refactor: organize models into subfolders #61449
