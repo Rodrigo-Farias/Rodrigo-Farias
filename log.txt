@@ -978,3 +978,4 @@
 18604. test: test user registration edge cases #18604
 68355. feat: add user authentication #68355
 61449. refactor: organize models into subfolders #61449
+3419. test: increase coverage on auth module #3419
