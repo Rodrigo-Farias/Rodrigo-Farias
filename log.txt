@@ -980,3 +980,4 @@
 61449. refactor: organize models into subfolders #61449
 3419. test: increase coverage on auth module #3419
 65723. style: apply consistent indentation #65723
+85219. fix: handle 500 error in quiz API #85219
