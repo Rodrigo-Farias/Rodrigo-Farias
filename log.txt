@@ -985,3 +985,4 @@
 66525. docs: update README with setup steps #66525
 21268. chore: add GitHub actions badge #21268
 52269. feat: support email verification #52269
+6645. fix: prevent crash on empty input #6645
