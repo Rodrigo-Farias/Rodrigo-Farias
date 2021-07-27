@@ -986,3 +986,4 @@
 21268. chore: add GitHub actions badge #21268
 52269. feat: support email verification #52269
 6645. fix: prevent crash on empty input #6645
+35343. feat: create admin dashboard #35343
