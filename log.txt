@@ -988,3 +988,4 @@
 6645. fix: prevent crash on empty input #6645
 35343. feat: create admin dashboard #35343
 61445. feat: create admin dashboard #61445
+24034. refactor: organize models into subfolders #24034
