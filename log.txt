@@ -989,3 +989,4 @@
 35343. feat: create admin dashboard #35343
 61445. feat: create admin dashboard #61445
 24034. refactor: organize models into subfolders #24034
+78312. test: mock database connection in test suite #78312
