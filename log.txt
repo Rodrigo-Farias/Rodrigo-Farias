@@ -993,3 +993,4 @@
 22548. feat: implement quiz timer feature #22548
 82677. perf: cache repeated calculations #82677
 15162. feat: implement quiz timer feature #15162
+64177. fix: fix broken CSS in mobile view #64177
