@@ -1001,3 +1001,4 @@
 38769. feat: implement quiz timer feature #38769
 81862. test: add unit test for quiz service #81862
 31316. test: test user registration edge cases #31316
+25462. feat: support email verification #25462
