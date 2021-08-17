@@ -69,3 +69,4 @@
 18335. chore: rename env.example #18335
 56878. refactor: split large controller into smaller functions #56878
 92529. perf: lazy-load components #92529
+17521. style: reformat files with black #17521
