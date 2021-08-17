@@ -1005,3 +1005,4 @@
 32020. feat: create admin dashboard #32020
 99199. feat: add export to CSV option #99199
 28712. fix: correct typo in registration form #28712
+66460. style: reformat files with black #66460
