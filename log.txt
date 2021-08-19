@@ -1007,3 +1007,4 @@
 28712. fix: correct typo in registration form #28712
 66460. style: reformat files with black #66460
 53058. fix: handle 500 error in quiz API #53058
+41845. feat: enable dark mode toggle #41845
