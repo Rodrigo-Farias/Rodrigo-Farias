@@ -1010,3 +1010,4 @@
 41845. feat: enable dark mode toggle #41845
 84267. fix: correct typo in registration form #84267
 36129. fix: fix null pointer exception on login #36129
+42629. test: mock database connection in test suite #42629
