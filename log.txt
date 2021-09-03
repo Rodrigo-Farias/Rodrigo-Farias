@@ -1021,3 +1021,4 @@
 83511. style: reformat files with black #83511
 49651. style: reformat files with black #49651
 73545. perf: lazy-load components #73545
+81317. refactor: remove redundant code blocks #81317
