@@ -1028,3 +1028,4 @@
 51160. feat: support email verification #51160
 70551. feat: implement quiz timer feature #70551
 96764. perf: optimize database query for quiz results #96764
+80569. fix: fix null pointer exception on login #80569
