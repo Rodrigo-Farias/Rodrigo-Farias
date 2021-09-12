@@ -1030,3 +1030,4 @@
 96764. perf: optimize database query for quiz results #96764
 80569. fix: fix null pointer exception on login #80569
 5754. feat: support email verification #5754
+27368. test: mock database connection in test suite #27368
