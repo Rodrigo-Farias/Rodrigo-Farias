@@ -1033,3 +1033,4 @@
 27368. test: mock database connection in test suite #27368
 69873. feat: create admin dashboard #69873
 25451. test: increase coverage on auth module #25451
+81422. chore: add GitHub actions badge #81422
