@@ -1036,3 +1036,4 @@
 81422. chore: add GitHub actions badge #81422
 24207. feat: support email verification #24207
 95265. style: standardize quote style #95265
+71356. style: apply consistent indentation #71356
