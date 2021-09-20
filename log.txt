@@ -1038,3 +1038,4 @@
 95265. style: standardize quote style #95265
 71356. style: apply consistent indentation #71356
 10843. perf: lazy-load components #10843
+59048. perf: reduce image load time #59048
