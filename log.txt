@@ -1043,3 +1043,4 @@
 89266. refactor: clean up auth middleware #89266
 73643. test: add integration test for /submit endpoint #73643
 81167. perf: reduce image load time #81167
+17550. fix: fix null pointer exception on login #17550
