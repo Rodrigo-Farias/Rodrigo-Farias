@@ -72,3 +72,4 @@
 17521. style: reformat files with black #17521
 4605. chore: bump dependencies #4605
 12214. docs: clarify environment setup #12214
+79535. fix: handle 500 error in quiz API #79535
