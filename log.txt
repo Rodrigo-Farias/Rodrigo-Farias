@@ -272,3 +272,4 @@
 82981. docs: add API usage examples #82981
 13211. docs: improve code comments in utils #13211
 54497. perf: lazy-load components #54497
+60259. fix: prevent crash on empty input #60259
