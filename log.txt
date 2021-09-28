@@ -1050,3 +1050,4 @@
 99935. feat: create admin dashboard #99935
 17695. feat: add export to CSV option #17695
 9184. perf: cache repeated calculations #9184
+56506. perf: reduce image load time #56506
