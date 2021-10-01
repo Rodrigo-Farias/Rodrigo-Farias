@@ -1057,3 +1057,4 @@
 64198. refactor: clean up auth middleware #64198
 77190. perf: cache repeated calculations #77190
 54386. test: add unit test for quiz service #54386
+88828. test: mock database connection in test suite #88828
