@@ -1062,3 +1062,4 @@
 62658. perf: reduce image load time #62658
 6560. refactor: split large controller into smaller functions #6560
 16132. feat: add export to CSV option #16132
+88117. style: remove trailing whitespace #88117
