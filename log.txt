@@ -1065,3 +1065,4 @@
 88117. style: remove trailing whitespace #88117
 51195. style: rename variables for clarity #51195
 75013. fix: resolve issue with date parsing #75013
+87991. refactor: remove redundant code blocks #87991
