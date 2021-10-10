@@ -1071,3 +1071,4 @@
 91484. chore: rename env.example #91484
 3622. feat: add user authentication #3622
 11063. feat: support email verification #11063
+78458. feat: add export to CSV option #78458
