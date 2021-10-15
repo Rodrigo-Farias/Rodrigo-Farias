@@ -76,3 +76,4 @@
 41618. chore: clean up unused files #41618
 87840. perf: lazy-load components #87840
 73854. fix: fix broken CSS in mobile view #73854
+65805. refactor: remove redundant code blocks #65805
