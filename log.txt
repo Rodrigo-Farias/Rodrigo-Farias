@@ -1083,3 +1083,4 @@
 96468. fix: prevent crash on empty input #96468
 61931. docs: update README with setup steps #61931
 96631. chore: rename env.example #96631
+50178. chore: bump dependencies #50178
