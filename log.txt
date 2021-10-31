@@ -1087,3 +1087,4 @@
 32391. feat: add export to CSV option #32391
 29147. test: add unit test for quiz service #29147
 4984. style: apply consistent indentation #4984
+46298. perf: lazy-load components #46298
