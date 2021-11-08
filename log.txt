@@ -1094,3 +1094,4 @@
 45639. chore: rename env.example #45639
 42289. chore: rename env.example #42289
 38615. feat: add export to CSV option #38615
+8420. docs: write FAQ section #8420
