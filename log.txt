@@ -1103,3 +1103,4 @@
 83944. style: standardize quote style #83944
 42573. chore: update .gitignore #42573
 71789. feat: add export to CSV option #71789
+84490. refactor: organize models into subfolders #84490
