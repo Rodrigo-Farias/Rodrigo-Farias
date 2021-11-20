@@ -1106,3 +1106,4 @@
 84490. refactor: organize models into subfolders #84490
 71523. feat: create admin dashboard #71523
 95828. fix: correct typo in registration form #95828
+83263. test: add unit test for quiz service #83263
