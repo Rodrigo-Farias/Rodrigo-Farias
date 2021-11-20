@@ -1107,3 +1107,4 @@
 71523. feat: create admin dashboard #71523
 95828. fix: correct typo in registration form #95828
 83263. test: add unit test for quiz service #83263
+50670. chore: bump dependencies #50670
