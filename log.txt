@@ -1110,3 +1110,4 @@
 50670. chore: bump dependencies #50670
 51899. test: add integration test for /submit endpoint #51899
 22797. perf: cache repeated calculations #22797
+38254. fix: correct typo in registration form #38254
