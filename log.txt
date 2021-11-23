@@ -276,3 +276,4 @@
 72602. chore: rename env.example #72602
 11139. feat: implement quiz timer feature #11139
 0825. chore: rename env.example #825
+29196. chore: add GitHub actions badge #29196
