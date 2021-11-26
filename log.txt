@@ -1114,3 +1114,4 @@
 38601. docs: write FAQ section #38601
 98008. perf: reduce image load time #98008
 77673. refactor: clean up auth middleware #77673
+56102. test: test user registration edge cases #56102
