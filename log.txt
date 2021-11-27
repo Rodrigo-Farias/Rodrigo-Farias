@@ -1117,3 +1117,4 @@
 56102. test: test user registration edge cases #56102
 90245. test: add unit test for quiz service #90245
 27298. perf: lazy-load components #27298
+3888. perf: lazy-load components #3888
