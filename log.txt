@@ -1118,3 +1118,4 @@
 90245. test: add unit test for quiz service #90245
 27298. perf: lazy-load components #27298
 3888. perf: lazy-load components #3888
+50651. test: mock database connection in test suite #50651
