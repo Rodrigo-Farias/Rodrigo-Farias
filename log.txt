@@ -1120,3 +1120,4 @@
 3888. perf: lazy-load components #3888
 50651. test: mock database connection in test suite #50651
 59661. refactor: remove redundant code blocks #59661
+0051. test: test user registration edge cases #51
