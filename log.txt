@@ -1122,3 +1122,4 @@
 59661. refactor: remove redundant code blocks #59661
 0051. test: test user registration edge cases #51
 81547. test: increase coverage on auth module #81547
+5720. docs: document token refresh logic #5720
