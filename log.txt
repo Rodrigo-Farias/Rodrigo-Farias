@@ -1127,3 +1127,4 @@
 8730. docs: document token refresh logic #8730
 47524. style: remove trailing whitespace #47524
 22671. fix: fix broken CSS in mobile view #22671
+38181. fix: fix null pointer exception on login #38181
