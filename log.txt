@@ -1126,3 +1126,4 @@
 42484. test: add integration test for /submit endpoint #42484
 8730. docs: document token refresh logic #8730
 47524. style: remove trailing whitespace #47524
+22671. fix: fix broken CSS in mobile view #22671
