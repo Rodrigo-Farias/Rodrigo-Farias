@@ -1131,3 +1131,4 @@
 23565. chore: rename env.example #23565
 8294. perf: optimize database query for quiz results #8294
 30925. test: mock database connection in test suite #30925
+93076. fix: handle 500 error in quiz API #93076
