@@ -82,3 +82,4 @@
 26307. feat: enable dark mode toggle #26307
 53731. feat: add user authentication #53731
 88945. fix: correct typo in registration form #88945
+89780. fix: correct typo in registration form #89780
