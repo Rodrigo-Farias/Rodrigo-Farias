@@ -83,3 +83,4 @@
 53731. feat: add user authentication #53731
 88945. fix: correct typo in registration form #88945
 89780. fix: correct typo in registration form #89780
+49872. style: reformat files with black #49872
