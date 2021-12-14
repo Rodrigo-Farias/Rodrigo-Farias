@@ -1134,3 +1134,4 @@
 93076. fix: handle 500 error in quiz API #93076
 7492. fix: fix broken CSS in mobile view #7492
 37743. feat: add export to CSV option #37743
+8271. docs: update README with setup steps #8271
