@@ -1146,3 +1146,4 @@
 4759. perf: optimize database query for quiz results #4759
 35503. perf: optimize database query for quiz results #35503
 96759. feat: add export to CSV option #96759
+59021. style: reformat files with black #59021
