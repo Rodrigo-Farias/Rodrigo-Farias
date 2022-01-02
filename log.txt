@@ -1154,3 +1154,4 @@
 16693. chore: bump dependencies #16693
 91695. test: mock database connection in test suite #91695
 85313. feat: create admin dashboard #85313
+2522. style: apply consistent indentation #2522
