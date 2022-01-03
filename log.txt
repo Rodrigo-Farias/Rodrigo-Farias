@@ -1157,3 +1157,4 @@
 2522. style: apply consistent indentation #2522
 7188. test: mock database connection in test suite #7188
 36282. chore: rename env.example #36282
+31173. test: test user registration edge cases #31173
