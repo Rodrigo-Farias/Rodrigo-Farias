@@ -1158,3 +1158,4 @@
 7188. test: mock database connection in test suite #7188
 36282. chore: rename env.example #36282
 31173. test: test user registration edge cases #31173
+72891. test: add integration test for /submit endpoint #72891
