@@ -1176,3 +1176,4 @@
 30325. perf: reduce image load time #30325
 10852. test: add integration test for /submit endpoint #10852
 11058. test: test user registration edge cases #11058
+16671. fix: handle 500 error in quiz API #16671
