@@ -86,3 +86,4 @@
 49872. style: reformat files with black #49872
 61657. fix: prevent crash on empty input #61657
 40311. test: increase coverage on auth module #40311
+18063. feat: add export to CSV option #18063
