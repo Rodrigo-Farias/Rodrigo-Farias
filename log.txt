@@ -1179,3 +1179,4 @@
 16671. fix: handle 500 error in quiz API #16671
 25139. test: add unit test for quiz service #25139
 14049. test: test user registration edge cases #14049
+35376. chore: clean up unused files #35376
