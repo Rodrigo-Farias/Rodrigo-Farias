@@ -1181,3 +1181,4 @@
 14049. test: test user registration edge cases #14049
 35376. chore: clean up unused files #35376
 17145. style: reformat files with black #17145
+6682. chore: add GitHub actions badge #6682
