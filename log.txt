@@ -1185,3 +1185,4 @@
 86751. chore: clean up unused files #86751
 48538. chore: clean up unused files #48538
 78522. test: increase coverage on auth module #78522
+92404. feat: add export to CSV option #92404
