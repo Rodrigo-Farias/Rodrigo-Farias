@@ -1184,3 +1184,4 @@
 6682. chore: add GitHub actions badge #6682
 86751. chore: clean up unused files #86751
 48538. chore: clean up unused files #48538
+78522. test: increase coverage on auth module #78522
