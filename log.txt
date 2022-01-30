@@ -1189,3 +1189,4 @@
 7186. perf: lazy-load components #7186
 42219. test: mock database connection in test suite #42219
 36519. chore: bump dependencies #36519
+67563. refactor: organize models into subfolders #67563
