@@ -1191,3 +1191,4 @@
 36519. chore: bump dependencies #36519
 67563. refactor: organize models into subfolders #67563
 44696. perf: optimize database query for quiz results #44696
+76605. style: reformat files with black #76605
