@@ -1194,3 +1194,4 @@
 76605. style: reformat files with black #76605
 49163. refactor: clean up auth middleware #49163
 54031. fix: fix broken CSS in mobile view #54031
+0310. test: add integration test for /submit endpoint #310
