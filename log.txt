@@ -1197,3 +1197,4 @@
 0310. test: add integration test for /submit endpoint #310
 61969. style: apply consistent indentation #61969
 48397. refactor: remove redundant code blocks #48397
+80571. test: add unit test for quiz service #80571
