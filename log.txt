@@ -1199,3 +1199,4 @@
 48397. refactor: remove redundant code blocks #48397
 80571. test: add unit test for quiz service #80571
 88243. docs: clarify environment setup #88243
+98700. fix: fix null pointer exception on login #98700
