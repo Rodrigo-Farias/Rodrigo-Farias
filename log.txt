@@ -1204,3 +1204,4 @@
 31134. perf: optimize database query for quiz results #31134
 85181. fix: fix null pointer exception on login #85181
 96862. fix: correct typo in registration form #96862
+81988. fix: resolve issue with date parsing #81988
