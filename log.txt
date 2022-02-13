@@ -1205,3 +1205,4 @@
 85181. fix: fix null pointer exception on login #85181
 96862. fix: correct typo in registration form #96862
 81988. fix: resolve issue with date parsing #81988
+2362. style: apply consistent indentation #2362
