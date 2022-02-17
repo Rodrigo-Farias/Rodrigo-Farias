@@ -1208,3 +1208,4 @@
 2362. style: apply consistent indentation #2362
 76868. chore: add GitHub actions badge #76868
 67861. style: reformat files with black #67861
+96798. test: mock database connection in test suite #96798
