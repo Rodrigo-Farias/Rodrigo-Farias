@@ -1211,3 +1211,4 @@
 96798. test: mock database connection in test suite #96798
 78157. feat: add export to CSV option #78157
 97485. docs: improve code comments in utils #97485
+23536. perf: optimize database query for quiz results #23536
