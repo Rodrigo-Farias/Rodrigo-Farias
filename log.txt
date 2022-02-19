@@ -287,3 +287,4 @@
 16014. chore: bump dependencies #16014
 81344. docs: update README with setup steps #81344
 32267. style: standardize quote style #32267
+7097. chore: add GitHub actions badge #7097
