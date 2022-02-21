@@ -1215,3 +1215,4 @@
 21067. test: add integration test for /submit endpoint #21067
 94808. fix: correct typo in registration form #94808
 89868. feat: support email verification #89868
+90172. feat: enable dark mode toggle #90172
