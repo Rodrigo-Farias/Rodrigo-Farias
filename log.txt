@@ -1221,3 +1221,4 @@
 99291. perf: lazy-load components #99291
 72236. docs: document token refresh logic #72236
 9870. chore: clean up unused files #9870
+87907. chore: update .gitignore #87907
