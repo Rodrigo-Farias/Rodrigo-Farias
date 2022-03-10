@@ -1224,3 +1224,4 @@
 87907. chore: update .gitignore #87907
 76968. feat: create admin dashboard #76968
 54424. style: apply consistent indentation #54424
+48513. fix: resolve issue with date parsing #48513
