@@ -1225,3 +1225,4 @@
 76968. feat: create admin dashboard #76968
 54424. style: apply consistent indentation #54424
 48513. fix: resolve issue with date parsing #48513
+18723. perf: reduce image load time #18723
