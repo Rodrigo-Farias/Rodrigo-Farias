@@ -1231,3 +1231,4 @@
 45845. docs: clarify environment setup #45845
 51249. style: rename variables for clarity #51249
 88481. perf: optimize database query for quiz results #88481
+40768. docs: write FAQ section #40768
