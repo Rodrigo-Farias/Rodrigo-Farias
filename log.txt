@@ -1233,3 +1233,4 @@
 88481. perf: optimize database query for quiz results #88481
 40768. docs: write FAQ section #40768
 49697. style: reformat files with black #49697
+18061. test: mock database connection in test suite #18061
