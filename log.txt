@@ -88,3 +88,4 @@
 40311. test: increase coverage on auth module #40311
 18063. feat: add export to CSV option #18063
 5643. test: increase coverage on auth module #5643
+51346. perf: optimize database query for quiz results #51346
