@@ -1244,3 +1244,4 @@
 16725. fix: correct typo in registration form #16725
 84929. test: test user registration edge cases #84929
 84928. fix: correct typo in registration form #84928
+50696. refactor: remove redundant code blocks #50696
