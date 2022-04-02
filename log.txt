@@ -1246,3 +1246,4 @@
 84928. fix: correct typo in registration form #84928
 50696. refactor: remove redundant code blocks #50696
 58828. docs: document token refresh logic #58828
+5667. refactor: clean up auth middleware #5667
