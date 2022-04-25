@@ -1261,3 +1261,4 @@
 3435. perf: lazy-load components #3435
 41102. test: add integration test for /submit endpoint #41102
 62303. test: add unit test for quiz service #62303
+49980. fix: fix broken CSS in mobile view #49980
