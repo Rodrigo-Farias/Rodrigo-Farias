@@ -1263,3 +1263,4 @@
 62303. test: add unit test for quiz service #62303
 49980. fix: fix broken CSS in mobile view #49980
 40324. test: increase coverage on auth module #40324
+31412. perf: reduce image load time #31412
