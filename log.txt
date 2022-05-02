@@ -1269,3 +1269,4 @@
 60872. refactor: remove redundant code blocks #60872
 8825. style: apply consistent indentation #8825
 30082. chore: bump dependencies #30082
+79851. perf: reduce image load time #79851
