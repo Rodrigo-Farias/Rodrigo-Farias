@@ -1272,3 +1272,4 @@
 79851. perf: reduce image load time #79851
 42095. perf: lazy-load components #42095
 40554. test: increase coverage on auth module #40554
+88989. chore: rename env.example #88989
