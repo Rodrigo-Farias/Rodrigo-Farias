@@ -1275,3 +1275,4 @@
 88989. chore: rename env.example #88989
 97258. feat: enable dark mode toggle #97258
 64396. feat: add user authentication #64396
+64300. feat: add export to CSV option #64300
