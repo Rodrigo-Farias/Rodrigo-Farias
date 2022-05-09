@@ -93,3 +93,4 @@
 75542. style: apply consistent indentation #75542
 40411. test: add unit test for quiz service #40411
 69541. style: remove trailing whitespace #69541
+87773. test: increase coverage on auth module #87773
