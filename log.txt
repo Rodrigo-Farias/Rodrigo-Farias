@@ -1278,3 +1278,4 @@
 64300. feat: add export to CSV option #64300
 54087. test: increase coverage on auth module #54087
 56043. feat: enable dark mode toggle #56043
+59619. style: standardize quote style #59619
