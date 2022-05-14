@@ -292,3 +292,4 @@
 94972. docs: update README with setup steps #94972
 38931. refactor: remove redundant code blocks #38931
 47292. chore: add GitHub actions badge #47292
+33755. feat: add user authentication #33755
