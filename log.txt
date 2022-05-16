@@ -1285,3 +1285,4 @@
 20993. style: reformat files with black #20993
 69849. perf: optimize database query for quiz results #69849
 57595. perf: optimize database query for quiz results #57595
+18182. fix: resolve issue with date parsing #18182
