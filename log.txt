@@ -1288,3 +1288,4 @@
 18182. fix: resolve issue with date parsing #18182
 22037. chore: clean up unused files #22037
 21052. feat: add user authentication #21052
+30634. refactor: clean up auth middleware #30634
