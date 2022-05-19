@@ -1290,3 +1290,4 @@
 21052. feat: add user authentication #21052
 30634. refactor: clean up auth middleware #30634
 82802. test: increase coverage on auth module #82802
+72533. refactor: organize models into subfolders #72533
