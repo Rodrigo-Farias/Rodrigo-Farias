@@ -1292,3 +1292,4 @@
 82802. test: increase coverage on auth module #82802
 72533. refactor: organize models into subfolders #72533
 88103. test: test user registration edge cases #88103
+19043. fix: fix broken CSS in mobile view #19043
