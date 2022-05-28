@@ -1297,3 +1297,4 @@
 79792. chore: bump dependencies #79792
 61484. test: add unit test for quiz service #61484
 47958. feat: implement quiz timer feature #47958
+42383. test: increase coverage on auth module #42383
