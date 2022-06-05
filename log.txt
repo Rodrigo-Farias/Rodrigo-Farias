@@ -1305,3 +1305,4 @@
 1097. test: add integration test for /submit endpoint #1097
 91834. fix: correct typo in registration form #91834
 8357. chore: rename env.example #8357
+73735. test: add unit test for quiz service #73735
