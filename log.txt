@@ -96,3 +96,4 @@
 87773. test: increase coverage on auth module #87773
 73055. test: add unit test for quiz service #73055
 55996. perf: lazy-load components #55996
+80807. refactor: clean up auth middleware #80807
