@@ -100,3 +100,4 @@
 69389. docs: update README with setup steps #69389
 89827. docs: document token refresh logic #89827
 5884. test: increase coverage on auth module #5884
+8594. style: apply consistent indentation #8594
