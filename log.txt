@@ -1323,3 +1323,4 @@
 97236. refactor: remove redundant code blocks #97236
 81892. perf: lazy-load components #81892
 54506. refactor: clean up auth middleware #54506
+47677. docs: document token refresh logic #47677
