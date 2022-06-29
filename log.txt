@@ -296,3 +296,4 @@
 60306. style: reformat files with black #60306
 39805. chore: update .gitignore #39805
 36524. fix: fix null pointer exception on login #36524
+56747. refactor: refactor quiz grading logic #56747
