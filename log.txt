@@ -1329,3 +1329,4 @@
 11175. feat: support email verification #11175
 8772. docs: add API usage examples #8772
 6447. feat: create admin dashboard #6447
+40555. chore: add GitHub actions badge #40555
