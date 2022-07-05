@@ -1333,3 +1333,4 @@
 2132. chore: rename env.example #2132
 63692. fix: correct typo in registration form #63692
 33394. test: add integration test for /submit endpoint #33394
+4322. test: mock database connection in test suite #4322
