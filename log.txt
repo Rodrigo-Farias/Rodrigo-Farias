@@ -298,3 +298,4 @@
 36524. fix: fix null pointer exception on login #36524
 56747. refactor: refactor quiz grading logic #56747
 60917. chore: bump dependencies #60917
+5515. perf: optimize database query for quiz results #5515
