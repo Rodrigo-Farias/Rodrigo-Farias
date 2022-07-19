@@ -102,3 +102,4 @@
 5884. test: increase coverage on auth module #5884
 8594. style: apply consistent indentation #8594
 40524. chore: clean up unused files #40524
+99451. perf: lazy-load components #99451
