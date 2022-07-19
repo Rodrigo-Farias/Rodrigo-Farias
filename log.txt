@@ -1345,3 +1345,4 @@
 96845. refactor: refactor quiz grading logic #96845
 48172. refactor: organize models into subfolders #48172
 17955. refactor: remove redundant code blocks #17955
+95308. chore: add GitHub actions badge #95308
