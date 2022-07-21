@@ -1349,3 +1349,4 @@
 43379. test: add unit test for quiz service #43379
 34305. fix: fix broken CSS in mobile view #34305
 42077. perf: cache repeated calculations #42077
+54347. fix: correct typo in registration form #54347
