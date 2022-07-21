@@ -1347,3 +1347,4 @@
 17955. refactor: remove redundant code blocks #17955
 95308. chore: add GitHub actions badge #95308
 43379. test: add unit test for quiz service #43379
+34305. fix: fix broken CSS in mobile view #34305
