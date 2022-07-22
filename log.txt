@@ -1351,3 +1351,4 @@
 42077. perf: cache repeated calculations #42077
 54347. fix: correct typo in registration form #54347
 61412. docs: improve code comments in utils #61412
+61573. fix: fix broken CSS in mobile view #61573
