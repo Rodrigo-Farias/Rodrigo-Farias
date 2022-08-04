@@ -1361,3 +1361,4 @@
 45602. test: add unit test for quiz service #45602
 64927. feat: add user authentication #64927
 44559. chore: rename env.example #44559
+54306. fix: prevent crash on empty input #54306
