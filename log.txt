@@ -1364,3 +1364,4 @@
 54306. fix: prevent crash on empty input #54306
 19066. chore: bump dependencies #19066
 36107. style: rename variables for clarity #36107
+46737. perf: lazy-load components #46737
