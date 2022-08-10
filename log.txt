@@ -1368,3 +1368,4 @@
 99853. chore: rename env.example #99853
 37266. chore: clean up unused files #37266
 17482. fix: fix broken CSS in mobile view #17482
+24519. test: test user registration edge cases #24519
