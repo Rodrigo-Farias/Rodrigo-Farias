@@ -1370,3 +1370,4 @@
 17482. fix: fix broken CSS in mobile view #17482
 24519. test: test user registration edge cases #24519
 3496. chore: clean up unused files #3496
+55030. test: add integration test for /submit endpoint #55030
