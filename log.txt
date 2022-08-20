@@ -103,3 +103,4 @@
 8594. style: apply consistent indentation #8594
 40524. chore: clean up unused files #40524
 99451. perf: lazy-load components #99451
+22728. refactor: split large controller into smaller functions #22728
