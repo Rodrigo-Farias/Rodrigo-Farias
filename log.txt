@@ -1389,3 +1389,4 @@
 12386. test: add integration test for /submit endpoint #12386
 93891. test: increase coverage on auth module #93891
 28392. feat: create admin dashboard #28392
+80747. style: remove trailing whitespace #80747
