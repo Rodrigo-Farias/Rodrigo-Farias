@@ -1391,3 +1391,4 @@
 28392. feat: create admin dashboard #28392
 80747. style: remove trailing whitespace #80747
 50208. chore: bump dependencies #50208
+76817. test: mock database connection in test suite #76817
