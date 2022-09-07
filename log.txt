@@ -1395,3 +1395,4 @@
 97906. style: apply consistent indentation #97906
 43269. refactor: refactor quiz grading logic #43269
 71120. style: remove trailing whitespace #71120
+97499. fix: handle 500 error in quiz API #97499
