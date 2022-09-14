@@ -105,3 +105,4 @@
 99451. perf: lazy-load components #99451
 22728. refactor: split large controller into smaller functions #22728
 62702. test: mock database connection in test suite #62702
+7734. feat: support email verification #7734
