@@ -1402,3 +1402,4 @@
 98431. perf: lazy-load components #98431
 25939. refactor: organize models into subfolders #25939
 71680. docs: document token refresh logic #71680
+64524. refactor: clean up auth middleware #64524
