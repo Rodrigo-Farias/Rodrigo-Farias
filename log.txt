@@ -1404,3 +1404,4 @@
 71680. docs: document token refresh logic #71680
 64524. refactor: clean up auth middleware #64524
 17475. style: apply consistent indentation #17475
+73473. chore: add GitHub actions badge #73473
