@@ -1406,3 +1406,4 @@
 17475. style: apply consistent indentation #17475
 73473. chore: add GitHub actions badge #73473
 10107. docs: update README with setup steps #10107
+98542. fix: fix broken CSS in mobile view #98542
