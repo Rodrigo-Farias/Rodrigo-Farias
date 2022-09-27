@@ -1408,3 +1408,4 @@
 10107. docs: update README with setup steps #10107
 98542. fix: fix broken CSS in mobile view #98542
 63539. style: reformat files with black #63539
+44535. fix: handle 500 error in quiz API #44535
