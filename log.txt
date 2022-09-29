@@ -1410,3 +1410,4 @@
 63539. style: reformat files with black #63539
 44535. fix: handle 500 error in quiz API #44535
 75186. perf: reduce image load time #75186
+37873. feat: create admin dashboard #37873
