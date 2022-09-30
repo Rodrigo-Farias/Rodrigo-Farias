@@ -1411,3 +1411,4 @@
 44535. fix: handle 500 error in quiz API #44535
 75186. perf: reduce image load time #75186
 37873. feat: create admin dashboard #37873
+32246. feat: implement quiz timer feature #32246
