@@ -1413,3 +1413,4 @@
 37873. feat: create admin dashboard #37873
 32246. feat: implement quiz timer feature #32246
 88641. feat: enable dark mode toggle #88641
+22849. fix: handle 500 error in quiz API #22849
