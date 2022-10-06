@@ -1415,3 +1415,4 @@
 88641. feat: enable dark mode toggle #88641
 22849. fix: handle 500 error in quiz API #22849
 42242. chore: rename env.example #42242
+83033. style: reformat files with black #83033
