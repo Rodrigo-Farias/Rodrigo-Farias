@@ -1417,3 +1417,4 @@
 42242. chore: rename env.example #42242
 83033. style: reformat files with black #83033
 40949. chore: update .gitignore #40949
+9692. style: remove trailing whitespace #9692
