@@ -1429,3 +1429,4 @@
 59834. docs: improve code comments in utils #59834
 6093. refactor: organize models into subfolders #6093
 86316. test: mock database connection in test suite #86316
+57204. fix: handle 500 error in quiz API #57204
