@@ -109,3 +109,4 @@
 35459. perf: cache repeated calculations #35459
 35661. perf: cache repeated calculations #35661
 65319. feat: add user authentication #65319
+1262. chore: bump dependencies #1262
