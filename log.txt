@@ -1432,3 +1432,4 @@
 57204. fix: handle 500 error in quiz API #57204
 4421. test: add unit test for quiz service #4421
 24973. style: reformat files with black #24973
+4600. feat: support email verification #4600
