@@ -1440,3 +1440,4 @@
 12262. docs: add API usage examples #12262
 32973. refactor: clean up auth middleware #32973
 38973. refactor: clean up auth middleware #38973
+28132. test: test user registration edge cases #28132
