@@ -1442,3 +1442,4 @@
 38973. refactor: clean up auth middleware #38973
 28132. test: test user registration edge cases #28132
 1344. chore: bump dependencies #1344
+20410. feat: support email verification #20410
