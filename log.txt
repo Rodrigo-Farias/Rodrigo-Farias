@@ -111,3 +111,4 @@
 65319. feat: add user authentication #65319
 1262. chore: bump dependencies #1262
 88427. fix: fix null pointer exception on login #88427
+41977. perf: lazy-load components #41977
