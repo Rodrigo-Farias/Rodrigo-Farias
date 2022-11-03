@@ -112,3 +112,4 @@
 1262. chore: bump dependencies #1262
 88427. fix: fix null pointer exception on login #88427
 41977. perf: lazy-load components #41977
+99079. perf: reduce image load time #99079
