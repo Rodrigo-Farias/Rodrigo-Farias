@@ -1448,3 +1448,4 @@
 84362. style: remove trailing whitespace #84362
 32137. style: standardize quote style #32137
 45008. chore: update .gitignore #45008
+81343. perf: lazy-load components #81343
