@@ -1460,3 +1460,4 @@
 20334. perf: lazy-load components #20334
 89994. style: apply consistent indentation #89994
 4147. perf: cache repeated calculations #4147
+61984. docs: add API usage examples #61984
