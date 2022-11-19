@@ -1462,3 +1462,4 @@
 4147. perf: cache repeated calculations #4147
 61984. docs: add API usage examples #61984
 79413. feat: create admin dashboard #79413
+82856. refactor: organize models into subfolders #82856
