@@ -1475,3 +1475,4 @@
 85003. perf: lazy-load components #85003
 54838. perf: cache repeated calculations #54838
 18659. test: add integration test for /submit endpoint #18659
+19011. perf: lazy-load components #19011
