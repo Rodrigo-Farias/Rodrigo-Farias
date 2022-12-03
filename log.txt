@@ -1479,3 +1479,4 @@
 0169. docs: write FAQ section #169
 96926. test: mock database connection in test suite #96926
 54512. style: standardize quote style #54512
+98884. fix: fix broken CSS in mobile view #98884
