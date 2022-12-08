@@ -1483,3 +1483,4 @@
 5133. feat: implement quiz timer feature #5133
 2757. feat: implement quiz timer feature #2757
 61256. refactor: organize models into subfolders #61256
+59338. test: increase coverage on auth module #59338
