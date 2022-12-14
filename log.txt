@@ -1489,3 +1489,4 @@
 55570. test: increase coverage on auth module #55570
 57943. style: reformat files with black #57943
 11340. feat: add export to CSV option #11340
+37160. test: add integration test for /submit endpoint #37160
