@@ -1494,3 +1494,4 @@
 42574. refactor: organize models into subfolders #42574
 55085. style: reformat files with black #55085
 23089. refactor: organize models into subfolders #23089
+60438. test: increase coverage on auth module #60438
