@@ -1498,3 +1498,4 @@
 89743. style: reformat files with black #89743
 76579. refactor: split large controller into smaller functions #76579
 47589. refactor: clean up auth middleware #47589
+41314. fix: prevent crash on empty input #41314
