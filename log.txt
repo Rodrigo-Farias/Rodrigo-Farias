@@ -1513,3 +1513,4 @@
 67099. test: test user registration edge cases #67099
 38696. test: increase coverage on auth module #38696
 26511. style: standardize quote style #26511
+19986. feat: create admin dashboard #19986
