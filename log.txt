@@ -1512,3 +1512,4 @@
 37872. refactor: refactor quiz grading logic #37872
 67099. test: test user registration edge cases #67099
 38696. test: increase coverage on auth module #38696
+26511. style: standardize quote style #26511
