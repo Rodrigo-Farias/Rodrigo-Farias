@@ -1515,3 +1515,4 @@
 26511. style: standardize quote style #26511
 19986. feat: create admin dashboard #19986
 33517. refactor: split large controller into smaller functions #33517
+96638. style: reformat files with black #96638
