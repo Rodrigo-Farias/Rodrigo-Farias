@@ -1522,3 +1522,4 @@
 7776. feat: add user authentication #7776
 74294. refactor: remove redundant code blocks #74294
 90887. test: test user registration edge cases #90887
+2139. chore: update .gitignore #2139
