@@ -1527,3 +1527,4 @@
 16643. docs: add API usage examples #16643
 75973. docs: add API usage examples #75973
 60497. docs: add API usage examples #60497
+0656. test: test user registration edge cases #656
