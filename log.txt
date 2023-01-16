@@ -1531,3 +1531,4 @@
 20539. refactor: organize models into subfolders #20539
 66708. docs: update README with setup steps #66708
 60577. refactor: split large controller into smaller functions #60577
+65737. docs: document token refresh logic #65737
