@@ -1551,3 +1551,4 @@
 7267. feat: enable dark mode toggle #7267
 6879. chore: rename env.example #6879
 44727. perf: lazy-load components #44727
+4249. perf: reduce image load time #4249
