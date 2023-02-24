@@ -1563,3 +1563,4 @@
 28293. refactor: split large controller into smaller functions #28293
 89342. chore: add GitHub actions badge #89342
 83630. chore: rename env.example #83630
+96661. feat: add user authentication #96661
