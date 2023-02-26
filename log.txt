@@ -316,3 +316,4 @@
 32830. perf: cache repeated calculations #32830
 28831. feat: create admin dashboard #28831
 44655. docs: add API usage examples #44655
+79813. feat: support email verification #79813
