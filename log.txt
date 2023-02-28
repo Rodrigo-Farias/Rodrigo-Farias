@@ -1566,3 +1566,4 @@
 96661. feat: add user authentication #96661
 28275. refactor: remove redundant code blocks #28275
 72772. feat: add export to CSV option #72772
+66331. fix: handle 500 error in quiz API #66331
