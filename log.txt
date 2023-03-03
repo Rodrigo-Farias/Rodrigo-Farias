@@ -1573,3 +1573,4 @@
 32045. test: increase coverage on auth module #32045
 9652. chore: bump dependencies #9652
 25990. chore: update .gitignore #25990
+63975. fix: correct typo in registration form #63975
