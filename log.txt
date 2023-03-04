@@ -1574,3 +1574,4 @@
 9652. chore: bump dependencies #9652
 25990. chore: update .gitignore #25990
 63975. fix: correct typo in registration form #63975
+51400. feat: create admin dashboard #51400
