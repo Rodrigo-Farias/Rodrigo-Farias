@@ -1582,3 +1582,4 @@
 23334. feat: enable dark mode toggle #23334
 46807. test: add unit test for quiz service #46807
 44235. perf: cache repeated calculations #44235
+5549. test: test user registration edge cases #5549
