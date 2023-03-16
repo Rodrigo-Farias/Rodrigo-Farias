@@ -1588,3 +1588,4 @@
 56594. refactor: refactor quiz grading logic #56594
 9230. perf: optimize database query for quiz results #9230
 39541. fix: prevent crash on empty input #39541
+96933. test: add integration test for /submit endpoint #96933
