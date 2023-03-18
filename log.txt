@@ -1589,3 +1589,4 @@
 9230. perf: optimize database query for quiz results #9230
 39541. fix: prevent crash on empty input #39541
 96933. test: add integration test for /submit endpoint #96933
+51566. feat: add export to CSV option #51566
