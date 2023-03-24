@@ -1596,3 +1596,4 @@
 34952. chore: rename env.example #34952
 31653. docs: clarify environment setup #31653
 83697. docs: clarify environment setup #83697
+60026. fix: handle 500 error in quiz API #60026
