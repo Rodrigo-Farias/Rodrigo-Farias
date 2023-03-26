@@ -1598,3 +1598,4 @@
 83697. docs: clarify environment setup #83697
 60026. fix: handle 500 error in quiz API #60026
 50254. perf: reduce image load time #50254
+85844. chore: update .gitignore #85844
