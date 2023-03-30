@@ -1605,3 +1605,4 @@
 61626. perf: cache repeated calculations #61626
 33570. fix: fix null pointer exception on login #33570
 74084. chore: update .gitignore #74084
+70013. fix: fix broken CSS in mobile view #70013
