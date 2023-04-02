@@ -1607,3 +1607,4 @@
 74084. chore: update .gitignore #74084
 70013. fix: fix broken CSS in mobile view #70013
 8480. fix: handle 500 error in quiz API #8480
+44121. feat: add user authentication #44121
