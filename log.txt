@@ -1611,3 +1611,4 @@
 88226. perf: optimize database query for quiz results #88226
 52203. style: reformat files with black #52203
 14670. style: reformat files with black #14670
+24043. test: increase coverage on auth module #24043
