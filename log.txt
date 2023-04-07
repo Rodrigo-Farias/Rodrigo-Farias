@@ -321,3 +321,4 @@
 50076. feat: support email verification #50076
 69360. perf: reduce image load time #69360
 51314. perf: lazy-load components #51314
+99934. docs: document token refresh logic #99934
