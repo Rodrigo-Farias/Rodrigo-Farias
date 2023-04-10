@@ -1612,3 +1612,4 @@
 52203. style: reformat files with black #52203
 14670. style: reformat files with black #14670
 24043. test: increase coverage on auth module #24043
+35877. fix: resolve issue with date parsing #35877
