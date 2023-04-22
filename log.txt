@@ -1620,3 +1620,4 @@
 39474. test: add integration test for /submit endpoint #39474
 0392. refactor: refactor quiz grading logic #392
 97652. chore: rename env.example #97652
+13339. feat: support email verification #13339
