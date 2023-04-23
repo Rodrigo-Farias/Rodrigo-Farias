@@ -121,3 +121,4 @@
 45667. fix: fix null pointer exception on login #45667
 79281. fix: correct typo in registration form #79281
 28143. perf: lazy-load components #28143
+72742. perf: lazy-load components #72742
