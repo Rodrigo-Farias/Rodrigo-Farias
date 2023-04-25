@@ -1622,3 +1622,4 @@
 97652. chore: rename env.example #97652
 13339. feat: support email verification #13339
 88824. test: test user registration edge cases #88824
+56455. docs: document token refresh logic #56455
