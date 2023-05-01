@@ -122,3 +122,4 @@
 79281. fix: correct typo in registration form #79281
 28143. perf: lazy-load components #28143
 72742. perf: lazy-load components #72742
+23698. test: increase coverage on auth module #23698
