@@ -1631,3 +1631,4 @@
 92093. feat: implement quiz timer feature #92093
 30447. fix: fix null pointer exception on login #30447
 2598. style: reformat files with black #2598
+86013. perf: lazy-load components #86013
