@@ -1636,3 +1636,4 @@
 73862. docs: update README with setup steps #73862
 12724. docs: add API usage examples #12724
 41988. docs: update README with setup steps #41988
+1072. test: add integration test for /submit endpoint #1072
