@@ -1637,3 +1637,4 @@
 12724. docs: add API usage examples #12724
 41988. docs: update README with setup steps #41988
 1072. test: add integration test for /submit endpoint #1072
+78907. refactor: clean up auth middleware #78907
