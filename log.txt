@@ -1650,3 +1650,4 @@
 18475. refactor: split large controller into smaller functions #18475
 0353. style: rename variables for clarity #353
 86904. perf: optimize database query for quiz results #86904
+25724. test: add unit test for quiz service #25724
