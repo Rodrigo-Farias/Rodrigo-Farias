@@ -1659,3 +1659,4 @@
 61770. refactor: clean up auth middleware #61770
 23055. refactor: split large controller into smaller functions #23055
 43061. chore: rename env.example #43061
+13314. test: increase coverage on auth module #13314
