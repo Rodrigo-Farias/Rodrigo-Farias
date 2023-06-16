@@ -1660,3 +1660,4 @@
 23055. refactor: split large controller into smaller functions #23055
 43061. chore: rename env.example #43061
 13314. test: increase coverage on auth module #13314
+61162. fix: prevent crash on empty input #61162
