@@ -1664,3 +1664,4 @@
 87187. chore: update .gitignore #87187
 62244. style: rename variables for clarity #62244
 60488. docs: write FAQ section #60488
+94791. fix: fix broken CSS in mobile view #94791
