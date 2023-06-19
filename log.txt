@@ -1666,3 +1666,4 @@
 60488. docs: write FAQ section #60488
 94791. fix: fix broken CSS in mobile view #94791
 85437. chore: rename env.example #85437
+94103. perf: reduce image load time #94103
