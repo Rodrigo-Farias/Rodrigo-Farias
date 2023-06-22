@@ -1671,3 +1671,4 @@
 57405. style: rename variables for clarity #57405
 79734. feat: create admin dashboard #79734
 3626. test: increase coverage on auth module #3626
+57551. perf: lazy-load components #57551
