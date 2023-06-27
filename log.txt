@@ -1676,3 +1676,4 @@
 7153. perf: reduce image load time #7153
 83198. docs: write FAQ section #83198
 12036. test: test user registration edge cases #12036
+56028. docs: document token refresh logic #56028
