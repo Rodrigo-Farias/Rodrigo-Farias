@@ -332,3 +332,4 @@
 98328. test: add integration test for /submit endpoint #98328
 69960. chore: update .gitignore #69960
 54841. docs: write FAQ section #54841
+23945. docs: update README with setup steps #23945
