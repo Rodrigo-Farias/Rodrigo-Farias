@@ -1681,3 +1681,4 @@
 45461. feat: add export to CSV option #45461
 95694. docs: clarify environment setup #95694
 28901. style: remove trailing whitespace #28901
+6277. perf: optimize database query for quiz results #6277
