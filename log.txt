@@ -1682,3 +1682,4 @@
 95694. docs: clarify environment setup #95694
 28901. style: remove trailing whitespace #28901
 6277. perf: optimize database query for quiz results #6277
+30379. fix: fix broken CSS in mobile view #30379
