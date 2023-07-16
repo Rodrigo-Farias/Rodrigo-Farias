@@ -334,3 +334,4 @@
 54841. docs: write FAQ section #54841
 23945. docs: update README with setup steps #23945
 88156. fix: resolve issue with date parsing #88156
+79329. fix: fix broken CSS in mobile view #79329
