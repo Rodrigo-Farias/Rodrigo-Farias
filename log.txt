@@ -1689,3 +1689,4 @@
 53010. refactor: split large controller into smaller functions #53010
 32077. docs: document token refresh logic #32077
 63190. refactor: clean up auth middleware #63190
+22699. test: mock database connection in test suite #22699
