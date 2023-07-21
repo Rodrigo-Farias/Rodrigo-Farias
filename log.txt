@@ -1693,3 +1693,4 @@
 99309. fix: resolve issue with date parsing #99309
 62363. chore: add GitHub actions badge #62363
 47133. docs: clarify environment setup #47133
+67595. test: test user registration edge cases #67595
