@@ -1703,3 +1703,4 @@
 35387. fix: handle 500 error in quiz API #35387
 31795. perf: reduce image load time #31795
 90621. docs: update README with setup steps #90621
+20054. fix: fix broken CSS in mobile view #20054
