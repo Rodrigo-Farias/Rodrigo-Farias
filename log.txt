@@ -1705,3 +1705,4 @@
 90621. docs: update README with setup steps #90621
 20054. fix: fix broken CSS in mobile view #20054
 1554. style: remove trailing whitespace #1554
+94178. refactor: organize models into subfolders #94178
