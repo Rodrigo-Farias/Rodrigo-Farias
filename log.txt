@@ -1704,3 +1704,4 @@
 31795. perf: reduce image load time #31795
 90621. docs: update README with setup steps #90621
 20054. fix: fix broken CSS in mobile view #20054
+1554. style: remove trailing whitespace #1554
