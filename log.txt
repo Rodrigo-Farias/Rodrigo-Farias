@@ -1708,3 +1708,4 @@
 94178. refactor: organize models into subfolders #94178
 5363. refactor: organize models into subfolders #5363
 18001. perf: optimize database query for quiz results #18001
+89015. chore: update .gitignore #89015
