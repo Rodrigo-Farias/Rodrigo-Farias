@@ -1713,3 +1713,4 @@
 15361. perf: lazy-load components #15361
 9253. feat: create admin dashboard #9253
 47918. docs: update README with setup steps #47918
+19672. refactor: clean up auth middleware #19672
