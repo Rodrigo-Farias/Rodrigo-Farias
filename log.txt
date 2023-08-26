@@ -1718,3 +1718,4 @@
 27510. perf: cache repeated calculations #27510
 86027. style: reformat files with black #86027
 50894. docs: clarify environment setup #50894
+46138. docs: update README with setup steps #46138
