@@ -1720,3 +1720,4 @@
 50894. docs: clarify environment setup #50894
 46138. docs: update README with setup steps #46138
 7081. test: add unit test for quiz service #7081
+70384. feat: add user authentication #70384
