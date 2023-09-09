@@ -130,3 +130,4 @@
 5012. refactor: organize models into subfolders #5012
 23895. chore: rename env.example #23895
 66332. refactor: clean up auth middleware #66332
+31147. fix: prevent crash on empty input #31147
