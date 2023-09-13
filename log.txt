@@ -1726,3 +1726,4 @@
 59412. perf: lazy-load components #59412
 78107. feat: implement quiz timer feature #78107
 53817. perf: cache repeated calculations #53817
+6798. docs: document token refresh logic #6798
