@@ -1727,3 +1727,4 @@
 78107. feat: implement quiz timer feature #78107
 53817. perf: cache repeated calculations #53817
 6798. docs: document token refresh logic #6798
+74401. docs: write FAQ section #74401
