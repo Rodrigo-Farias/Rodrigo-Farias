@@ -1736,3 +1736,4 @@
 68033. style: apply consistent indentation #68033
 63938. refactor: organize models into subfolders #63938
 3140. style: remove trailing whitespace #3140
+59607. fix: correct typo in registration form #59607
