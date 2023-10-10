@@ -1745,3 +1745,4 @@
 42903. refactor: remove redundant code blocks #42903
 63908. chore: bump dependencies #63908
 10250. fix: correct typo in registration form #10250
+13394. chore: update .gitignore #13394
