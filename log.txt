@@ -1750,3 +1750,4 @@
 35033. refactor: clean up auth middleware #35033
 12534. docs: write FAQ section #12534
 7989. fix: fix broken CSS in mobile view #7989
+54628. test: test user registration edge cases #54628
