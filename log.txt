@@ -1751,3 +1751,4 @@
 12534. docs: write FAQ section #12534
 7989. fix: fix broken CSS in mobile view #7989
 54628. test: test user registration edge cases #54628
+74121. style: reformat files with black #74121
