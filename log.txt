@@ -136,3 +136,4 @@
 17869. refactor: remove redundant code blocks #17869
 71663. docs: update README with setup steps #71663
 57432. test: test user registration edge cases #57432
+23244. test: increase coverage on auth module #23244
