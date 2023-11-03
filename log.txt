@@ -1760,3 +1760,4 @@
 67807. test: test user registration edge cases #67807
 33806. chore: clean up unused files #33806
 34406. fix: prevent crash on empty input #34406
+49078. refactor: split large controller into smaller functions #49078
