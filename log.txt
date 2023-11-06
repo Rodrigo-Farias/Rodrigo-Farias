@@ -1767,3 +1767,4 @@
 19235. test: test user registration edge cases #19235
 53328. feat: implement quiz timer feature #53328
 93102. refactor: remove redundant code blocks #93102
+76766. feat: add user authentication #76766
