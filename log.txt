@@ -1770,3 +1770,4 @@
 76766. feat: add user authentication #76766
 53754. chore: add GitHub actions badge #53754
 31129. chore: update .gitignore #31129
+75922. test: mock database connection in test suite #75922
