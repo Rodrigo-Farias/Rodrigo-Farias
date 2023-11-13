@@ -1774,3 +1774,4 @@
 54976. chore: add GitHub actions badge #54976
 3215. docs: update README with setup steps #3215
 5938. chore: add GitHub actions badge #5938
+95747. docs: update README with setup steps #95747
