@@ -1773,3 +1773,4 @@
 75922. test: mock database connection in test suite #75922
 54976. chore: add GitHub actions badge #54976
 3215. docs: update README with setup steps #3215
+5938. chore: add GitHub actions badge #5938
