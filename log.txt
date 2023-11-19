@@ -1783,3 +1783,4 @@
 84895. chore: clean up unused files #84895
 12438. test: increase coverage on auth module #12438
 33487. refactor: organize models into subfolders #33487
+53938. fix: correct typo in registration form #53938
