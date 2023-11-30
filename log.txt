@@ -139,3 +139,4 @@
 23244. test: increase coverage on auth module #23244
 13497. feat: add export to CSV option #13497
 46758. test: add integration test for /submit endpoint #46758
+35169. perf: cache repeated calculations #35169
