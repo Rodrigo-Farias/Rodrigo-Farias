@@ -1810,3 +1810,4 @@
 60850. style: remove trailing whitespace #60850
 25543. docs: clarify environment setup #25543
 27841. style: standardize quote style #27841
+45422. feat: enable dark mode toggle #45422
