@@ -347,3 +347,4 @@
 4892. refactor: clean up auth middleware #4892
 59167. chore: add GitHub actions badge #59167
 81654. style: standardize quote style #81654
+0808. chore: update .gitignore #808
