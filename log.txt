@@ -1813,3 +1813,4 @@
 45422. feat: enable dark mode toggle #45422
 36403. docs: improve code comments in utils #36403
 22984. chore: rename env.example #22984
+35845. perf: optimize database query for quiz results #35845
