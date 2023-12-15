@@ -1815,3 +1815,4 @@
 22984. chore: rename env.example #22984
 35845. perf: optimize database query for quiz results #35845
 40285. feat: implement quiz timer feature #40285
+25755. test: mock database connection in test suite #25755
