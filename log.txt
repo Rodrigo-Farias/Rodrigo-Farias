@@ -1827,3 +1827,4 @@
 73606. chore: update .gitignore #73606
 23161. style: standardize quote style #23161
 18869. perf: cache repeated calculations #18869
+38951. style: remove trailing whitespace #38951
