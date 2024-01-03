@@ -1828,3 +1828,4 @@
 23161. style: standardize quote style #23161
 18869. perf: cache repeated calculations #18869
 38951. style: remove trailing whitespace #38951
+85737. fix: handle 500 error in quiz API #85737
