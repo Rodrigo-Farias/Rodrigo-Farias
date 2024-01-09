@@ -1834,3 +1834,4 @@
 70807. refactor: remove redundant code blocks #70807
 60509. docs: add API usage examples #60509
 74537. docs: write FAQ section #74537
+2046. style: remove trailing whitespace #2046
