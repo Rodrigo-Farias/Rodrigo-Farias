@@ -1833,3 +1833,4 @@
 51142. fix: fix broken CSS in mobile view #51142
 70807. refactor: remove redundant code blocks #70807
 60509. docs: add API usage examples #60509
+74537. docs: write FAQ section #74537
