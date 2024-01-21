@@ -1842,3 +1842,4 @@
 94280. perf: cache repeated calculations #94280
 59403. docs: update README with setup steps #59403
 97070. feat: support email verification #97070
+2959. fix: fix null pointer exception on login #2959
