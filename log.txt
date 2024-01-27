@@ -1846,3 +1846,4 @@
 72502. chore: clean up unused files #72502
 25003. fix: fix broken CSS in mobile view #25003
 83223. fix: correct typo in registration form #83223
+87494. perf: lazy-load components #87494
