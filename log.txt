@@ -1851,3 +1851,4 @@
 35914. perf: cache repeated calculations #35914
 63067. perf: cache repeated calculations #63067
 61662. fix: fix broken CSS in mobile view #61662
+78482. fix: correct typo in registration form #78482
