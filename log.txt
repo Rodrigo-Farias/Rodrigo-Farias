@@ -1852,3 +1852,4 @@
 63067. perf: cache repeated calculations #63067
 61662. fix: fix broken CSS in mobile view #61662
 78482. fix: correct typo in registration form #78482
+39996. feat: enable dark mode toggle #39996
