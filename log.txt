@@ -1858,3 +1858,4 @@
 32368. docs: write FAQ section #32368
 24675. refactor: clean up auth middleware #24675
 55553. docs: document token refresh logic #55553
+18838. style: apply consistent indentation #18838
