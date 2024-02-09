@@ -1856,3 +1856,4 @@
 66545. perf: reduce image load time #66545
 75089. refactor: split large controller into smaller functions #75089
 32368. docs: write FAQ section #32368
+24675. refactor: clean up auth middleware #24675
