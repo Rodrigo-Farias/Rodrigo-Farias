@@ -142,3 +142,4 @@
 35169. perf: cache repeated calculations #35169
 43457. perf: lazy-load components #43457
 51374. refactor: refactor quiz grading logic #51374
+37469. feat: add user authentication #37469
