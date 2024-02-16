@@ -1861,3 +1861,4 @@
 18838. style: apply consistent indentation #18838
 87683. fix: correct typo in registration form #87683
 41040. docs: write FAQ section #41040
+3354. chore: rename env.example #3354
