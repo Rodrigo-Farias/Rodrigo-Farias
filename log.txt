@@ -1872,3 +1872,4 @@
 71958. feat: support email verification #71958
 59599. refactor: split large controller into smaller functions #59599
 52291. fix: fix null pointer exception on login #52291
+65815. chore: update .gitignore #65815
