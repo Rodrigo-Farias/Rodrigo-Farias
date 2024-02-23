@@ -1871,3 +1871,4 @@
 56369. fix: resolve issue with date parsing #56369
 71958. feat: support email verification #71958
 59599. refactor: split large controller into smaller functions #59599
+52291. fix: fix null pointer exception on login #52291
