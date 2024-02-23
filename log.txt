@@ -1869,3 +1869,4 @@
 97136. docs: clarify environment setup #97136
 91706. chore: clean up unused files #91706
 56369. fix: resolve issue with date parsing #56369
+71958. feat: support email verification #71958
