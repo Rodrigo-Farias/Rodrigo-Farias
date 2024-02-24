@@ -1874,3 +1874,4 @@
 52291. fix: fix null pointer exception on login #52291
 65815. chore: update .gitignore #65815
 23062. docs: update README with setup steps #23062
+54883. test: add integration test for /submit endpoint #54883
