@@ -144,3 +144,4 @@
 51374. refactor: refactor quiz grading logic #51374
 37469. feat: add user authentication #37469
 10736. docs: write FAQ section #10736
+69074. test: mock database connection in test suite #69074
