@@ -1878,3 +1878,4 @@
 97479. perf: cache repeated calculations #97479
 33951. feat: add export to CSV option #33951
 47789. docs: add API usage examples #47789
+38965. docs: document token refresh logic #38965
