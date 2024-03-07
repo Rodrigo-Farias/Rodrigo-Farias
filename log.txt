@@ -1880,3 +1880,4 @@
 47789. docs: add API usage examples #47789
 38965. docs: document token refresh logic #38965
 86535. perf: optimize database query for quiz results #86535
+66567. test: add integration test for /submit endpoint #66567
