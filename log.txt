@@ -1883,3 +1883,4 @@
 66567. test: add integration test for /submit endpoint #66567
 21021. chore: rename env.example #21021
 23757. fix: resolve issue with date parsing #23757
+14558. fix: handle 500 error in quiz API #14558
