@@ -1887,3 +1887,4 @@
 81692. style: standardize quote style #81692
 28866. fix: fix null pointer exception on login #28866
 18934. docs: improve code comments in utils #18934
+75533. feat: support email verification #75533
