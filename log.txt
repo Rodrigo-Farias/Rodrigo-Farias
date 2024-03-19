@@ -1893,3 +1893,4 @@
 28075. style: rename variables for clarity #28075
 52308. fix: resolve issue with date parsing #52308
 9547. test: increase coverage on auth module #9547
+11599. test: test user registration edge cases #11599
