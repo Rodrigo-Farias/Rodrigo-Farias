@@ -1895,3 +1895,4 @@
 9547. test: increase coverage on auth module #9547
 11599. test: test user registration edge cases #11599
 84843. feat: implement quiz timer feature #84843
+99759. perf: optimize database query for quiz results #99759
