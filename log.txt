@@ -1901,3 +1901,4 @@
 75776. chore: update .gitignore #75776
 16588. perf: cache repeated calculations #16588
 59643. test: test user registration edge cases #59643
+94118. test: increase coverage on auth module #94118
