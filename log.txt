@@ -1905,3 +1905,4 @@
 12691. chore: clean up unused files #12691
 75547. docs: document token refresh logic #75547
 13551. style: apply consistent indentation #13551
+58025. perf: optimize database query for quiz results #58025
