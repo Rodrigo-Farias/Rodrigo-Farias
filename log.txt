@@ -149,3 +149,4 @@
 49848. fix: fix null pointer exception on login #49848
 81512. feat: enable dark mode toggle #81512
 9284. test: increase coverage on auth module #9284
+50928. refactor: remove redundant code blocks #50928
