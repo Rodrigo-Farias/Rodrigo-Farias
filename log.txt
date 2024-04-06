@@ -1907,3 +1907,4 @@
 13551. style: apply consistent indentation #13551
 58025. perf: optimize database query for quiz results #58025
 30036. feat: support email verification #30036
+45729. test: increase coverage on auth module #45729
