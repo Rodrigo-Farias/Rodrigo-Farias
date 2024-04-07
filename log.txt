@@ -150,3 +150,4 @@
 81512. feat: enable dark mode toggle #81512
 9284. test: increase coverage on auth module #9284
 50928. refactor: remove redundant code blocks #50928
+13077. fix: fix null pointer exception on login #13077
