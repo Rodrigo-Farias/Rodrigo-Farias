@@ -1918,3 +1918,4 @@
 80845. perf: reduce image load time #80845
 84898. test: add unit test for quiz service #84898
 48104. fix: resolve issue with date parsing #48104
+39329. fix: fix broken CSS in mobile view #39329
