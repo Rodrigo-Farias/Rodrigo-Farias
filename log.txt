@@ -1919,3 +1919,4 @@
 84898. test: add unit test for quiz service #84898
 48104. fix: resolve issue with date parsing #48104
 39329. fix: fix broken CSS in mobile view #39329
+76768. test: test user registration edge cases #76768
