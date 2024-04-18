@@ -1920,3 +1920,4 @@
 48104. fix: resolve issue with date parsing #48104
 39329. fix: fix broken CSS in mobile view #39329
 76768. test: test user registration edge cases #76768
+98959. chore: add GitHub actions badge #98959
