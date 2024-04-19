@@ -1921,3 +1921,4 @@
 39329. fix: fix broken CSS in mobile view #39329
 76768. test: test user registration edge cases #76768
 98959. chore: add GitHub actions badge #98959
+51659. chore: update .gitignore #51659
