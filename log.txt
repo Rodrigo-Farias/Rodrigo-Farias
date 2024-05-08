@@ -1934,3 +1934,4 @@
 10472. refactor: refactor quiz grading logic #10472
 51892. docs: document token refresh logic #51892
 23597. chore: update .gitignore #23597
+50631. perf: lazy-load components #50631
