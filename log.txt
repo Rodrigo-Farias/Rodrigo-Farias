@@ -355,3 +355,4 @@
 73333. style: standardize quote style #73333
 26487. fix: correct typo in registration form #26487
 70493. feat: enable dark mode toggle #70493
+8671. chore: rename env.example #8671
