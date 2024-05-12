@@ -1941,3 +1941,4 @@
 35768. docs: document token refresh logic #35768
 57985. chore: update .gitignore #57985
 35120. refactor: split large controller into smaller functions #35120
+87076. feat: support email verification #87076
