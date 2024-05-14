@@ -1942,3 +1942,4 @@
 57985. chore: update .gitignore #57985
 35120. refactor: split large controller into smaller functions #35120
 87076. feat: support email verification #87076
+12174. docs: write FAQ section #12174
