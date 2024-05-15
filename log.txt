@@ -1944,3 +1944,4 @@
 87076. feat: support email verification #87076
 12174. docs: write FAQ section #12174
 42526. fix: handle 500 error in quiz API #42526
+13255. chore: bump dependencies #13255
