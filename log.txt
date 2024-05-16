@@ -1946,3 +1946,4 @@
 42526. fix: handle 500 error in quiz API #42526
 13255. chore: bump dependencies #13255
 62799. style: standardize quote style #62799
+2094. chore: add GitHub actions badge #2094
