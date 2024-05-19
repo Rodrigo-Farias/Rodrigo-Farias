@@ -357,3 +357,4 @@
 70493. feat: enable dark mode toggle #70493
 8671. chore: rename env.example #8671
 57864. chore: bump dependencies #57864
+47761. style: standardize quote style #47761
