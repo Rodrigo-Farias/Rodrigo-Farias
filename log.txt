@@ -1951,3 +1951,4 @@
 58741. perf: cache repeated calculations #58741
 65696. style: apply consistent indentation #65696
 50340. refactor: split large controller into smaller functions #50340
+25588. fix: prevent crash on empty input #25588
