@@ -153,3 +153,4 @@
 13077. fix: fix null pointer exception on login #13077
 95959. perf: cache repeated calculations #95959
 33309. feat: enable dark mode toggle #33309
+1556. test: add integration test for /submit endpoint #1556
