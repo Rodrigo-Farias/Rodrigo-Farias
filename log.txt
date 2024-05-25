@@ -154,3 +154,4 @@
 95959. perf: cache repeated calculations #95959
 33309. feat: enable dark mode toggle #33309
 1556. test: add integration test for /submit endpoint #1556
+50903. perf: reduce image load time #50903
