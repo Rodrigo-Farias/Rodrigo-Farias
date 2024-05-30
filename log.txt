@@ -358,3 +358,4 @@
 8671. chore: rename env.example #8671
 57864. chore: bump dependencies #57864
 47761. style: standardize quote style #47761
+15440. chore: add GitHub actions badge #15440
