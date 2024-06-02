@@ -1959,3 +1959,4 @@
 65687. chore: update .gitignore #65687
 74015. test: increase coverage on auth module #74015
 66382. test: test user registration edge cases #66382
+44628. fix: correct typo in registration form #44628
