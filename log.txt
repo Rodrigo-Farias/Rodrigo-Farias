@@ -1960,3 +1960,4 @@
 74015. test: increase coverage on auth module #74015
 66382. test: test user registration edge cases #66382
 44628. fix: correct typo in registration form #44628
+77600. docs: update README with setup steps #77600
