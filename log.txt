@@ -1967,3 +1967,4 @@
 81031. feat: implement quiz timer feature #81031
 8382. fix: fix null pointer exception on login #8382
 39387. perf: optimize database query for quiz results #39387
+19932. refactor: clean up auth middleware #19932
