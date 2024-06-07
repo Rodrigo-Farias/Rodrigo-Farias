@@ -1965,3 +1965,4 @@
 26038. style: reformat files with black #26038
 45578. style: remove trailing whitespace #45578
 81031. feat: implement quiz timer feature #81031
+8382. fix: fix null pointer exception on login #8382
