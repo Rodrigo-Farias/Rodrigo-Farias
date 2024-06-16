@@ -1972,3 +1972,4 @@
 97402. perf: cache repeated calculations #97402
 3660. feat: enable dark mode toggle #3660
 72072. fix: resolve issue with date parsing #72072
+64420. refactor: clean up auth middleware #64420
