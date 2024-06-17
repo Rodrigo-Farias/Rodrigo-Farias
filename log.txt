@@ -1974,3 +1974,4 @@
 72072. fix: resolve issue with date parsing #72072
 64420. refactor: clean up auth middleware #64420
 70776. refactor: refactor quiz grading logic #70776
+50286. chore: bump dependencies #50286
