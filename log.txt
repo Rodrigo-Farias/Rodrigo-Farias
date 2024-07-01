@@ -1986,3 +1986,4 @@
 5251. feat: create admin dashboard #5251
 83085. refactor: clean up auth middleware #83085
 44524. feat: implement quiz timer feature #44524
+36221. refactor: remove redundant code blocks #36221
