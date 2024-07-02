@@ -1989,3 +1989,4 @@
 36221. refactor: remove redundant code blocks #36221
 52348. feat: add export to CSV option #52348
 69488. fix: fix broken CSS in mobile view #69488
+67360. refactor: remove redundant code blocks #67360
