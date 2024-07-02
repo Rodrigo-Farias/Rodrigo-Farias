@@ -157,3 +157,4 @@
 50903. perf: reduce image load time #50903
 44715. refactor: remove redundant code blocks #44715
 60445. fix: handle 500 error in quiz API #60445
+65896. fix: correct typo in registration form #65896
