@@ -2002,3 +2002,4 @@
 99557. refactor: refactor quiz grading logic #99557
 50729. feat: add user authentication #50729
 75679. perf: reduce image load time #75679
+34599. fix: fix broken CSS in mobile view #34599
