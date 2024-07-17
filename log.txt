@@ -2006,3 +2006,4 @@
 41197. feat: create admin dashboard #41197
 19236. test: add unit test for quiz service #19236
 18385. perf: optimize database query for quiz results #18385
+46598. fix: correct typo in registration form #46598
