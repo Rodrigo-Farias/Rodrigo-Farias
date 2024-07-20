@@ -160,3 +160,4 @@
 65896. fix: correct typo in registration form #65896
 84181. chore: rename env.example #84181
 14420. refactor: remove redundant code blocks #14420
+72177. chore: rename env.example #72177
