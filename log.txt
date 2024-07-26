@@ -2013,3 +2013,4 @@
 78159. feat: enable dark mode toggle #78159
 46200. test: test user registration edge cases #46200
 48519. test: test user registration edge cases #48519
+14795. test: mock database connection in test suite #14795
