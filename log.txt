@@ -2018,3 +2018,4 @@
 86685. docs: improve code comments in utils #86685
 53253. style: reformat files with black #53253
 50777. perf: reduce image load time #50777
+49842. chore: update .gitignore #49842
