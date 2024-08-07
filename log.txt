@@ -162,3 +162,4 @@
 14420. refactor: remove redundant code blocks #14420
 72177. chore: rename env.example #72177
 43589. fix: prevent crash on empty input #43589
+22132. perf: reduce image load time #22132
