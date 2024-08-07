@@ -2026,3 +2026,4 @@
 70529. perf: reduce image load time #70529
 35895. docs: clarify environment setup #35895
 33986. docs: add API usage examples #33986
+74965. chore: clean up unused files #74965
