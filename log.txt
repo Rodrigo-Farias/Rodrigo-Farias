@@ -2030,3 +2030,4 @@
 75145. style: reformat files with black #75145
 56590. perf: optimize database query for quiz results #56590
 72015. docs: improve code comments in utils #72015
+1948. fix: prevent crash on empty input #1948
