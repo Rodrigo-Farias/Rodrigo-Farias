@@ -2033,3 +2033,4 @@
 1948. fix: prevent crash on empty input #1948
 77604. refactor: clean up auth middleware #77604
 93266. feat: support email verification #93266
+43995. fix: correct typo in registration form #43995
