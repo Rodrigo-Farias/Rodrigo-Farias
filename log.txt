@@ -2034,3 +2034,4 @@
 77604. refactor: clean up auth middleware #77604
 93266. feat: support email verification #93266
 43995. fix: correct typo in registration form #43995
+73061. perf: lazy-load components #73061
