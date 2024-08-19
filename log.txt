@@ -2039,3 +2039,4 @@
 36411. refactor: refactor quiz grading logic #36411
 63661. fix: prevent crash on empty input #63661
 88418. refactor: split large controller into smaller functions #88418
+36696. docs: document token refresh logic #36696
