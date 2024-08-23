@@ -164,3 +164,4 @@
 43589. fix: prevent crash on empty input #43589
 22132. perf: reduce image load time #22132
 66330. test: mock database connection in test suite #66330
+70428. test: increase coverage on auth module #70428
