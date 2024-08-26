@@ -2044,3 +2044,4 @@
 86937. refactor: refactor quiz grading logic #86937
 93404. chore: update .gitignore #93404
 21595. test: add integration test for /submit endpoint #21595
+60645. refactor: remove redundant code blocks #60645
