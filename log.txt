@@ -2049,3 +2049,4 @@
 73677. docs: write FAQ section #73677
 41704. test: add integration test for /submit endpoint #41704
 21176. docs: add API usage examples #21176
+78247. test: add integration test for /submit endpoint #78247
