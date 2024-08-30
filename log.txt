@@ -2047,3 +2047,4 @@
 60645. refactor: remove redundant code blocks #60645
 36011. chore: clean up unused files #36011
 73677. docs: write FAQ section #73677
+41704. test: add integration test for /submit endpoint #41704
