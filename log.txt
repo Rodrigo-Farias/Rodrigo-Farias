@@ -2052,3 +2052,4 @@
 78247. test: add integration test for /submit endpoint #78247
 88806. test: test user registration edge cases #88806
 99773. perf: reduce image load time #99773
+81606. feat: enable dark mode toggle #81606
