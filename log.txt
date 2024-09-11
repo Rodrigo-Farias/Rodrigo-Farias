@@ -2063,3 +2063,4 @@
 1444. test: mock database connection in test suite #1444
 20689. feat: implement quiz timer feature #20689
 66892. test: add integration test for /submit endpoint #66892
+8305. perf: reduce image load time #8305
