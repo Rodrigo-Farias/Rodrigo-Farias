@@ -2070,3 +2070,4 @@
 86329. docs: clarify environment setup #86329
 20699. refactor: split large controller into smaller functions #20699
 34021. fix: fix broken CSS in mobile view #34021
+60111. feat: create admin dashboard #60111
