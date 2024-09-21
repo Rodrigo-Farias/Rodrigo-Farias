@@ -367,3 +367,4 @@
 42619. fix: resolve issue with date parsing #42619
 71775. style: rename variables for clarity #71775
 18918. test: increase coverage on auth module #18918
+20879. fix: correct typo in registration form #20879
