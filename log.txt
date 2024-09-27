@@ -2079,3 +2079,4 @@
 89401. style: reformat files with black #89401
 97959. chore: bump dependencies #97959
 26289. perf: reduce image load time #26289
+36382. fix: fix null pointer exception on login #36382
