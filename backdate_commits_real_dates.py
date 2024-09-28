@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 REPO_DIR = "."  # Use current directory
 COMMIT_FILE = "commit_messages.txt"
 NUM_COMMITS = 2000
-START_DATE = datetime(2019, 9, 28)
+START_DATE = datetime(2024, 9, 28)
 
 def load_commit_messages(path):
     with open(path, "r", encoding="utf-8") as f:
