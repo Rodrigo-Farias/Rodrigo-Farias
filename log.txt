@@ -2406,3 +2406,4 @@
 51065. feat: enable dark mode toggle #51065
 91802. refactor: split large controller into smaller functions #91802
 32425. refactor: clean up auth middleware #32425
+85555. test: test user registration edge cases #85555
