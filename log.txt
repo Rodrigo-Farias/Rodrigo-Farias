@@ -2083,3 +2083,4 @@
 78057. docs: add API usage examples #78057
 60989. refactor: refactor quiz grading logic #60989
 82970. refactor: clean up auth middleware #82970
+86205. feat: support email verification #86205
