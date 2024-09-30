@@ -369,3 +369,4 @@
 18918. test: increase coverage on auth module #18918
 20879. fix: correct typo in registration form #20879
 62190. refactor: refactor quiz grading logic #62190
+92401. style: remove trailing whitespace #92401
