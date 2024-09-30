@@ -2407,3 +2407,4 @@
 91802. refactor: split large controller into smaller functions #91802
 32425. refactor: clean up auth middleware #32425
 85555. test: test user registration edge cases #85555
+67402. refactor: clean up auth middleware #67402
