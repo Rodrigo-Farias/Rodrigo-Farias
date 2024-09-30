@@ -2082,3 +2082,4 @@
 36382. fix: fix null pointer exception on login #36382
 78057. docs: add API usage examples #78057
 60989. refactor: refactor quiz grading logic #60989
+82970. refactor: clean up auth middleware #82970
