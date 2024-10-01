@@ -2412,3 +2412,4 @@
 12436. fix: correct typo in registration form #12436
 46933. feat: implement quiz timer feature #46933
 78369. feat: add user authentication #78369
+20438. test: increase coverage on auth module #20438
