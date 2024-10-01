@@ -2415,3 +2415,4 @@
 20438. test: increase coverage on auth module #20438
 56022. refactor: clean up auth middleware #56022
 24966. test: add unit test for quiz service #24966
+25239. fix: fix broken CSS in mobile view #25239
