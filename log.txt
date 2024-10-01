@@ -2413,3 +2413,4 @@
 46933. feat: implement quiz timer feature #46933
 78369. feat: add user authentication #78369
 20438. test: increase coverage on auth module #20438
+56022. refactor: clean up auth middleware #56022
