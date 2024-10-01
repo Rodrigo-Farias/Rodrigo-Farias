@@ -2414,3 +2414,4 @@
 78369. feat: add user authentication #78369
 20438. test: increase coverage on auth module #20438
 56022. refactor: clean up auth middleware #56022
+24966. test: add unit test for quiz service #24966
