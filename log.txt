@@ -2419,3 +2419,4 @@
 90000. refactor: remove redundant code blocks #90000
 31834. docs: update README with setup steps #31834
 36601. style: apply consistent indentation #36601
+35435. test: mock database connection in test suite #35435
