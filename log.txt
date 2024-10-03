@@ -2423,3 +2423,4 @@
 63041. fix: handle 500 error in quiz API #63041
 3669. fix: handle 500 error in quiz API #3669
 75587. perf: cache repeated calculations #75587
+68422. fix: fix broken CSS in mobile view #68422
