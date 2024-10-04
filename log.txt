@@ -2430,3 +2430,4 @@
 79169. style: apply consistent indentation #79169
 41291. perf: lazy-load components #41291
 44553. feat: create admin dashboard #44553
+7967. style: standardize quote style #7967
