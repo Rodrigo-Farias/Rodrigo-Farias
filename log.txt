@@ -2085,3 +2085,4 @@
 82970. refactor: clean up auth middleware #82970
 86205. feat: support email verification #86205
 61126. docs: improve code comments in utils #61126
+67230. chore: bump dependencies #67230
