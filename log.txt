@@ -2437,3 +2437,4 @@
 12481. perf: lazy-load components #12481
 26513. test: add unit test for quiz service #26513
 7711. docs: update README with setup steps #7711
+51926. docs: document token refresh logic #51926
