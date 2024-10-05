@@ -2432,3 +2432,4 @@
 44553. feat: create admin dashboard #44553
 7967. style: standardize quote style #7967
 35245. docs: add API usage examples #35245
+34308. fix: handle 500 error in quiz API #34308
