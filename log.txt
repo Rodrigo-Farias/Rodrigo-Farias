@@ -2433,3 +2433,4 @@
 7967. style: standardize quote style #7967
 35245. docs: add API usage examples #35245
 34308. fix: handle 500 error in quiz API #34308
+26508. style: standardize quote style #26508
