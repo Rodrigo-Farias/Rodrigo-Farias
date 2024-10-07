@@ -2440,3 +2440,4 @@
 51926. docs: document token refresh logic #51926
 0187. test: mock database connection in test suite #187
 89566. feat: implement quiz timer feature #89566
+76291. fix: handle 500 error in quiz API #76291
