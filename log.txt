@@ -371,3 +371,4 @@
 62190. refactor: refactor quiz grading logic #62190
 92401. style: remove trailing whitespace #92401
 31166. fix: fix null pointer exception on login #31166
+48478. fix: fix null pointer exception on login #48478
