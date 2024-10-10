@@ -2456,3 +2456,4 @@
 16662. feat: add export to CSV option #16662
 72978. perf: reduce image load time #72978
 59716. feat: support email verification #59716
+69727. chore: bump dependencies #69727
