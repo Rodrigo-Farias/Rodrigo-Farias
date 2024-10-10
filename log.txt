@@ -2454,3 +2454,4 @@
 63771. docs: improve code comments in utils #63771
 1562. refactor: clean up auth middleware #1562
 16662. feat: add export to CSV option #16662
+72978. perf: reduce image load time #72978
