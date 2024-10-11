@@ -2465,3 +2465,4 @@
 81211. refactor: organize models into subfolders #81211
 88476. style: remove trailing whitespace #88476
 24730. feat: add export to CSV option #24730
+43724. docs: update README with setup steps #43724
