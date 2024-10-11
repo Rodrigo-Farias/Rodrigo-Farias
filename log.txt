@@ -2462,3 +2462,4 @@
 6198. style: reformat files with black #6198
 73742. perf: cache repeated calculations #73742
 9914. feat: add user authentication #9914
+81211. refactor: organize models into subfolders #81211
