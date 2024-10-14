@@ -2482,3 +2482,4 @@
 30636. fix: correct typo in registration form #30636
 55788. fix: resolve issue with date parsing #55788
 36404. feat: add user authentication #36404
+28746. perf: reduce image load time #28746
