@@ -2483,3 +2483,4 @@
 55788. fix: resolve issue with date parsing #55788
 36404. feat: add user authentication #36404
 28746. perf: reduce image load time #28746
+11253. refactor: refactor quiz grading logic #11253
