@@ -2096,3 +2096,4 @@
 8400. perf: lazy-load components #8400
 42520. test: add integration test for /submit endpoint #42520
 95741. docs: update README with setup steps #95741
+93919. perf: reduce image load time #93919
