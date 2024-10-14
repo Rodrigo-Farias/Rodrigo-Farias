@@ -2478,3 +2478,4 @@
 24688. style: standardize quote style #24688
 99818. feat: implement quiz timer feature #99818
 78423. refactor: organize models into subfolders #78423
+73770. feat: support email verification #73770
