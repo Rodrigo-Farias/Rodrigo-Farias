@@ -2490,3 +2490,4 @@
 84410. chore: rename env.example #84410
 73361. test: mock database connection in test suite #73361
 36473. style: standardize quote style #36473
+88191. refactor: organize models into subfolders #88191
