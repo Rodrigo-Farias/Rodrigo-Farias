@@ -2487,3 +2487,4 @@
 56093. docs: write FAQ section #56093
 52516. perf: cache repeated calculations #52516
 28835. fix: prevent crash on empty input #28835
+84410. chore: rename env.example #84410
