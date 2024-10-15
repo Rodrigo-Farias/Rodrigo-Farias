@@ -2488,3 +2488,4 @@
 52516. perf: cache repeated calculations #52516
 28835. fix: prevent crash on empty input #28835
 84410. chore: rename env.example #84410
+73361. test: mock database connection in test suite #73361
