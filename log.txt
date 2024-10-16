@@ -2495,3 +2495,4 @@
 64969. chore: bump dependencies #64969
 16807. refactor: remove redundant code blocks #16807
 33961. test: add unit test for quiz service #33961
+33713. docs: update README with setup steps #33713
