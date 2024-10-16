@@ -2498,3 +2498,4 @@
 33713. docs: update README with setup steps #33713
 75323. refactor: split large controller into smaller functions #75323
 8812. refactor: split large controller into smaller functions #8812
+14364. perf: lazy-load components #14364
