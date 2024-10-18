@@ -2509,3 +2509,4 @@
 79901. feat: create admin dashboard #79901
 93212. chore: bump dependencies #93212
 33802. docs: clarify environment setup #33802
+24924. style: apply consistent indentation #24924
