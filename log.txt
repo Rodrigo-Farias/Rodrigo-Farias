@@ -2101,3 +2101,4 @@
 73979. chore: bump dependencies #73979
 98471. perf: cache repeated calculations #98471
 97245. style: standardize quote style #97245
+11226. chore: bump dependencies #11226
