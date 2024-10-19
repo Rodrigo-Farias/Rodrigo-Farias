@@ -2521,3 +2521,4 @@
 52532. test: test user registration edge cases #52532
 75523. style: apply consistent indentation #75523
 19662. fix: fix broken CSS in mobile view #19662
+36104. test: add unit test for quiz service #36104
