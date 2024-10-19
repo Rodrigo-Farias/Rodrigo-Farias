@@ -2512,3 +2512,4 @@
 24924. style: apply consistent indentation #24924
 27198. test: mock database connection in test suite #27198
 31892. feat: add export to CSV option #31892
+33364. test: mock database connection in test suite #33364
