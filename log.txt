@@ -2102,3 +2102,4 @@
 98471. perf: cache repeated calculations #98471
 97245. style: standardize quote style #97245
 11226. chore: bump dependencies #11226
+41269. feat: support email verification #41269
