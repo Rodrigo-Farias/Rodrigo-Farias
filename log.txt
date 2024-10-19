@@ -2513,3 +2513,4 @@
 27198. test: mock database connection in test suite #27198
 31892. feat: add export to CSV option #31892
 33364. test: mock database connection in test suite #33364
+68319. docs: update README with setup steps #68319
