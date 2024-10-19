@@ -2518,3 +2518,4 @@
 87598. feat: enable dark mode toggle #87598
 66634. refactor: remove redundant code blocks #66634
 57610. style: rename variables for clarity #57610
+52532. test: test user registration edge cases #52532
