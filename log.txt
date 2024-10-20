@@ -2526,3 +2526,4 @@
 84624. fix: fix broken CSS in mobile view #84624
 98774. feat: add export to CSV option #98774
 85176. style: apply consistent indentation #85176
+22181. fix: resolve issue with date parsing #22181
