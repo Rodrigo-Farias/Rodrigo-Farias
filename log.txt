@@ -2523,3 +2523,4 @@
 19662. fix: fix broken CSS in mobile view #19662
 36104. test: add unit test for quiz service #36104
 22548. feat: implement quiz timer feature #22548
+84624. fix: fix broken CSS in mobile view #84624
