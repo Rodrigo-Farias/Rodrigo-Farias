@@ -2529,3 +2529,4 @@
 22181. fix: resolve issue with date parsing #22181
 43842. docs: update README with setup steps #43842
 39927. docs: document token refresh logic #39927
+88654. chore: add GitHub actions badge #88654
