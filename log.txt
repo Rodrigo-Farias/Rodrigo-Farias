@@ -2531,3 +2531,4 @@
 39927. docs: document token refresh logic #39927
 88654. chore: add GitHub actions badge #88654
 9109. chore: clean up unused files #9109
+47500. test: mock database connection in test suite #47500
