@@ -2535,3 +2535,4 @@
 32719. perf: lazy-load components #32719
 6445. docs: write FAQ section #6445
 76846. feat: add export to CSV option #76846
+8514. perf: lazy-load components #8514
