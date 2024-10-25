@@ -2554,3 +2554,4 @@
 35518. refactor: organize models into subfolders #35518
 43060. style: apply consistent indentation #43060
 7975. chore: add GitHub actions badge #7975
+46463. docs: update README with setup steps #46463
