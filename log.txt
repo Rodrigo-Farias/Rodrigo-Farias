@@ -2557,3 +2557,4 @@
 46463. docs: update README with setup steps #46463
 17312. refactor: split large controller into smaller functions #17312
 83307. style: reformat files with black #83307
+20519. fix: prevent crash on empty input #20519
