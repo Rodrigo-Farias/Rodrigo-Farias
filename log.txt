@@ -2566,3 +2566,4 @@
 58940. chore: bump dependencies #58940
 89211. chore: clean up unused files #89211
 95217. style: standardize quote style #95217
+28864. feat: support email verification #28864
