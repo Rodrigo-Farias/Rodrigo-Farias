@@ -2562,3 +2562,4 @@
 10032. test: mock database connection in test suite #10032
 42976. test: increase coverage on auth module #42976
 22549. chore: add GitHub actions badge #22549
+90591. docs: update README with setup steps #90591
