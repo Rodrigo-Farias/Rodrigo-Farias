@@ -2558,3 +2558,4 @@
 17312. refactor: split large controller into smaller functions #17312
 83307. style: reformat files with black #83307
 20519. fix: prevent crash on empty input #20519
+95765. feat: add user authentication #95765
