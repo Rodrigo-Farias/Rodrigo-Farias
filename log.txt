@@ -374,3 +374,4 @@
 48478. fix: fix null pointer exception on login #48478
 38827. refactor: organize models into subfolders #38827
 32946. perf: cache repeated calculations #32946
+40143. fix: resolve issue with date parsing #40143
