@@ -2569,3 +2569,4 @@
 28864. feat: support email verification #28864
 69564. test: add integration test for /submit endpoint #69564
 11023. chore: update .gitignore #11023
+9322. test: increase coverage on auth module #9322
