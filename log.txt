@@ -2579,3 +2579,4 @@
 47594. test: test user registration edge cases #47594
 86453. fix: handle 500 error in quiz API #86453
 66508. chore: clean up unused files #66508
+34103. refactor: organize models into subfolders #34103
