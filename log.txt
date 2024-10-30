@@ -2583,3 +2583,4 @@
 36041. docs: improve code comments in utils #36041
 50921. feat: support email verification #50921
 33123. feat: enable dark mode toggle #33123
+77227. perf: lazy-load components #77227
