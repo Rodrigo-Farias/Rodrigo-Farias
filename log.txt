@@ -376,3 +376,4 @@
 32946. perf: cache repeated calculations #32946
 40143. fix: resolve issue with date parsing #40143
 29745. chore: add GitHub actions badge #29745
+40812. refactor: clean up auth middleware #40812
