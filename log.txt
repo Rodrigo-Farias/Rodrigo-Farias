@@ -2587,3 +2587,4 @@
 74965. chore: clean up unused files #74965
 52081. feat: add export to CSV option #52081
 78815. style: standardize quote style #78815
+23048. feat: support email verification #23048
