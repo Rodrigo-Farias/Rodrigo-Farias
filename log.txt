@@ -2112,3 +2112,4 @@
 82784. style: standardize quote style #82784
 56669. feat: add user authentication #56669
 85874. feat: support email verification #85874
+6179. test: add unit test for quiz service #6179
