@@ -2581,3 +2581,4 @@
 66508. chore: clean up unused files #66508
 34103. refactor: organize models into subfolders #34103
 36041. docs: improve code comments in utils #36041
+50921. feat: support email verification #50921
