@@ -2584,3 +2584,4 @@
 50921. feat: support email verification #50921
 33123. feat: enable dark mode toggle #33123
 77227. perf: lazy-load components #77227
+74965. chore: clean up unused files #74965
