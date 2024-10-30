@@ -2582,3 +2582,4 @@
 34103. refactor: organize models into subfolders #34103
 36041. docs: improve code comments in utils #36041
 50921. feat: support email verification #50921
+33123. feat: enable dark mode toggle #33123
