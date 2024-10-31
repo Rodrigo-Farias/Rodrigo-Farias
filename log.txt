@@ -2115,3 +2115,4 @@
 6179. test: add unit test for quiz service #6179
 56858. perf: cache repeated calculations #56858
 3115. chore: clean up unused files #3115
+11133. test: increase coverage on auth module #11133
