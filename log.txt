@@ -2589,3 +2589,4 @@
 78815. style: standardize quote style #78815
 23048. feat: support email verification #23048
 13165. chore: rename env.example #13165
+9250. docs: document token refresh logic #9250
