@@ -2595,3 +2595,4 @@
 66677. feat: create admin dashboard #66677
 94645. chore: clean up unused files #94645
 54032. test: test user registration edge cases #54032
+11123. style: apply consistent indentation #11123
