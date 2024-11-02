@@ -2600,3 +2600,4 @@
 8635. feat: add user authentication #8635
 91336. style: reformat files with black #91336
 90620. style: standardize quote style #90620
+43121. chore: add GitHub actions badge #43121
