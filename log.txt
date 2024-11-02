@@ -2598,3 +2598,4 @@
 11123. style: apply consistent indentation #11123
 51157. refactor: split large controller into smaller functions #51157
 8635. feat: add user authentication #8635
+91336. style: reformat files with black #91336
