@@ -2117,3 +2117,4 @@
 3115. chore: clean up unused files #3115
 11133. test: increase coverage on auth module #11133
 30990. chore: bump dependencies #30990
+67236. feat: enable dark mode toggle #67236
