@@ -2608,3 +2608,4 @@
 26748. chore: bump dependencies #26748
 93329. fix: fix null pointer exception on login #93329
 47702. chore: add GitHub actions badge #47702
+76543. style: remove trailing whitespace #76543
