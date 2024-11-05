@@ -2611,3 +2611,4 @@
 76543. style: remove trailing whitespace #76543
 66844. docs: write FAQ section #66844
 62868. style: standardize quote style #62868
+27585. refactor: clean up auth middleware #27585
