@@ -2620,3 +2620,4 @@
 49903. chore: bump dependencies #49903
 45225. test: add integration test for /submit endpoint #45225
 37973. style: remove trailing whitespace #37973
+57034. perf: optimize database query for quiz results #57034
