@@ -2625,3 +2625,4 @@
 26717. test: test user registration edge cases #26717
 48520. refactor: clean up auth middleware #48520
 90062. test: test user registration edge cases #90062
+80201. style: reformat files with black #80201
