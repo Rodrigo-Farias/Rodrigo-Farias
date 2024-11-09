@@ -2119,3 +2119,4 @@
 30990. chore: bump dependencies #30990
 67236. feat: enable dark mode toggle #67236
 15360. perf: cache repeated calculations #15360
+89280. perf: optimize database query for quiz results #89280
