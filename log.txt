@@ -2630,3 +2630,4 @@
 8681. style: reformat files with black #8681
 96196. refactor: clean up auth middleware #96196
 90015. perf: optimize database query for quiz results #90015
+99533. fix: handle 500 error in quiz API #99533
