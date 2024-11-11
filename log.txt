@@ -2640,3 +2640,4 @@
 1114. docs: improve code comments in utils #1114
 82101. refactor: remove redundant code blocks #82101
 82076. fix: correct typo in registration form #82076
+62166. fix: prevent crash on empty input #62166
