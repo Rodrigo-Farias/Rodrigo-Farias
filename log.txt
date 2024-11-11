@@ -174,3 +174,4 @@
 57353. chore: clean up unused files #57353
 95523. docs: write FAQ section #95523
 52364. docs: write FAQ section #52364
+88356. test: increase coverage on auth module #88356
