@@ -2643,3 +2643,4 @@
 62166. fix: prevent crash on empty input #62166
 66502. fix: fix broken CSS in mobile view #66502
 56572. feat: create admin dashboard #56572
+14011. chore: add GitHub actions badge #14011
