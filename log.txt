@@ -2646,3 +2646,4 @@
 14011. chore: add GitHub actions badge #14011
 97731. test: mock database connection in test suite #97731
 76010. docs: write FAQ section #76010
+84150. perf: optimize database query for quiz results #84150
