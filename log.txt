@@ -2647,3 +2647,4 @@
 97731. test: mock database connection in test suite #97731
 76010. docs: write FAQ section #76010
 84150. perf: optimize database query for quiz results #84150
+15670. feat: add user authentication #15670
