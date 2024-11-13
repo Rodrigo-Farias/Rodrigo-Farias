@@ -2652,3 +2652,4 @@
 56688. refactor: remove redundant code blocks #56688
 18265. style: rename variables for clarity #18265
 70515. style: apply consistent indentation #70515
+47392. test: add unit test for quiz service #47392
