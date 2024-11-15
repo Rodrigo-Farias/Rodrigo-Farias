@@ -2663,3 +2663,4 @@
 82091. style: apply consistent indentation #82091
 51750. chore: rename env.example #51750
 84434. chore: add GitHub actions badge #84434
+74354. perf: optimize database query for quiz results #74354
