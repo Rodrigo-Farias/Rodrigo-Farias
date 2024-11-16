@@ -2667,3 +2667,4 @@
 86025. refactor: refactor quiz grading logic #86025
 85267. style: standardize quote style #85267
 97647. refactor: clean up auth middleware #97647
+75025. fix: handle 500 error in quiz API #75025
