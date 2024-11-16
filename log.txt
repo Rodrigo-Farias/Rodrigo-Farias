@@ -2126,3 +2126,4 @@
 43122. chore: add GitHub actions badge #43122
 72423. style: remove trailing whitespace #72423
 40841. chore: clean up unused files #40841
+21600. docs: write FAQ section #21600
