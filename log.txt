@@ -2691,3 +2691,4 @@
 5822. refactor: remove redundant code blocks #5822
 39469. feat: implement quiz timer feature #39469
 72083. docs: document token refresh logic #72083
+33003. feat: support email verification #33003
