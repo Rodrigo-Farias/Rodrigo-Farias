@@ -2693,3 +2693,4 @@
 72083. docs: document token refresh logic #72083
 33003. feat: support email verification #33003
 33361. test: test user registration edge cases #33361
+19035. feat: support email verification #19035
