@@ -2694,3 +2694,4 @@
 33003. feat: support email verification #33003
 33361. test: test user registration edge cases #33361
 19035. feat: support email verification #19035
+9547. test: increase coverage on auth module #9547
