@@ -2129,3 +2129,4 @@
 21600. docs: write FAQ section #21600
 12286. perf: reduce image load time #12286
 74374. style: rename variables for clarity #74374
+64753. style: remove trailing whitespace #64753
