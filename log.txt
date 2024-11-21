@@ -2703,3 +2703,4 @@
 28583. refactor: refactor quiz grading logic #28583
 76357. feat: add user authentication #76357
 35546. fix: correct typo in registration form #35546
+58904. perf: reduce image load time #58904
