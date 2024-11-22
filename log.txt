@@ -2706,3 +2706,4 @@
 58904. perf: reduce image load time #58904
 40224. docs: write FAQ section #40224
 51964. perf: reduce image load time #51964
+74460. refactor: remove redundant code blocks #74460
