@@ -2716,3 +2716,4 @@
 57792. refactor: refactor quiz grading logic #57792
 12558. test: add unit test for quiz service #12558
 16971. feat: add user authentication #16971
+4447. feat: support email verification #4447
