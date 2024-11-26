@@ -2731,3 +2731,4 @@
 80093. test: increase coverage on auth module #80093
 35165. fix: resolve issue with date parsing #35165
 60918. style: remove trailing whitespace #60918
+58781. perf: reduce image load time #58781
