@@ -2733,3 +2733,4 @@
 60918. style: remove trailing whitespace #60918
 58781. perf: reduce image load time #58781
 40430. chore: update .gitignore #40430
+4855. style: apply consistent indentation #4855
