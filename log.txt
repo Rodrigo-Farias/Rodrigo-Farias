@@ -2744,3 +2744,4 @@
 35495. test: add integration test for /submit endpoint #35495
 96728. refactor: refactor quiz grading logic #96728
 22079. feat: support email verification #22079
+64246. style: reformat files with black #64246
