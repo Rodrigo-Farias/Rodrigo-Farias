@@ -2742,3 +2742,4 @@
 21596. fix: fix broken CSS in mobile view #21596
 61058. test: test user registration edge cases #61058
 35495. test: add integration test for /submit endpoint #35495
+96728. refactor: refactor quiz grading logic #96728
