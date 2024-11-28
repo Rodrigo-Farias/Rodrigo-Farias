@@ -2740,3 +2740,4 @@
 64332. test: add integration test for /submit endpoint #64332
 27653. chore: add GitHub actions badge #27653
 21596. fix: fix broken CSS in mobile view #21596
+61058. test: test user registration edge cases #61058
