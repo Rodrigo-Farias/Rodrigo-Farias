@@ -2752,3 +2752,4 @@
 14548. test: test user registration edge cases #14548
 55745. docs: add API usage examples #55745
 24653. feat: add export to CSV option #24653
+34572. perf: optimize database query for quiz results #34572
