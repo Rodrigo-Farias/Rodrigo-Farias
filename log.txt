@@ -2138,3 +2138,4 @@
 34500. feat: enable dark mode toggle #34500
 92170. chore: bump dependencies #92170
 67634. test: mock database connection in test suite #67634
+83007. perf: lazy-load components #83007
