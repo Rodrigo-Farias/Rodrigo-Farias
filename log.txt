@@ -2755,3 +2755,4 @@
 34572. perf: optimize database query for quiz results #34572
 11169. docs: improve code comments in utils #11169
 85439. refactor: remove redundant code blocks #85439
+0650. fix: fix broken CSS in mobile view #650
