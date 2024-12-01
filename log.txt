@@ -2759,3 +2759,4 @@
 48388. docs: clarify environment setup #48388
 20501. perf: cache repeated calculations #20501
 82348. perf: cache repeated calculations #82348
+13420. perf: optimize database query for quiz results #13420
