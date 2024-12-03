@@ -2765,3 +2765,4 @@
 90817. perf: reduce image load time #90817
 21767. chore: rename env.example #21767
 21981. perf: optimize database query for quiz results #21981
+39310. chore: add GitHub actions badge #39310
