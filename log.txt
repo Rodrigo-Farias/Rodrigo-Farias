@@ -2770,3 +2770,4 @@
 75708. chore: update .gitignore #75708
 84089. refactor: split large controller into smaller functions #84089
 68397. fix: prevent crash on empty input #68397
+62145. fix: prevent crash on empty input #62145
