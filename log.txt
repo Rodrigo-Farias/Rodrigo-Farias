@@ -2769,3 +2769,4 @@
 49372. refactor: clean up auth middleware #49372
 75708. chore: update .gitignore #75708
 84089. refactor: split large controller into smaller functions #84089
+68397. fix: prevent crash on empty input #68397
