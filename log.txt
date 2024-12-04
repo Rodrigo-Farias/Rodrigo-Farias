@@ -2773,3 +2773,4 @@
 62145. fix: prevent crash on empty input #62145
 73210. fix: resolve issue with date parsing #73210
 43576. fix: fix broken CSS in mobile view #43576
+66729. fix: resolve issue with date parsing #66729
