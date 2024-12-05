@@ -2780,3 +2780,4 @@
 37847. perf: lazy-load components #37847
 91039. chore: clean up unused files #91039
 90860. style: rename variables for clarity #90860
+77211. chore: update .gitignore #77211
