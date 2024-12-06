@@ -2789,3 +2789,4 @@
 45448. feat: add export to CSV option #45448
 81359. style: apply consistent indentation #81359
 52627. test: test user registration edge cases #52627
+43026. style: remove trailing whitespace #43026
