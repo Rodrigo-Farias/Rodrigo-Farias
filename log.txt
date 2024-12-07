@@ -2794,3 +2794,4 @@
 65127. docs: add API usage examples #65127
 95353. docs: add API usage examples #95353
 66720. chore: update .gitignore #66720
+12406. test: add integration test for /submit endpoint #12406
