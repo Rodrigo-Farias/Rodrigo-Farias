@@ -2793,3 +2793,4 @@
 72455. docs: update README with setup steps #72455
 65127. docs: add API usage examples #65127
 95353. docs: add API usage examples #95353
+66720. chore: update .gitignore #66720
