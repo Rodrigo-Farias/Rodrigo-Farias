@@ -178,3 +178,4 @@
 6339. style: remove trailing whitespace #6339
 10132. style: rename variables for clarity #10132
 49020. chore: rename env.example #49020
+55552. refactor: organize models into subfolders #55552
