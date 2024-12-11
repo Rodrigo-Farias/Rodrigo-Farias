@@ -2810,3 +2810,4 @@
 20610. docs: improve code comments in utils #20610
 16891. refactor: organize models into subfolders #16891
 52520. feat: create admin dashboard #52520
+5869. refactor: clean up auth middleware #5869
