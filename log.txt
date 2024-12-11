@@ -2811,3 +2811,4 @@
 16891. refactor: organize models into subfolders #16891
 52520. feat: create admin dashboard #52520
 5869. refactor: clean up auth middleware #5869
+70220. fix: fix broken CSS in mobile view #70220
