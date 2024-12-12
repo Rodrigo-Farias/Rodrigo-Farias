@@ -2819,3 +2819,4 @@
 27377. fix: handle 500 error in quiz API #27377
 83809. chore: update .gitignore #83809
 63813. chore: add GitHub actions badge #63813
+79837. feat: enable dark mode toggle #79837
