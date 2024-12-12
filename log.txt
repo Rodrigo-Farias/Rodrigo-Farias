@@ -2818,3 +2818,4 @@
 51828. test: add integration test for /submit endpoint #51828
 27377. fix: handle 500 error in quiz API #27377
 83809. chore: update .gitignore #83809
+63813. chore: add GitHub actions badge #63813
