@@ -2825,3 +2825,4 @@
 81833. fix: correct typo in registration form #81833
 24431. perf: lazy-load components #24431
 31466. docs: clarify environment setup #31466
+10260. fix: handle 500 error in quiz API #10260
