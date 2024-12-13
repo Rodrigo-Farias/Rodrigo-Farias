@@ -2151,3 +2151,4 @@
 55726. feat: implement quiz timer feature #55726
 53245. refactor: organize models into subfolders #53245
 74556. feat: create admin dashboard #74556
+66456. refactor: refactor quiz grading logic #66456
