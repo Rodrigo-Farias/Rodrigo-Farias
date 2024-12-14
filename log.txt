@@ -2153,3 +2153,4 @@
 74556. feat: create admin dashboard #74556
 66456. refactor: refactor quiz grading logic #66456
 89446. docs: improve code comments in utils #89446
+21941. feat: support email verification #21941
