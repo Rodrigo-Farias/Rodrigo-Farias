@@ -2829,3 +2829,4 @@
 3777. fix: prevent crash on empty input #3777
 65501. test: increase coverage on auth module #65501
 65466. style: remove trailing whitespace #65466
+65829. fix: correct typo in registration form #65829
