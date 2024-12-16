@@ -2155,3 +2155,4 @@
 89446. docs: improve code comments in utils #89446
 21941. feat: support email verification #21941
 4595. refactor: split large controller into smaller functions #4595
+10204. perf: optimize database query for quiz results #10204
