@@ -2870,3 +2870,4 @@
 46501. feat: add user authentication #46501
 88332. refactor: split large controller into smaller functions #88332
 76957. refactor: refactor quiz grading logic #76957
+51162. chore: bump dependencies #51162
