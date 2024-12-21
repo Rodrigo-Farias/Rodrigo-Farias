@@ -2874,3 +2874,4 @@
 14620. feat: enable dark mode toggle #14620
 82605. style: apply consistent indentation #82605
 39802. feat: add export to CSV option #39802
+23145. perf: cache repeated calculations #23145
