@@ -2872,3 +2872,4 @@
 76957. refactor: refactor quiz grading logic #76957
 51162. chore: bump dependencies #51162
 14620. feat: enable dark mode toggle #14620
+82605. style: apply consistent indentation #82605
