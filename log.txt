@@ -2161,3 +2161,4 @@
 36269. fix: resolve issue with date parsing #36269
 31424. perf: reduce image load time #31424
 97325. refactor: split large controller into smaller functions #97325
+82539. test: test user registration edge cases #82539
