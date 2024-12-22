@@ -2881,3 +2881,4 @@
 81174. style: rename variables for clarity #81174
 69877. feat: support email verification #69877
 46141. docs: add API usage examples #46141
+50279. chore: rename env.example #50279
