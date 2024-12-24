@@ -2888,3 +2888,4 @@
 5279. perf: cache repeated calculations #5279
 99461. refactor: clean up auth middleware #99461
 48422. test: add unit test for quiz service #48422
+28197. perf: lazy-load components #28197
