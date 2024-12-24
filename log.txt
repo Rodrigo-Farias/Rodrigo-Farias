@@ -2887,3 +2887,4 @@
 87760. perf: reduce image load time #87760
 5279. perf: cache repeated calculations #5279
 99461. refactor: clean up auth middleware #99461
+48422. test: add unit test for quiz service #48422
