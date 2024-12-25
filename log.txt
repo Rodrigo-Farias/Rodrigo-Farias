@@ -2893,3 +2893,4 @@
 36565. perf: optimize database query for quiz results #36565
 64669. docs: update README with setup steps #64669
 68349. chore: bump dependencies #68349
+97090. feat: add user authentication #97090
