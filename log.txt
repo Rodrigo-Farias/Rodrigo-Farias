@@ -2898,3 +2898,4 @@
 19702. test: test user registration edge cases #19702
 3054. feat: add user authentication #3054
 26594. feat: support email verification #26594
+35270. fix: resolve issue with date parsing #35270
