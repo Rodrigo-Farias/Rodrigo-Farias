@@ -2166,3 +2166,4 @@
 88495. test: add unit test for quiz service #88495
 33955. feat: support email verification #33955
 44920. fix: fix null pointer exception on login #44920
+8075. docs: update README with setup steps #8075
