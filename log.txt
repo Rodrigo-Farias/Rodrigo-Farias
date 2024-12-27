@@ -2911,3 +2911,4 @@
 91746. style: apply consistent indentation #91746
 82538. perf: reduce image load time #82538
 15526. perf: reduce image load time #15526
+94566. chore: bump dependencies #94566
