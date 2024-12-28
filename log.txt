@@ -2914,3 +2914,4 @@
 94566. chore: bump dependencies #94566
 51459. docs: document token refresh logic #51459
 69789. chore: bump dependencies #69789
+61636. fix: fix broken CSS in mobile view #61636
