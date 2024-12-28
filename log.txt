@@ -2915,3 +2915,4 @@
 51459. docs: document token refresh logic #51459
 69789. chore: bump dependencies #69789
 61636. fix: fix broken CSS in mobile view #61636
+66287. fix: correct typo in registration form #66287
