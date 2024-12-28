@@ -2912,3 +2912,4 @@
 82538. perf: reduce image load time #82538
 15526. perf: reduce image load time #15526
 94566. chore: bump dependencies #94566
+51459. docs: document token refresh logic #51459
