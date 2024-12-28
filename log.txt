@@ -2917,3 +2917,4 @@
 61636. fix: fix broken CSS in mobile view #61636
 66287. fix: correct typo in registration form #66287
 41692. docs: clarify environment setup #41692
+95723. chore: update .gitignore #95723
