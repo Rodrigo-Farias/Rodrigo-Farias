@@ -2173,3 +2173,4 @@
 65506. perf: lazy-load components #65506
 26568. test: add integration test for /submit endpoint #26568
 8946. chore: add GitHub actions badge #8946
+72235. style: standardize quote style #72235
