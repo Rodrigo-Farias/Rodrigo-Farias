@@ -2927,3 +2927,4 @@
 32108. perf: cache repeated calculations #32108
 53783. test: test user registration edge cases #53783
 96868. perf: optimize database query for quiz results #96868
+21425. docs: document token refresh logic #21425
