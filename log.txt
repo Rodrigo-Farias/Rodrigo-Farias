@@ -2931,3 +2931,4 @@
 98384. chore: rename env.example #98384
 80528. feat: enable dark mode toggle #80528
 39183. style: remove trailing whitespace #39183
+86997. test: increase coverage on auth module #86997
