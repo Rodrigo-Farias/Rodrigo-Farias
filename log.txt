@@ -2929,3 +2929,4 @@
 96868. perf: optimize database query for quiz results #96868
 21425. docs: document token refresh logic #21425
 98384. chore: rename env.example #98384
+80528. feat: enable dark mode toggle #80528
