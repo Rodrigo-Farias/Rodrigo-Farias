@@ -2930,3 +2930,4 @@
 21425. docs: document token refresh logic #21425
 98384. chore: rename env.example #98384
 80528. feat: enable dark mode toggle #80528
+39183. style: remove trailing whitespace #39183
