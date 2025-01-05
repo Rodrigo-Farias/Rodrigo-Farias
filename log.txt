@@ -2948,3 +2948,4 @@
 19970. fix: correct typo in registration form #19970
 79993. feat: support email verification #79993
 70723. docs: add API usage examples #70723
+71399. perf: cache repeated calculations #71399
