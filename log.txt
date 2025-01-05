@@ -2953,3 +2953,4 @@
 84675. docs: add API usage examples #84675
 51130. feat: support email verification #51130
 73902. fix: correct typo in registration form #73902
+70258. refactor: clean up auth middleware #70258
