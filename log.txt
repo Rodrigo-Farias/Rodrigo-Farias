@@ -2178,3 +2178,4 @@
 80718. test: add unit test for quiz service #80718
 32798. test: increase coverage on auth module #32798
 67006. perf: cache repeated calculations #67006
+24474. refactor: refactor quiz grading logic #24474
