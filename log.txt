@@ -2963,3 +2963,4 @@
 97994. fix: handle 500 error in quiz API #97994
 96215. perf: reduce image load time #96215
 61951. test: add unit test for quiz service #61951
+62764. refactor: organize models into subfolders #62764
