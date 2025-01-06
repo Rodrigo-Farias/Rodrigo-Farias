@@ -2958,3 +2958,4 @@
 74546. fix: fix null pointer exception on login #74546
 55131. style: apply consistent indentation #55131
 84375. style: apply consistent indentation #84375
+85159. chore: add GitHub actions badge #85159
