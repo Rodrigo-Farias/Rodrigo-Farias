@@ -2966,3 +2966,4 @@
 62764. refactor: organize models into subfolders #62764
 13193. perf: optimize database query for quiz results #13193
 20905. feat: enable dark mode toggle #20905
+60252. feat: support email verification #60252
