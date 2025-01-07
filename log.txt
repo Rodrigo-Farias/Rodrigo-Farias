@@ -2974,3 +2974,4 @@
 6834. refactor: clean up auth middleware #6834
 60507. test: increase coverage on auth module #60507
 41848. docs: update README with setup steps #41848
+49882. perf: reduce image load time #49882
