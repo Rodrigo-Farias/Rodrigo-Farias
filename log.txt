@@ -2972,3 +2972,4 @@
 22488. style: remove trailing whitespace #22488
 75052. chore: bump dependencies #75052
 6834. refactor: clean up auth middleware #6834
+60507. test: increase coverage on auth module #60507
