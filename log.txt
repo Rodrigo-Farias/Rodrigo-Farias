@@ -2982,3 +2982,4 @@
 67473. feat: add export to CSV option #67473
 50300. test: mock database connection in test suite #50300
 73642. feat: create admin dashboard #73642
+40141. fix: resolve issue with date parsing #40141
