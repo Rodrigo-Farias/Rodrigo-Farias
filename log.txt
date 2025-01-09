@@ -2985,3 +2985,4 @@
 40141. fix: resolve issue with date parsing #40141
 53169. fix: handle 500 error in quiz API #53169
 55427. fix: handle 500 error in quiz API #55427
+18738. test: add integration test for /submit endpoint #18738
