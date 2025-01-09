@@ -2981,3 +2981,4 @@
 34808. refactor: split large controller into smaller functions #34808
 67473. feat: add export to CSV option #67473
 50300. test: mock database connection in test suite #50300
+73642. feat: create admin dashboard #73642
