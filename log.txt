@@ -2990,3 +2990,4 @@
 84159. feat: support email verification #84159
 72720. docs: clarify environment setup #72720
 13409. fix: fix null pointer exception on login #13409
+84120. feat: enable dark mode toggle #84120
