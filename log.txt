@@ -2997,3 +2997,4 @@
 82598. style: apply consistent indentation #82598
 79978. test: increase coverage on auth module #79978
 41843. fix: handle 500 error in quiz API #41843
+18405. docs: add API usage examples #18405
