@@ -3006,3 +3006,4 @@
 88069. feat: support email verification #88069
 78099. test: increase coverage on auth module #78099
 82861. chore: add GitHub actions badge #82861
+0338. feat: add user authentication #338
