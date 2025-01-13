@@ -2188,3 +2188,4 @@
 63159. chore: clean up unused files #63159
 85501. perf: lazy-load components #85501
 1721. feat: add export to CSV option #1721
+63419. perf: lazy-load components #63419
