@@ -3008,3 +3008,4 @@
 82861. chore: add GitHub actions badge #82861
 0338. feat: add user authentication #338
 56859. docs: clarify environment setup #56859
+67094. feat: enable dark mode toggle #67094
