@@ -3010,3 +3010,4 @@
 56859. docs: clarify environment setup #56859
 67094. feat: enable dark mode toggle #67094
 42665. fix: resolve issue with date parsing #42665
+64888. fix: fix null pointer exception on login #64888
