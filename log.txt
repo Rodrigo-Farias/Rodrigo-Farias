@@ -3004,3 +3004,4 @@
 0587. style: apply consistent indentation #587
 88291. test: test user registration edge cases #88291
 88069. feat: support email verification #88069
+78099. test: increase coverage on auth module #78099
