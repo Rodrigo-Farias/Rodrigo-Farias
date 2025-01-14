@@ -3011,3 +3011,4 @@
 67094. feat: enable dark mode toggle #67094
 42665. fix: resolve issue with date parsing #42665
 64888. fix: fix null pointer exception on login #64888
+26431. feat: enable dark mode toggle #26431
