@@ -3015,3 +3015,4 @@
 21914. test: add integration test for /submit endpoint #21914
 21144. refactor: organize models into subfolders #21144
 33144. fix: correct typo in registration form #33144
+18757. style: reformat files with black #18757
