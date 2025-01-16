@@ -3028,3 +3028,4 @@
 48503. test: add unit test for quiz service #48503
 12849. chore: update .gitignore #12849
 67400. test: add integration test for /submit endpoint #67400
+3267. perf: cache repeated calculations #3267
