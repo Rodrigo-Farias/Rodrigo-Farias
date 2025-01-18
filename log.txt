@@ -2195,3 +2195,4 @@
 7420. chore: update .gitignore #7420
 87463. refactor: organize models into subfolders #87463
 93093. fix: fix broken CSS in mobile view #93093
+1017. fix: handle 500 error in quiz API #1017
