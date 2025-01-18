@@ -2194,3 +2194,4 @@
 89907. refactor: organize models into subfolders #89907
 7420. chore: update .gitignore #7420
 87463. refactor: organize models into subfolders #87463
+93093. fix: fix broken CSS in mobile view #93093
