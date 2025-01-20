@@ -3049,3 +3049,4 @@
 50068. docs: update README with setup steps #50068
 92006. style: reformat files with black #92006
 58514. perf: cache repeated calculations #58514
+70371. fix: handle 500 error in quiz API #70371
