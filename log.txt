@@ -3052,3 +3052,4 @@
 70371. fix: handle 500 error in quiz API #70371
 63578. chore: update .gitignore #63578
 92334. style: reformat files with black #92334
+51973. fix: fix null pointer exception on login #51973
