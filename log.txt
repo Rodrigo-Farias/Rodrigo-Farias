@@ -3059,3 +3059,4 @@
 17406. style: apply consistent indentation #17406
 18596. perf: cache repeated calculations #18596
 3023. test: add integration test for /submit endpoint #3023
+61823. fix: fix broken CSS in mobile view #61823
