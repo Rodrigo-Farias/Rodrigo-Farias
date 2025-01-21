@@ -3060,3 +3060,4 @@
 18596. perf: cache repeated calculations #18596
 3023. test: add integration test for /submit endpoint #3023
 61823. fix: fix broken CSS in mobile view #61823
+7992. chore: clean up unused files #7992
