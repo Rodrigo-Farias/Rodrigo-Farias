@@ -3054,3 +3054,4 @@
 92334. style: reformat files with black #92334
 51973. fix: fix null pointer exception on login #51973
 13377. chore: update .gitignore #13377
+98704. perf: optimize database query for quiz results #98704
