@@ -3064,3 +3064,4 @@
 8863. refactor: split large controller into smaller functions #8863
 81243. test: increase coverage on auth module #81243
 98632. style: rename variables for clarity #98632
+60087. style: standardize quote style #60087
