@@ -3070,3 +3070,4 @@
 19891. refactor: remove redundant code blocks #19891
 45379. docs: improve code comments in utils #45379
 89025. perf: reduce image load time #89025
+91439. test: test user registration edge cases #91439
