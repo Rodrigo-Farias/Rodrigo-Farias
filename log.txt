@@ -2198,3 +2198,4 @@
 1017. fix: handle 500 error in quiz API #1017
 56359. docs: document token refresh logic #56359
 75636. test: test user registration edge cases #75636
+39440. perf: reduce image load time #39440
