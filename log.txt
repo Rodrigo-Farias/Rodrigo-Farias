@@ -3087,3 +3087,4 @@
 63241. refactor: refactor quiz grading logic #63241
 79710. fix: handle 500 error in quiz API #79710
 35202. style: apply consistent indentation #35202
+22725. perf: optimize database query for quiz results #22725
