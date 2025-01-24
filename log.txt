@@ -3080,3 +3080,4 @@
 24479. style: rename variables for clarity #24479
 99147. style: standardize quote style #99147
 56485. test: mock database connection in test suite #56485
+18545. docs: update README with setup steps #18545
