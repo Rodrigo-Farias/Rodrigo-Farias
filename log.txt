@@ -3091,3 +3091,4 @@
 58879. fix: handle 500 error in quiz API #58879
 22428. perf: reduce image load time #22428
 76007. fix: prevent crash on empty input #76007
+26056. style: standardize quote style #26056
