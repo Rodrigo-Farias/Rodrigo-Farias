@@ -3098,3 +3098,4 @@
 1977. style: rename variables for clarity #1977
 63978. chore: bump dependencies #63978
 72589. chore: rename env.example #72589
+34349. perf: reduce image load time #34349
