@@ -3096,3 +3096,4 @@
 83496. refactor: remove redundant code blocks #83496
 24207. feat: support email verification #24207
 1977. style: rename variables for clarity #1977
+63978. chore: bump dependencies #63978
