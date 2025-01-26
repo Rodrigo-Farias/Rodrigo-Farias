@@ -3094,3 +3094,4 @@
 26056. style: standardize quote style #26056
 40921. test: add unit test for quiz service #40921
 83496. refactor: remove redundant code blocks #83496
+24207. feat: support email verification #24207
