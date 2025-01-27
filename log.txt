@@ -3106,3 +3106,4 @@
 8270. style: apply consistent indentation #8270
 89476. refactor: split large controller into smaller functions #89476
 27098. docs: document token refresh logic #27098
+61159. test: mock database connection in test suite #61159
