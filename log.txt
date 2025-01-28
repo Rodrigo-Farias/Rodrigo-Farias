@@ -180,3 +180,4 @@
 49020. chore: rename env.example #49020
 55552. refactor: organize models into subfolders #55552
 39344. chore: update .gitignore #39344
+49797. perf: lazy-load components #49797
