@@ -3119,3 +3119,4 @@
 62498. perf: cache repeated calculations #62498
 93949. test: test user registration edge cases #93949
 30413. test: add integration test for /submit endpoint #30413
+38397. test: increase coverage on auth module #38397
