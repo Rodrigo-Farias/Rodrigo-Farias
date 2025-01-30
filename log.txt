@@ -3127,3 +3127,4 @@
 54644. perf: optimize database query for quiz results #54644
 69256. perf: lazy-load components #69256
 41538. style: reformat files with black #41538
+88872. feat: enable dark mode toggle #88872
