@@ -3125,3 +3125,4 @@
 90508. fix: handle 500 error in quiz API #90508
 58778. test: test user registration edge cases #58778
 54644. perf: optimize database query for quiz results #54644
+69256. perf: lazy-load components #69256
