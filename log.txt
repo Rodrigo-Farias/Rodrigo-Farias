@@ -3129,3 +3129,4 @@
 41538. style: reformat files with black #41538
 88872. feat: enable dark mode toggle #88872
 48878. feat: implement quiz timer feature #48878
+60297. feat: support email verification #60297
