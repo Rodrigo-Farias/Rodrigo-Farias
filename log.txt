@@ -2206,3 +2206,4 @@
 6980. perf: cache repeated calculations #6980
 44862. refactor: organize models into subfolders #44862
 62552. docs: add API usage examples #62552
+66221. refactor: organize models into subfolders #66221
