@@ -3150,3 +3150,4 @@
 94766. chore: update .gitignore #94766
 82114. test: add unit test for quiz service #82114
 52481. chore: add GitHub actions badge #52481
+58619. fix: fix broken CSS in mobile view #58619
