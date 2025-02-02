@@ -3149,3 +3149,4 @@
 39030. style: standardize quote style #39030
 94766. chore: update .gitignore #94766
 82114. test: add unit test for quiz service #82114
+52481. chore: add GitHub actions badge #52481
