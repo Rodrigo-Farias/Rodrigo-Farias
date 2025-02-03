@@ -3153,3 +3153,4 @@
 58619. fix: fix broken CSS in mobile view #58619
 18448. feat: add user authentication #18448
 41390. refactor: clean up auth middleware #41390
+88809. fix: fix broken CSS in mobile view #88809
