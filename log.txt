@@ -3160,3 +3160,4 @@
 73513. style: reformat files with black #73513
 34171. refactor: organize models into subfolders #34171
 70755. test: increase coverage on auth module #70755
+75105. style: remove trailing whitespace #75105
