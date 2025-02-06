@@ -3165,3 +3165,4 @@
 5020. feat: support email verification #5020
 73481. feat: implement quiz timer feature #73481
 19647. refactor: clean up auth middleware #19647
+39052. fix: fix null pointer exception on login #39052
