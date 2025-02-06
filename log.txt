@@ -3162,3 +3162,4 @@
 70755. test: increase coverage on auth module #70755
 75105. style: remove trailing whitespace #75105
 81599. fix: resolve issue with date parsing #81599
+5020. feat: support email verification #5020
