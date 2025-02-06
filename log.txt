@@ -3164,3 +3164,4 @@
 81599. fix: resolve issue with date parsing #81599
 5020. feat: support email verification #5020
 73481. feat: implement quiz timer feature #73481
+19647. refactor: clean up auth middleware #19647
