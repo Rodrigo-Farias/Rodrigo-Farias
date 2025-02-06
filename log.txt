@@ -2210,3 +2210,4 @@
 57684. perf: cache repeated calculations #57684
 96833. chore: clean up unused files #96833
 78810. perf: lazy-load components #78810
+43794. refactor: split large controller into smaller functions #43794
