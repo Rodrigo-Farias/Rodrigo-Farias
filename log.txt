@@ -2212,3 +2212,4 @@
 78810. perf: lazy-load components #78810
 43794. refactor: split large controller into smaller functions #43794
 51560. feat: support email verification #51560
+50766. perf: reduce image load time #50766
