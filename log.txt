@@ -3171,3 +3171,4 @@
 58543. feat: support email verification #58543
 9264. test: increase coverage on auth module #9264
 52582. fix: prevent crash on empty input #52582
+0356. feat: enable dark mode toggle #356
