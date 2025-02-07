@@ -3170,3 +3170,4 @@
 42610. docs: update README with setup steps #42610
 58543. feat: support email verification #58543
 9264. test: increase coverage on auth module #9264
+52582. fix: prevent crash on empty input #52582
