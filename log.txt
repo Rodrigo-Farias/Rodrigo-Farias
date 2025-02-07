@@ -3172,3 +3172,4 @@
 9264. test: increase coverage on auth module #9264
 52582. fix: prevent crash on empty input #52582
 0356. feat: enable dark mode toggle #356
+2637. test: mock database connection in test suite #2637
