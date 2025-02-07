@@ -3174,3 +3174,4 @@
 0356. feat: enable dark mode toggle #356
 2637. test: mock database connection in test suite #2637
 22092. chore: bump dependencies #22092
+14043. feat: support email verification #14043
