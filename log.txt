@@ -3179,3 +3179,4 @@
 23661. fix: prevent crash on empty input #23661
 96980. fix: fix broken CSS in mobile view #96980
 2716. perf: reduce image load time #2716
+97569. feat: add user authentication #97569
