@@ -3176,3 +3176,4 @@
 22092. chore: bump dependencies #22092
 14043. feat: support email verification #14043
 21864. perf: reduce image load time #21864
+23661. fix: prevent crash on empty input #23661
