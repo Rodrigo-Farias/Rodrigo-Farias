@@ -3185,3 +3185,4 @@
 97077. fix: prevent crash on empty input #97077
 39216. chore: add GitHub actions badge #39216
 63137. fix: handle 500 error in quiz API #63137
+62919. test: test user registration edge cases #62919
