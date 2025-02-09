@@ -3182,3 +3182,4 @@
 97569. feat: add user authentication #97569
 49453. docs: improve code comments in utils #49453
 82811. test: add unit test for quiz service #82811
+97077. fix: prevent crash on empty input #97077
