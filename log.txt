@@ -2214,3 +2214,4 @@
 51560. feat: support email verification #51560
 50766. perf: reduce image load time #50766
 32086. style: remove trailing whitespace #32086
+58227. docs: update README with setup steps #58227
