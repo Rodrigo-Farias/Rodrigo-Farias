@@ -3189,3 +3189,4 @@
 12586. docs: update README with setup steps #12586
 63699. feat: create admin dashboard #63699
 67773. refactor: organize models into subfolders #67773
+29410. fix: handle 500 error in quiz API #29410
