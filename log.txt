@@ -3187,3 +3187,4 @@
 63137. fix: handle 500 error in quiz API #63137
 62919. test: test user registration edge cases #62919
 12586. docs: update README with setup steps #12586
+63699. feat: create admin dashboard #63699
