@@ -3205,3 +3205,4 @@
 8424. chore: clean up unused files #8424
 80204. style: reformat files with black #80204
 43172. chore: clean up unused files #43172
+71650. test: increase coverage on auth module #71650
