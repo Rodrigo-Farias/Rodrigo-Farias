@@ -3212,3 +3212,4 @@
 38343. docs: improve code comments in utils #38343
 69314. fix: correct typo in registration form #69314
 78627. fix: prevent crash on empty input #78627
+78987. feat: support email verification #78987
