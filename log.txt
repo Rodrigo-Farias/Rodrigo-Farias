@@ -3213,3 +3213,4 @@
 69314. fix: correct typo in registration form #69314
 78627. fix: prevent crash on empty input #78627
 78987. feat: support email verification #78987
+98538. fix: prevent crash on empty input #98538
