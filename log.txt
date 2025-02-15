@@ -3215,3 +3215,4 @@
 78987. feat: support email verification #78987
 98538. fix: prevent crash on empty input #98538
 94096. feat: add export to CSV option #94096
+36411. refactor: refactor quiz grading logic #36411
