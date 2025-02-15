@@ -3217,3 +3217,4 @@
 94096. feat: add export to CSV option #94096
 36411. refactor: refactor quiz grading logic #36411
 14572. feat: add user authentication #14572
+48669. fix: fix broken CSS in mobile view #48669
