@@ -3222,3 +3222,4 @@
 47780. test: add unit test for quiz service #47780
 56396. perf: optimize database query for quiz results #56396
 87264. refactor: split large controller into smaller functions #87264
+81309. fix: fix null pointer exception on login #81309
