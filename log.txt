@@ -3223,3 +3223,4 @@
 56396. perf: optimize database query for quiz results #56396
 87264. refactor: split large controller into smaller functions #87264
 81309. fix: fix null pointer exception on login #81309
+77004. test: mock database connection in test suite #77004
