@@ -2224,3 +2224,4 @@
 39825. test: increase coverage on auth module #39825
 52341. refactor: split large controller into smaller functions #52341
 14939. fix: correct typo in registration form #14939
+60271. fix: handle 500 error in quiz API #60271
