@@ -3226,3 +3226,4 @@
 77004. test: mock database connection in test suite #77004
 29337. feat: add export to CSV option #29337
 25928. refactor: refactor quiz grading logic #25928
+96153. chore: update .gitignore #96153
