@@ -3236,3 +3236,4 @@
 90933. perf: reduce image load time #90933
 68847. fix: handle 500 error in quiz API #68847
 40183. test: test user registration edge cases #40183
+36633. chore: clean up unused files #36633
