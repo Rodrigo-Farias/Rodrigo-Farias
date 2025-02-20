@@ -3235,3 +3235,4 @@
 49267. chore: rename env.example #49267
 90933. perf: reduce image load time #90933
 68847. fix: handle 500 error in quiz API #68847
+40183. test: test user registration edge cases #40183
