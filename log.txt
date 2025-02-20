@@ -2227,3 +2227,4 @@
 60271. fix: handle 500 error in quiz API #60271
 64893. perf: lazy-load components #64893
 78311. style: remove trailing whitespace #78311
+43770. feat: enable dark mode toggle #43770
