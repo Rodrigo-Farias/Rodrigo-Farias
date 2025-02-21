@@ -2228,3 +2228,4 @@
 64893. perf: lazy-load components #64893
 78311. style: remove trailing whitespace #78311
 43770. feat: enable dark mode toggle #43770
+58359. feat: enable dark mode toggle #58359
