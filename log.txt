@@ -3248,3 +3248,4 @@
 65670. docs: add API usage examples #65670
 96158. refactor: split large controller into smaller functions #96158
 93173. test: test user registration edge cases #93173
+43428. fix: handle 500 error in quiz API #43428
