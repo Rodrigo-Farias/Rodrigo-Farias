@@ -3249,3 +3249,4 @@
 96158. refactor: split large controller into smaller functions #96158
 93173. test: test user registration edge cases #93173
 43428. fix: handle 500 error in quiz API #43428
+95689. refactor: clean up auth middleware #95689
