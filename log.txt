@@ -2231,3 +2231,4 @@
 58359. feat: enable dark mode toggle #58359
 0756. style: rename variables for clarity #756
 71049. perf: optimize database query for quiz results #71049
+3629. refactor: clean up auth middleware #3629
