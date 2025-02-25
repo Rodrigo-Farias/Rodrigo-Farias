@@ -3270,3 +3270,4 @@
 47223. chore: update .gitignore #47223
 17020. fix: prevent crash on empty input #17020
 25306. test: add unit test for quiz service #25306
+93722. feat: add user authentication #93722
