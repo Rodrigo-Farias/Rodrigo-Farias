@@ -3258,3 +3258,4 @@
 23808. chore: rename env.example #23808
 11756. refactor: split large controller into smaller functions #11756
 15369. perf: cache repeated calculations #15369
+28908. chore: bump dependencies #28908
