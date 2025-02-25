@@ -3268,3 +3268,4 @@
 47923. style: remove trailing whitespace #47923
 68165. feat: enable dark mode toggle #68165
 47223. chore: update .gitignore #47223
+17020. fix: prevent crash on empty input #17020
