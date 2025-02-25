@@ -3263,3 +3263,4 @@
 26396. test: mock database connection in test suite #26396
 36614. chore: update .gitignore #36614
 81415. perf: reduce image load time #81415
+7949. feat: create admin dashboard #7949
