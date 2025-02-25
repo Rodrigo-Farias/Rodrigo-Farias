@@ -3264,3 +3264,4 @@
 36614. chore: update .gitignore #36614
 81415. perf: reduce image load time #81415
 7949. feat: create admin dashboard #7949
+63260. refactor: organize models into subfolders #63260
