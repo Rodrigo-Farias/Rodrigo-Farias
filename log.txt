@@ -3275,3 +3275,4 @@
 57702. fix: resolve issue with date parsing #57702
 90437. chore: update .gitignore #90437
 57502. fix: resolve issue with date parsing #57502
+40731. docs: document token refresh logic #40731
