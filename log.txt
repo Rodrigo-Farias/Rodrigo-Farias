@@ -3266,3 +3266,4 @@
 7949. feat: create admin dashboard #7949
 63260. refactor: organize models into subfolders #63260
 47923. style: remove trailing whitespace #47923
+68165. feat: enable dark mode toggle #68165
