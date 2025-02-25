@@ -3265,3 +3265,4 @@
 81415. perf: reduce image load time #81415
 7949. feat: create admin dashboard #7949
 63260. refactor: organize models into subfolders #63260
+47923. style: remove trailing whitespace #47923
