@@ -3279,3 +3279,4 @@
 72276. docs: add API usage examples #72276
 36512. chore: update .gitignore #36512
 95371. docs: write FAQ section #95371
+11087. chore: bump dependencies #11087
