@@ -2234,3 +2234,4 @@
 3629. refactor: clean up auth middleware #3629
 32548. fix: correct typo in registration form #32548
 54595. test: add unit test for quiz service #54595
+55803. style: reformat files with black #55803
