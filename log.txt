@@ -3282,3 +3282,4 @@
 11087. chore: bump dependencies #11087
 99239. style: rename variables for clarity #99239
 68591. style: apply consistent indentation #68591
+27524. test: test user registration edge cases #27524
