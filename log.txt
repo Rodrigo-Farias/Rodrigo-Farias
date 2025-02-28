@@ -3288,3 +3288,4 @@
 53508. style: rename variables for clarity #53508
 90466. style: standardize quote style #90466
 92069. fix: prevent crash on empty input #92069
+23583. fix: fix broken CSS in mobile view #23583
