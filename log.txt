@@ -3300,3 +3300,4 @@
 11215. docs: add API usage examples #11215
 95733. perf: lazy-load components #95733
 48984. perf: lazy-load components #48984
+61187. perf: lazy-load components #61187
