@@ -3307,3 +3307,4 @@
 43261. perf: lazy-load components #43261
 42174. chore: rename env.example #42174
 74639. chore: update .gitignore #74639
+3346. perf: reduce image load time #3346
