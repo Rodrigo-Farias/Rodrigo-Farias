@@ -3315,3 +3315,4 @@
 30237. feat: implement quiz timer feature #30237
 66749. refactor: remove redundant code blocks #66749
 79891. docs: document token refresh logic #79891
+42146. fix: handle 500 error in quiz API #42146
