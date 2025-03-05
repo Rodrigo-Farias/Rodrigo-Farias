@@ -2238,3 +2238,4 @@
 95035. feat: enable dark mode toggle #95035
 58022. docs: add API usage examples #58022
 36331. fix: fix broken CSS in mobile view #36331
+20983. chore: add GitHub actions badge #20983
