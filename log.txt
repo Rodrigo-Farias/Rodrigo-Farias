@@ -3316,3 +3316,4 @@
 66749. refactor: remove redundant code blocks #66749
 79891. docs: document token refresh logic #79891
 42146. fix: handle 500 error in quiz API #42146
+44397. feat: support email verification #44397
