@@ -3310,3 +3310,4 @@
 3346. perf: reduce image load time #3346
 74233. test: add integration test for /submit endpoint #74233
 10904. fix: resolve issue with date parsing #10904
+40555. chore: add GitHub actions badge #40555
