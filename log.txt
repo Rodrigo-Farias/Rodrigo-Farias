@@ -183,3 +183,4 @@
 49797. perf: lazy-load components #49797
 85481. fix: prevent crash on empty input #85481
 43618. style: reformat files with black #43618
+65058. feat: enable dark mode toggle #65058
