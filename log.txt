@@ -3320,3 +3320,4 @@
 38785. test: add unit test for quiz service #38785
 30760. style: rename variables for clarity #30760
 18807. style: standardize quote style #18807
+50272. refactor: clean up auth middleware #50272
