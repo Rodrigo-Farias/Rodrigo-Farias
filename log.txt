@@ -2239,3 +2239,4 @@
 58022. docs: add API usage examples #58022
 36331. fix: fix broken CSS in mobile view #36331
 20983. chore: add GitHub actions badge #20983
+95305. fix: prevent crash on empty input #95305
