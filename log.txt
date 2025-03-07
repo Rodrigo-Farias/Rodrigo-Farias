@@ -3325,3 +3325,4 @@
 88991. chore: rename env.example #88991
 94660. feat: enable dark mode toggle #94660
 75179. test: add integration test for /submit endpoint #75179
+27177. feat: add user authentication #27177
