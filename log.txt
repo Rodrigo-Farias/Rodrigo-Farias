@@ -3340,3 +3340,4 @@
 69248. style: standardize quote style #69248
 67559. fix: prevent crash on empty input #67559
 48593. fix: handle 500 error in quiz API #48593
+47584. test: add unit test for quiz service #47584
