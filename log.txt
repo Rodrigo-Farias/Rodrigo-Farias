@@ -3339,3 +3339,4 @@
 89934. feat: create admin dashboard #89934
 69248. style: standardize quote style #69248
 67559. fix: prevent crash on empty input #67559
+48593. fix: handle 500 error in quiz API #48593
