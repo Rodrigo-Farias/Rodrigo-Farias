@@ -3341,3 +3341,4 @@
 67559. fix: prevent crash on empty input #67559
 48593. fix: handle 500 error in quiz API #48593
 47584. test: add unit test for quiz service #47584
+94533. docs: document token refresh logic #94533
