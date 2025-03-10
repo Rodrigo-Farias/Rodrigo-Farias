@@ -3347,3 +3347,4 @@
 73539. style: reformat files with black #73539
 64597. docs: update README with setup steps #64597
 54524. refactor: remove redundant code blocks #54524
+11315. fix: prevent crash on empty input #11315
