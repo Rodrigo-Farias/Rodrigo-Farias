@@ -3348,3 +3348,4 @@
 64597. docs: update README with setup steps #64597
 54524. refactor: remove redundant code blocks #54524
 11315. fix: prevent crash on empty input #11315
+45088. perf: lazy-load components #45088
