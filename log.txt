@@ -3353,3 +3353,4 @@
 55852. fix: correct typo in registration form #55852
 11555. fix: prevent crash on empty input #11555
 5388. test: test user registration edge cases #5388
+27866. chore: rename env.example #27866
