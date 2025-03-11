@@ -2243,3 +2243,4 @@
 17815. perf: reduce image load time #17815
 77151. feat: add export to CSV option #77151
 36854. docs: document token refresh logic #36854
+54824. perf: lazy-load components #54824
