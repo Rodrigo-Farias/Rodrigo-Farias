@@ -3350,3 +3350,4 @@
 11315. fix: prevent crash on empty input #11315
 45088. perf: lazy-load components #45088
 83075. style: remove trailing whitespace #83075
+55852. fix: correct typo in registration form #55852
