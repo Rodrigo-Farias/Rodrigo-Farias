@@ -3359,3 +3359,4 @@
 36561. feat: create admin dashboard #36561
 3021. fix: correct typo in registration form #3021
 87562. feat: add user authentication #87562
+13177. docs: document token refresh logic #13177
