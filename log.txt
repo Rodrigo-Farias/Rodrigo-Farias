@@ -3363,3 +3363,4 @@
 66559. docs: clarify environment setup #66559
 85945. docs: document token refresh logic #85945
 97008. style: reformat files with black #97008
+8177. perf: cache repeated calculations #8177
