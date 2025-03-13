@@ -3367,3 +3367,4 @@
 88553. fix: handle 500 error in quiz API #88553
 71907. feat: enable dark mode toggle #71907
 29611. feat: add export to CSV option #29611
+1274. feat: add user authentication #1274
