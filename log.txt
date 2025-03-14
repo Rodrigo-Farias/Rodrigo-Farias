@@ -3374,3 +3374,4 @@
 42990. feat: add export to CSV option #42990
 4288. test: test user registration edge cases #4288
 94379. feat: support email verification #94379
+1087. style: reformat files with black #1087
