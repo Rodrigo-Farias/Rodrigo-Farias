@@ -3373,3 +3373,4 @@
 70742. refactor: remove redundant code blocks #70742
 42990. feat: add export to CSV option #42990
 4288. test: test user registration edge cases #4288
+94379. feat: support email verification #94379
