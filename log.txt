@@ -3372,3 +3372,4 @@
 92689. perf: optimize database query for quiz results #92689
 70742. refactor: remove redundant code blocks #70742
 42990. feat: add export to CSV option #42990
+4288. test: test user registration edge cases #4288
