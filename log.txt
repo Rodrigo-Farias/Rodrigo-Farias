@@ -3378,3 +3378,4 @@
 30855. style: rename variables for clarity #30855
 13825. feat: create admin dashboard #13825
 84528. fix: handle 500 error in quiz API #84528
+42038. chore: add GitHub actions badge #42038
