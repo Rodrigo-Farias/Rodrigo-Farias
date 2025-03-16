@@ -3394,3 +3394,4 @@
 88892. style: reformat files with black #88892
 68883. fix: prevent crash on empty input #68883
 5161. refactor: clean up auth middleware #5161
+40300. style: standardize quote style #40300
