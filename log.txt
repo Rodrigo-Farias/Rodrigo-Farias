@@ -3396,3 +3396,4 @@
 5161. refactor: clean up auth middleware #5161
 40300. style: standardize quote style #40300
 40774. test: add unit test for quiz service #40774
+16816. style: reformat files with black #16816
