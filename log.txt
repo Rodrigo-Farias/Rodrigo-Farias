@@ -2249,3 +2249,4 @@
 28371. style: apply consistent indentation #28371
 13229. chore: add GitHub actions badge #13229
 44063. test: mock database connection in test suite #44063
+17643. style: remove trailing whitespace #17643
