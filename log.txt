@@ -2252,3 +2252,4 @@
 17643. style: remove trailing whitespace #17643
 1825. perf: lazy-load components #1825
 84565. docs: write FAQ section #84565
+71289. refactor: remove redundant code blocks #71289
