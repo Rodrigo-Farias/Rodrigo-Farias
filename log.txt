@@ -3411,3 +3411,4 @@
 92476. style: reformat files with black #92476
 82473. style: reformat files with black #82473
 6988. docs: clarify environment setup #6988
+78951. style: remove trailing whitespace #78951
