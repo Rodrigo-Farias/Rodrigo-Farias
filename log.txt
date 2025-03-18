@@ -2251,3 +2251,4 @@
 44063. test: mock database connection in test suite #44063
 17643. style: remove trailing whitespace #17643
 1825. perf: lazy-load components #1825
+84565. docs: write FAQ section #84565
