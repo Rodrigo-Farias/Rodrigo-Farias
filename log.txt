@@ -3412,3 +3412,4 @@
 82473. style: reformat files with black #82473
 6988. docs: clarify environment setup #6988
 78951. style: remove trailing whitespace #78951
+7384. feat: enable dark mode toggle #7384
