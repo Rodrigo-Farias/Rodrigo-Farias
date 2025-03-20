@@ -3418,3 +3418,4 @@
 73686. docs: improve code comments in utils #73686
 29496. test: add unit test for quiz service #29496
 25695. refactor: clean up auth middleware #25695
+11469. fix: prevent crash on empty input #11469
