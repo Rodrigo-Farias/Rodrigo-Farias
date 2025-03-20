@@ -2254,3 +2254,4 @@
 84565. docs: write FAQ section #84565
 71289. refactor: remove redundant code blocks #71289
 79842. fix: handle 500 error in quiz API #79842
+6157. feat: implement quiz timer feature #6157
