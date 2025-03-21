@@ -3423,3 +3423,4 @@
 67579. perf: lazy-load components #67579
 34794. chore: add GitHub actions badge #34794
 27191. refactor: refactor quiz grading logic #27191
+67799. perf: reduce image load time #67799
