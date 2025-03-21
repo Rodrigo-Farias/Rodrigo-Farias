@@ -3426,3 +3426,4 @@
 67799. perf: reduce image load time #67799
 84274. refactor: refactor quiz grading logic #84274
 45167. fix: fix null pointer exception on login #45167
+42857. fix: handle 500 error in quiz API #42857
