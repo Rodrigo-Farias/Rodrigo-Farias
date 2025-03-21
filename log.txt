@@ -3421,3 +3421,4 @@
 11469. fix: prevent crash on empty input #11469
 68786. fix: fix broken CSS in mobile view #68786
 67579. perf: lazy-load components #67579
+34794. chore: add GitHub actions badge #34794
