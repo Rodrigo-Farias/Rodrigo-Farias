@@ -2256,3 +2256,4 @@
 79842. fix: handle 500 error in quiz API #79842
 6157. feat: implement quiz timer feature #6157
 42749. test: add unit test for quiz service #42749
+9768. perf: reduce image load time #9768
