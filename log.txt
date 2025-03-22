@@ -3435,3 +3435,4 @@
 55385. refactor: remove redundant code blocks #55385
 48869. chore: rename env.example #48869
 57761. perf: optimize database query for quiz results #57761
+28615. fix: fix null pointer exception on login #28615
