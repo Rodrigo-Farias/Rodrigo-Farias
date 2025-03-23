@@ -2258,3 +2258,4 @@
 42749. test: add unit test for quiz service #42749
 9768. perf: reduce image load time #9768
 72484. fix: fix broken CSS in mobile view #72484
+4626. feat: support email verification #4626
