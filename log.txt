@@ -3446,3 +3446,4 @@
 37199. chore: add GitHub actions badge #37199
 16868. refactor: split large controller into smaller functions #16868
 23241. docs: add API usage examples #23241
+35155. feat: create admin dashboard #35155
