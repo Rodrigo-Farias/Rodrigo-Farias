@@ -3457,3 +3457,4 @@
 88711. docs: document token refresh logic #88711
 37034. refactor: split large controller into smaller functions #37034
 73904. test: increase coverage on auth module #73904
+62937. refactor: remove redundant code blocks #62937
