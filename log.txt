@@ -3456,3 +3456,4 @@
 53296. style: standardize quote style #53296
 88711. docs: document token refresh logic #88711
 37034. refactor: split large controller into smaller functions #37034
+73904. test: increase coverage on auth module #73904
