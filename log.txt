@@ -3465,3 +3465,4 @@
 76724. test: test user registration edge cases #76724
 10974. chore: clean up unused files #10974
 75094. fix: correct typo in registration form #75094
+27845. docs: update README with setup steps #27845
