@@ -3462,3 +3462,4 @@
 46328. style: standardize quote style #46328
 66665. perf: optimize database query for quiz results #66665
 5835. docs: improve code comments in utils #5835
+76724. test: test user registration edge cases #76724
