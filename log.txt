@@ -3474,3 +3474,4 @@
 34066. chore: add GitHub actions badge #34066
 75901. refactor: clean up auth middleware #75901
 92207. refactor: clean up auth middleware #92207
+45193. feat: support email verification #45193
