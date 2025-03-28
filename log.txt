@@ -3471,3 +3471,4 @@
 26590. test: add unit test for quiz service #26590
 9090. test: add unit test for quiz service #9090
 58819. docs: add API usage examples #58819
+34066. chore: add GitHub actions badge #34066
