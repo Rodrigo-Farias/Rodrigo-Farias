@@ -3476,3 +3476,4 @@
 92207. refactor: clean up auth middleware #92207
 45193. feat: support email verification #45193
 90148. chore: bump dependencies #90148
+22691. style: remove trailing whitespace #22691
