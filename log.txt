@@ -3480,3 +3480,4 @@
 64592. test: test user registration edge cases #64592
 72038. feat: add user authentication #72038
 53036. feat: implement quiz timer feature #53036
+54234. docs: update README with setup steps #54234
