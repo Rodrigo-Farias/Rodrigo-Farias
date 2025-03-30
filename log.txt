@@ -3481,3 +3481,4 @@
 72038. feat: add user authentication #72038
 53036. feat: implement quiz timer feature #53036
 54234. docs: update README with setup steps #54234
+35936. perf: reduce image load time #35936
