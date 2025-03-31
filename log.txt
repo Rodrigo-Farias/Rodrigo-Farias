@@ -3484,3 +3484,4 @@
 35936. perf: reduce image load time #35936
 61764. feat: support email verification #61764
 64700. feat: add export to CSV option #64700
+10191. docs: clarify environment setup #10191
