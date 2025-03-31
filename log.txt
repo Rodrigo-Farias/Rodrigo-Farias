@@ -2263,3 +2263,4 @@
 99155. refactor: organize models into subfolders #99155
 59199. perf: cache repeated calculations #59199
 93148. feat: implement quiz timer feature #93148
+1088. fix: fix null pointer exception on login #1088
