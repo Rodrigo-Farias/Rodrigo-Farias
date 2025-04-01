@@ -3494,3 +3494,4 @@
 11820. refactor: clean up auth middleware #11820
 39914. refactor: organize models into subfolders #39914
 5877. test: add integration test for /submit endpoint #5877
+33132. test: test user registration edge cases #33132
