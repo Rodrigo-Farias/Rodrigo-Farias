@@ -3504,3 +3504,4 @@
 58655. fix: correct typo in registration form #58655
 80839. refactor: organize models into subfolders #80839
 2010. fix: prevent crash on empty input #2010
+23559. fix: prevent crash on empty input #23559
