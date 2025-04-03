@@ -3503,3 +3503,4 @@
 32717. test: add unit test for quiz service #32717
 58655. fix: correct typo in registration form #58655
 80839. refactor: organize models into subfolders #80839
+2010. fix: prevent crash on empty input #2010
