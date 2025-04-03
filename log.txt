@@ -2265,3 +2265,4 @@
 93148. feat: implement quiz timer feature #93148
 1088. fix: fix null pointer exception on login #1088
 49304. refactor: split large controller into smaller functions #49304
+75129. refactor: clean up auth middleware #75129
