@@ -3512,3 +3512,4 @@
 84817. chore: clean up unused files #84817
 33019. fix: resolve issue with date parsing #33019
 44582. refactor: refactor quiz grading logic #44582
+55082. feat: support email verification #55082
