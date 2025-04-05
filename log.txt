@@ -3517,3 +3517,4 @@
 43621. docs: improve code comments in utils #43621
 76232. refactor: refactor quiz grading logic #76232
 53075. test: test user registration edge cases #53075
+32325. fix: handle 500 error in quiz API #32325
