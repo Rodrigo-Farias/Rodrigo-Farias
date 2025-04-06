@@ -3519,3 +3519,4 @@
 53075. test: test user registration edge cases #53075
 32325. fix: handle 500 error in quiz API #32325
 94851. fix: prevent crash on empty input #94851
+17800. fix: correct typo in registration form #17800
