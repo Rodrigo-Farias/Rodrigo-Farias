@@ -3520,3 +3520,4 @@
 32325. fix: handle 500 error in quiz API #32325
 94851. fix: prevent crash on empty input #94851
 17800. fix: correct typo in registration form #17800
+46680. chore: update .gitignore #46680
