@@ -3525,3 +3525,4 @@
 41938. refactor: organize models into subfolders #41938
 20705. refactor: remove redundant code blocks #20705
 12550. feat: implement quiz timer feature #12550
+79715. style: standardize quote style #79715
