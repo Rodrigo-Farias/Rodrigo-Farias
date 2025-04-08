@@ -3533,3 +3533,4 @@
 40440. docs: add API usage examples #40440
 78858. perf: reduce image load time #78858
 78034. docs: write FAQ section #78034
+90711. test: increase coverage on auth module #90711
