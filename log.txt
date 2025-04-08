@@ -3532,3 +3532,4 @@
 98397. perf: optimize database query for quiz results #98397
 40440. docs: add API usage examples #40440
 78858. perf: reduce image load time #78858
+78034. docs: write FAQ section #78034
