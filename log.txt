@@ -3535,3 +3535,4 @@
 78034. docs: write FAQ section #78034
 90711. test: increase coverage on auth module #90711
 84044. test: mock database connection in test suite #84044
+9122. test: mock database connection in test suite #9122
