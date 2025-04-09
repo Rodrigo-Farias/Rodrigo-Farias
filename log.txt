@@ -3539,3 +3539,4 @@
 13913. test: increase coverage on auth module #13913
 98233. feat: add user authentication #98233
 49557. chore: update .gitignore #49557
+59029. perf: optimize database query for quiz results #59029
