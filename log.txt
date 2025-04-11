@@ -2272,3 +2272,4 @@
 97714. docs: add API usage examples #97714
 31500. test: increase coverage on auth module #31500
 34488. refactor: split large controller into smaller functions #34488
+7218. docs: add API usage examples #7218
