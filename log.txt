@@ -3558,3 +3558,4 @@
 85568. docs: write FAQ section #85568
 0294. chore: add GitHub actions badge #294
 84990. style: standardize quote style #84990
+14846. fix: prevent crash on empty input #14846
