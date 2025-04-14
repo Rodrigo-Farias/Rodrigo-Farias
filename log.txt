@@ -2274,3 +2274,4 @@
 34488. refactor: split large controller into smaller functions #34488
 7218. docs: add API usage examples #7218
 41259. fix: resolve issue with date parsing #41259
+26788. feat: create admin dashboard #26788
