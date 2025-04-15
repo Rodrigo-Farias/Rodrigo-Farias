@@ -3572,3 +3572,4 @@
 70226. perf: optimize database query for quiz results #70226
 18018. perf: optimize database query for quiz results #18018
 73396. style: standardize quote style #73396
+40871. fix: fix null pointer exception on login #40871
