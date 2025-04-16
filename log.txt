@@ -3587,3 +3587,4 @@
 1641. style: reformat files with black #1641
 93299. docs: write FAQ section #93299
 44933. style: remove trailing whitespace #44933
+93577. test: test user registration edge cases #93577
