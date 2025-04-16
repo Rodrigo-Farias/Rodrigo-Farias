@@ -3589,3 +3589,4 @@
 44933. style: remove trailing whitespace #44933
 93577. test: test user registration edge cases #93577
 2363. docs: clarify environment setup #2363
+74802. test: add integration test for /submit endpoint #74802
