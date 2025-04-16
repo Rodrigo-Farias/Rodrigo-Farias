@@ -3579,3 +3579,4 @@
 73306. docs: add API usage examples #73306
 92929. fix: prevent crash on empty input #92929
 78868. feat: implement quiz timer feature #78868
+1038. docs: update README with setup steps #1038
