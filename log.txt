@@ -3601,3 +3601,4 @@
 94109. docs: write FAQ section #94109
 61255. feat: support email verification #61255
 73985. test: add unit test for quiz service #73985
+12413. perf: optimize database query for quiz results #12413
