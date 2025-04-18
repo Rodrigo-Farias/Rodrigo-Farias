@@ -2277,3 +2277,4 @@
 26788. feat: create admin dashboard #26788
 89059. docs: clarify environment setup #89059
 75077. refactor: split large controller into smaller functions #75077
+92617. test: increase coverage on auth module #92617
