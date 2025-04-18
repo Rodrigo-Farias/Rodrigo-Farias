@@ -3600,3 +3600,4 @@
 1049. refactor: organize models into subfolders #1049
 94109. docs: write FAQ section #94109
 61255. feat: support email verification #61255
+73985. test: add unit test for quiz service #73985
