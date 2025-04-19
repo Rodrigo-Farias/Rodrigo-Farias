@@ -3605,3 +3605,4 @@
 81399. docs: clarify environment setup #81399
 77237. chore: rename env.example #77237
 6750. docs: add API usage examples #6750
+62874. refactor: clean up auth middleware #62874
