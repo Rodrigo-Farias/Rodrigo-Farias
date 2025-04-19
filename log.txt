@@ -3606,3 +3606,4 @@
 77237. chore: rename env.example #77237
 6750. docs: add API usage examples #6750
 62874. refactor: clean up auth middleware #62874
+39353. feat: enable dark mode toggle #39353
