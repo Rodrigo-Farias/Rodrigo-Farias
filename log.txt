@@ -189,3 +189,4 @@
 90483. style: standardize quote style #90483
 22036. docs: update README with setup steps #22036
 12035. test: add integration test for /submit endpoint #12035
+93803. fix: correct typo in registration form #93803
