@@ -3608,3 +3608,4 @@
 62874. refactor: clean up auth middleware #62874
 39353. feat: enable dark mode toggle #39353
 67213. chore: rename env.example #67213
+44320. test: increase coverage on auth module #44320
