@@ -2278,3 +2278,4 @@
 89059. docs: clarify environment setup #89059
 75077. refactor: split large controller into smaller functions #75077
 92617. test: increase coverage on auth module #92617
+37875. fix: prevent crash on empty input #37875
