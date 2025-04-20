@@ -3610,3 +3610,4 @@
 67213. chore: rename env.example #67213
 44320. test: increase coverage on auth module #44320
 17258. feat: enable dark mode toggle #17258
+30276. chore: bump dependencies #30276
