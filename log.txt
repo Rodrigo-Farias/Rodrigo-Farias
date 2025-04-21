@@ -3612,3 +3612,4 @@
 17258. feat: enable dark mode toggle #17258
 30276. chore: bump dependencies #30276
 48533. perf: optimize database query for quiz results #48533
+43899. fix: prevent crash on empty input #43899
