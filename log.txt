@@ -3616,3 +3616,4 @@
 45512. style: rename variables for clarity #45512
 70408. style: apply consistent indentation #70408
 60126. test: test user registration edge cases #60126
+59330. fix: handle 500 error in quiz API #59330
