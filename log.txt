@@ -3621,3 +3621,4 @@
 12511. refactor: clean up auth middleware #12511
 53851. style: apply consistent indentation #53851
 2006. chore: add GitHub actions badge #2006
+72048. docs: write FAQ section #72048
