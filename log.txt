@@ -3622,3 +3622,4 @@
 53851. style: apply consistent indentation #53851
 2006. chore: add GitHub actions badge #2006
 72048. docs: write FAQ section #72048
+11935. chore: bump dependencies #11935
