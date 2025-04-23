@@ -3624,3 +3624,4 @@
 72048. docs: write FAQ section #72048
 11935. chore: bump dependencies #11935
 24635. chore: update .gitignore #24635
+80747. style: remove trailing whitespace #80747
