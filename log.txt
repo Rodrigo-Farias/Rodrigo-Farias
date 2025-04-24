@@ -3630,3 +3630,4 @@
 33890. style: standardize quote style #33890
 80032. chore: add GitHub actions badge #80032
 43390. fix: resolve issue with date parsing #43390
+79814. test: test user registration edge cases #79814
