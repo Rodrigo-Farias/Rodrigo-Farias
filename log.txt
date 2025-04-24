@@ -2283,3 +2283,4 @@
 83951. docs: document token refresh logic #83951
 96403. feat: create admin dashboard #96403
 64489. perf: reduce image load time #64489
+30192. test: test user registration edge cases #30192
