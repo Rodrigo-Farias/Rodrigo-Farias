@@ -3633,3 +3633,4 @@
 79814. test: test user registration edge cases #79814
 87918. test: increase coverage on auth module #87918
 23653. style: reformat files with black #23653
+6636. refactor: remove redundant code blocks #6636
