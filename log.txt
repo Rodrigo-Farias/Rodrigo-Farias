@@ -386,3 +386,4 @@
 9388. chore: clean up unused files #9388
 33711. style: reformat files with black #33711
 39708. perf: cache repeated calculations #39708
+40541. fix: handle 500 error in quiz API #40541
