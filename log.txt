@@ -3634,3 +3634,4 @@
 87918. test: increase coverage on auth module #87918
 23653. style: reformat files with black #23653
 6636. refactor: remove redundant code blocks #6636
+99699. test: add unit test for quiz service #99699
