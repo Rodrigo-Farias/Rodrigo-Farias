@@ -2284,3 +2284,4 @@
 96403. feat: create admin dashboard #96403
 64489. perf: reduce image load time #64489
 30192. test: test user registration edge cases #30192
+75669. refactor: refactor quiz grading logic #75669
