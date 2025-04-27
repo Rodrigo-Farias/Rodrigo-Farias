@@ -3641,3 +3641,4 @@
 1596. style: standardize quote style #1596
 9189. chore: add GitHub actions badge #9189
 30667. perf: lazy-load components #30667
+2831. refactor: split large controller into smaller functions #2831
