@@ -3642,3 +3642,4 @@
 9189. chore: add GitHub actions badge #9189
 30667. perf: lazy-load components #30667
 2831. refactor: split large controller into smaller functions #2831
+28305. feat: add user authentication #28305
