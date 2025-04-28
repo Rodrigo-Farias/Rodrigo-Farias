@@ -3648,3 +3648,4 @@
 87981. refactor: clean up auth middleware #87981
 6894. feat: create admin dashboard #6894
 73644. chore: add GitHub actions badge #73644
+70335. feat: support email verification #70335
