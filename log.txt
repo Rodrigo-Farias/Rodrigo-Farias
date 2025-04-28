@@ -3650,3 +3650,4 @@
 73644. chore: add GitHub actions badge #73644
 70335. feat: support email verification #70335
 69016. docs: write FAQ section #69016
+19548. fix: handle 500 error in quiz API #19548
