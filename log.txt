@@ -3654,3 +3654,4 @@
 65604. feat: add user authentication #65604
 55288. fix: fix broken CSS in mobile view #55288
 39267. docs: document token refresh logic #39267
+64204. style: remove trailing whitespace #64204
