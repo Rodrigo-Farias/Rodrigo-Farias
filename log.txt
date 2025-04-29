@@ -3653,3 +3653,4 @@
 19548. fix: handle 500 error in quiz API #19548
 65604. feat: add user authentication #65604
 55288. fix: fix broken CSS in mobile view #55288
+39267. docs: document token refresh logic #39267
