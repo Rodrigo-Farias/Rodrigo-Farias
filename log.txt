@@ -2286,3 +2286,4 @@
 30192. test: test user registration edge cases #30192
 75669. refactor: refactor quiz grading logic #75669
 47614. perf: cache repeated calculations #47614
+72747. fix: fix null pointer exception on login #72747
