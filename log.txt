@@ -3659,3 +3659,4 @@
 9097. docs: add API usage examples #9097
 61555. chore: update .gitignore #61555
 84671. refactor: refactor quiz grading logic #84671
+79346. refactor: clean up auth middleware #79346
