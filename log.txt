@@ -3663,3 +3663,4 @@
 95193. feat: add export to CSV option #95193
 97532. perf: cache repeated calculations #97532
 8001. feat: add user authentication #8001
+36574. perf: cache repeated calculations #36574
