@@ -3664,3 +3664,4 @@
 97532. perf: cache repeated calculations #97532
 8001. feat: add user authentication #8001
 36574. perf: cache repeated calculations #36574
+88098. fix: correct typo in registration form #88098
