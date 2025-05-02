@@ -3678,3 +3678,4 @@
 54526. chore: update .gitignore #54526
 40951. style: apply consistent indentation #40951
 94959. fix: correct typo in registration form #94959
+95681. fix: fix null pointer exception on login #95681
