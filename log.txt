@@ -2288,3 +2288,4 @@
 47614. perf: cache repeated calculations #47614
 72747. fix: fix null pointer exception on login #72747
 90938. feat: add export to CSV option #90938
+10483. perf: reduce image load time #10483
