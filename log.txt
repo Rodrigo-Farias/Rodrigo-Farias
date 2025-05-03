@@ -3679,3 +3679,4 @@
 40951. style: apply consistent indentation #40951
 94959. fix: correct typo in registration form #94959
 95681. fix: fix null pointer exception on login #95681
+42889. fix: resolve issue with date parsing #42889
