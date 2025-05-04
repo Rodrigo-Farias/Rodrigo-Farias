@@ -3687,3 +3687,4 @@
 88388. fix: correct typo in registration form #88388
 5830. fix: handle 500 error in quiz API #5830
 82150. perf: reduce image load time #82150
+82255. feat: implement quiz timer feature #82255
