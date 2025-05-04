@@ -3685,3 +3685,4 @@
 4717. docs: document token refresh logic #4717
 74139. refactor: organize models into subfolders #74139
 88388. fix: correct typo in registration form #88388
+5830. fix: handle 500 error in quiz API #5830
