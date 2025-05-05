@@ -3692,3 +3692,4 @@
 50110. fix: prevent crash on empty input #50110
 52765. test: add unit test for quiz service #52765
 88253. style: reformat files with black #88253
+3761. test: add integration test for /submit endpoint #3761
