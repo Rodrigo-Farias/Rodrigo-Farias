@@ -3690,3 +3690,4 @@
 82255. feat: implement quiz timer feature #82255
 48995. fix: fix null pointer exception on login #48995
 50110. fix: prevent crash on empty input #50110
+52765. test: add unit test for quiz service #52765
