@@ -3703,3 +3703,4 @@
 47785. test: add unit test for quiz service #47785
 59220. fix: resolve issue with date parsing #59220
 5586. style: remove trailing whitespace #5586
+18726. test: increase coverage on auth module #18726
