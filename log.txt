@@ -3707,3 +3707,4 @@
 92060. test: increase coverage on auth module #92060
 27494. feat: add user authentication #27494
 25015. perf: optimize database query for quiz results #25015
+30065. perf: reduce image load time #30065
