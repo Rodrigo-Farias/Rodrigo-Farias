@@ -3705,3 +3705,4 @@
 5586. style: remove trailing whitespace #5586
 18726. test: increase coverage on auth module #18726
 92060. test: increase coverage on auth module #92060
+27494. feat: add user authentication #27494
