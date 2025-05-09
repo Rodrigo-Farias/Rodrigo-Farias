@@ -3710,3 +3710,4 @@
 30065. perf: reduce image load time #30065
 45786. feat: support email verification #45786
 82512. chore: add GitHub actions badge #82512
+57192. feat: add user authentication #57192
