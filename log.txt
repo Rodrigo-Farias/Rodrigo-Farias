@@ -191,3 +191,4 @@
 12035. test: add integration test for /submit endpoint #12035
 93803. fix: correct typo in registration form #93803
 51216. chore: add GitHub actions badge #51216
+75107. chore: rename env.example #75107
