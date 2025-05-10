@@ -3719,3 +3719,4 @@
 47323. chore: update .gitignore #47323
 82085. chore: add GitHub actions badge #82085
 39135. perf: lazy-load components #39135
+54417. perf: optimize database query for quiz results #54417
