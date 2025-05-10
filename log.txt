@@ -3718,3 +3718,4 @@
 38968. style: reformat files with black #38968
 47323. chore: update .gitignore #47323
 82085. chore: add GitHub actions badge #82085
+39135. perf: lazy-load components #39135
