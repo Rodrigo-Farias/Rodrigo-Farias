@@ -3725,3 +3725,4 @@
 19967. refactor: clean up auth middleware #19967
 25436. style: standardize quote style #25436
 21231. chore: update .gitignore #21231
+68480. fix: handle 500 error in quiz API #68480
