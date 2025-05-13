@@ -2296,3 +2296,4 @@
 97876. docs: write FAQ section #97876
 94078. feat: add export to CSV option #94078
 55817. style: apply consistent indentation #55817
+27067. test: increase coverage on auth module #27067
