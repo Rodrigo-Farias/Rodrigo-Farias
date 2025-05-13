@@ -3730,3 +3730,4 @@
 78296. fix: fix broken CSS in mobile view #78296
 45095. perf: lazy-load components #45095
 7720. feat: enable dark mode toggle #7720
+73943. feat: support email verification #73943
