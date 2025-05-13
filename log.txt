@@ -3732,3 +3732,4 @@
 7720. feat: enable dark mode toggle #7720
 73943. feat: support email verification #73943
 97725. style: apply consistent indentation #97725
+40929. style: reformat files with black #40929
