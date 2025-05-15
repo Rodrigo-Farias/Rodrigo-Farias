@@ -3749,3 +3749,4 @@
 67172. refactor: split large controller into smaller functions #67172
 70867. style: standardize quote style #70867
 85667. chore: bump dependencies #85667
+56395. fix: handle 500 error in quiz API #56395
