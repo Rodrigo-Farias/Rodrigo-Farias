@@ -2299,3 +2299,4 @@
 27067. test: increase coverage on auth module #27067
 90226. test: test user registration edge cases #90226
 16116. style: reformat files with black #16116
+99909. refactor: organize models into subfolders #99909
