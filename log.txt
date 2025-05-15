@@ -3746,3 +3746,4 @@
 95214. style: reformat files with black #95214
 3407. refactor: split large controller into smaller functions #3407
 20172. fix: resolve issue with date parsing #20172
+67172. refactor: split large controller into smaller functions #67172
