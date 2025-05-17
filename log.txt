@@ -3757,3 +3757,4 @@
 56357. feat: create admin dashboard #56357
 68344. chore: bump dependencies #68344
 82490. chore: rename env.example #82490
+32232. docs: update README with setup steps #32232
