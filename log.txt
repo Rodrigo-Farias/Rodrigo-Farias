@@ -3755,3 +3755,4 @@
 54675. refactor: refactor quiz grading logic #54675
 87949. refactor: clean up auth middleware #87949
 56357. feat: create admin dashboard #56357
+68344. chore: bump dependencies #68344
