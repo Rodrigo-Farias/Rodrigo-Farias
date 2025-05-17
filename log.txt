@@ -3759,3 +3759,4 @@
 82490. chore: rename env.example #82490
 32232. docs: update README with setup steps #32232
 32658. test: add integration test for /submit endpoint #32658
+91775. docs: document token refresh logic #91775
