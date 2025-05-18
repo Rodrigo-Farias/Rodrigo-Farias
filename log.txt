@@ -2302,3 +2302,4 @@
 99909. refactor: organize models into subfolders #99909
 79229. refactor: remove redundant code blocks #79229
 33152. style: apply consistent indentation #33152
+96251. perf: lazy-load components #96251
