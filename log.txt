@@ -3762,3 +3762,4 @@
 91775. docs: document token refresh logic #91775
 44444. feat: add user authentication #44444
 23013. refactor: clean up auth middleware #23013
+29566. docs: update README with setup steps #29566
