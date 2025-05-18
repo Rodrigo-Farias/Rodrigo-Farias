@@ -3764,3 +3764,4 @@
 23013. refactor: clean up auth middleware #23013
 29566. docs: update README with setup steps #29566
 12244. docs: add API usage examples #12244
+66322. refactor: clean up auth middleware #66322
