@@ -3765,3 +3765,4 @@
 29566. docs: update README with setup steps #29566
 12244. docs: add API usage examples #12244
 66322. refactor: clean up auth middleware #66322
+84033. refactor: organize models into subfolders #84033
