@@ -3770,3 +3770,4 @@
 45825. test: add integration test for /submit endpoint #45825
 83629. chore: clean up unused files #83629
 43900. fix: fix broken CSS in mobile view #43900
+9375. chore: update .gitignore #9375
