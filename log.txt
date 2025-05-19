@@ -3771,3 +3771,4 @@
 83629. chore: clean up unused files #83629
 43900. fix: fix broken CSS in mobile view #43900
 9375. chore: update .gitignore #9375
+40335. perf: lazy-load components #40335
