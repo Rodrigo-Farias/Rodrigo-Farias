@@ -3772,3 +3772,4 @@
 43900. fix: fix broken CSS in mobile view #43900
 9375. chore: update .gitignore #9375
 40335. perf: lazy-load components #40335
+62117. perf: cache repeated calculations #62117
