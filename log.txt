@@ -3769,3 +3769,4 @@
 5601. style: rename variables for clarity #5601
 45825. test: add integration test for /submit endpoint #45825
 83629. chore: clean up unused files #83629
+43900. fix: fix broken CSS in mobile view #43900
