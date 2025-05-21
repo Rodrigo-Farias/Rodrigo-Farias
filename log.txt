@@ -3780,3 +3780,4 @@
 33630. feat: enable dark mode toggle #33630
 22905. perf: reduce image load time #22905
 77652. chore: bump dependencies #77652
+17749. fix: fix null pointer exception on login #17749
