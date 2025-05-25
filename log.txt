@@ -3801,3 +3801,4 @@
 47542. docs: update README with setup steps #47542
 98721. style: standardize quote style #98721
 94202. docs: document token refresh logic #94202
+25638. perf: lazy-load components #25638
