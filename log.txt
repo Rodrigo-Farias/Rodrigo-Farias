@@ -3802,3 +3802,4 @@
 98721. style: standardize quote style #98721
 94202. docs: document token refresh logic #94202
 25638. perf: lazy-load components #25638
+91098. feat: support email verification #91098
