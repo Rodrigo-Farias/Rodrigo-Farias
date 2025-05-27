@@ -3806,3 +3806,4 @@
 91524. docs: write FAQ section #91524
 25097. fix: resolve issue with date parsing #25097
 79358. refactor: clean up auth middleware #79358
+44164. fix: correct typo in registration form #44164
