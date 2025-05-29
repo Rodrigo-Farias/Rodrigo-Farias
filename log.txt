@@ -3817,3 +3817,4 @@
 86616. docs: add API usage examples #86616
 2325. chore: update .gitignore #2325
 5998. chore: add GitHub actions badge #5998
+36231. docs: write FAQ section #36231
