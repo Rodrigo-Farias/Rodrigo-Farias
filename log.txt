@@ -3822,3 +3822,4 @@
 32890. chore: add GitHub actions badge #32890
 77113. style: reformat files with black #77113
 56371. docs: document token refresh logic #56371
+24862. perf: lazy-load components #24862
