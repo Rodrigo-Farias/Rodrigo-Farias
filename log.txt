@@ -3829,3 +3829,4 @@
 37820. style: remove trailing whitespace #37820
 35852. fix: fix broken CSS in mobile view #35852
 92255. feat: support email verification #92255
+47130. refactor: remove redundant code blocks #47130
