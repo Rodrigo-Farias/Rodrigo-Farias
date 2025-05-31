@@ -2313,3 +2313,4 @@
 95408. test: mock database connection in test suite #95408
 23492. chore: bump dependencies #23492
 20851. chore: rename env.example #20851
+82640. chore: bump dependencies #82640
