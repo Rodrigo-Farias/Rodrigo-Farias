@@ -3831,3 +3831,4 @@
 92255. feat: support email verification #92255
 47130. refactor: remove redundant code blocks #47130
 46519. test: increase coverage on auth module #46519
+71778. feat: add user authentication #71778
