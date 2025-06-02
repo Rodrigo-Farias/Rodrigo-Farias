@@ -3837,3 +3837,4 @@
 3029. test: mock database connection in test suite #3029
 12893. docs: write FAQ section #12893
 2064. style: remove trailing whitespace #2064
+75962. style: apply consistent indentation #75962
