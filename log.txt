@@ -3845,3 +3845,4 @@
 19738. fix: fix null pointer exception on login #19738
 47064. refactor: organize models into subfolders #47064
 35878. test: add integration test for /submit endpoint #35878
+92830. fix: correct typo in registration form #92830
