@@ -3852,3 +3852,4 @@
 86855. chore: add GitHub actions badge #86855
 5902. feat: add export to CSV option #5902
 58643. chore: add GitHub actions badge #58643
+49024. chore: add GitHub actions badge #49024
