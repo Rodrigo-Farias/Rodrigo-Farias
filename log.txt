@@ -3847,3 +3847,4 @@
 35878. test: add integration test for /submit endpoint #35878
 92830. fix: correct typo in registration form #92830
 2734. docs: clarify environment setup #2734
+70740. refactor: remove redundant code blocks #70740
