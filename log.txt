@@ -3855,3 +3855,4 @@
 49024. chore: add GitHub actions badge #49024
 88911. feat: support email verification #88911
 21093. feat: create admin dashboard #21093
+69144. feat: add user authentication #69144
