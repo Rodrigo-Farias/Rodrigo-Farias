@@ -3863,3 +3863,4 @@
 14864. refactor: organize models into subfolders #14864
 95991. chore: rename env.example #95991
 15715. style: standardize quote style #15715
+42616. docs: update README with setup steps #42616
