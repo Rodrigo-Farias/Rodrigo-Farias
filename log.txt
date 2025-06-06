@@ -3869,3 +3869,4 @@
 45243. refactor: organize models into subfolders #45243
 2485. perf: reduce image load time #2485
 1037. test: test user registration edge cases #1037
+2000. feat: create admin dashboard #2000
