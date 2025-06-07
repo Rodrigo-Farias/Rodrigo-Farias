@@ -2317,3 +2317,4 @@
 88038. test: add unit test for quiz service #88038
 81646. test: mock database connection in test suite #81646
 49941. perf: lazy-load components #49941
+38264. test: test user registration edge cases #38264
