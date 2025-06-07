@@ -3872,3 +3872,4 @@
 2000. feat: create admin dashboard #2000
 17756. style: reformat files with black #17756
 81006. perf: cache repeated calculations #81006
+12590. fix: handle 500 error in quiz API #12590
