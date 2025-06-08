@@ -3881,3 +3881,4 @@
 10866. test: increase coverage on auth module #10866
 48342. perf: cache repeated calculations #48342
 72418. fix: prevent crash on empty input #72418
+89704. perf: optimize database query for quiz results #89704
