@@ -3877,3 +3877,4 @@
 64823. docs: improve code comments in utils #64823
 39413. feat: add export to CSV option #39413
 63295. chore: add GitHub actions badge #63295
+74608. perf: optimize database query for quiz results #74608
