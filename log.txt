@@ -3885,3 +3885,4 @@
 18803. perf: lazy-load components #18803
 99464. refactor: clean up auth middleware #99464
 95178. chore: rename env.example #95178
+75204. test: test user registration edge cases #75204
