@@ -3883,3 +3883,4 @@
 72418. fix: prevent crash on empty input #72418
 89704. perf: optimize database query for quiz results #89704
 18803. perf: lazy-load components #18803
+99464. refactor: clean up auth middleware #99464
