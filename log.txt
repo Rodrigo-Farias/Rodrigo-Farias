@@ -3889,3 +3889,4 @@
 45320. chore: add GitHub actions badge #45320
 90179. test: add integration test for /submit endpoint #90179
 19010. refactor: split large controller into smaller functions #19010
+36394. perf: optimize database query for quiz results #36394
