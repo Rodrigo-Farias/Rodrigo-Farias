@@ -3902,3 +3902,4 @@
 9865. docs: improve code comments in utils #9865
 69118. style: apply consistent indentation #69118
 85024. docs: document token refresh logic #85024
+64986. fix: fix broken CSS in mobile view #64986
