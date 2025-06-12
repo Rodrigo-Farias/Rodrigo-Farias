@@ -3905,3 +3905,4 @@
 64986. fix: fix broken CSS in mobile view #64986
 96924. docs: add API usage examples #96924
 98176. fix: prevent crash on empty input #98176
+82552. chore: bump dependencies #82552
