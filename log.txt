@@ -3912,3 +3912,4 @@
 77355. refactor: split large controller into smaller functions #77355
 58392. feat: enable dark mode toggle #58392
 82515. perf: lazy-load components #82515
+85955. refactor: organize models into subfolders #85955
