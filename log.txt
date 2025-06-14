@@ -3917,3 +3917,4 @@
 6776. perf: optimize database query for quiz results #6776
 39340. feat: add user authentication #39340
 16704. docs: update README with setup steps #16704
+98867. fix: handle 500 error in quiz API #98867
