@@ -3914,3 +3914,4 @@
 82515. perf: lazy-load components #82515
 85955. refactor: organize models into subfolders #85955
 99839. chore: update .gitignore #99839
+6776. perf: optimize database query for quiz results #6776
