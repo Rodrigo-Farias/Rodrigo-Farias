@@ -3918,3 +3918,4 @@
 39340. feat: add user authentication #39340
 16704. docs: update README with setup steps #16704
 98867. fix: handle 500 error in quiz API #98867
+94453. test: add integration test for /submit endpoint #94453
