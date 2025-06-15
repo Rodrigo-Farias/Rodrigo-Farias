@@ -3920,3 +3920,4 @@
 98867. fix: handle 500 error in quiz API #98867
 94453. test: add integration test for /submit endpoint #94453
 65650. perf: lazy-load components #65650
+43821. perf: reduce image load time #43821
