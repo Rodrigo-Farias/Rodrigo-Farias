@@ -3937,3 +3937,4 @@
 91774. perf: optimize database query for quiz results #91774
 98575. fix: correct typo in registration form #98575
 35002. refactor: remove redundant code blocks #35002
+77228. refactor: organize models into subfolders #77228
