@@ -3948,3 +3948,4 @@
 38068. perf: cache repeated calculations #38068
 27279. fix: fix null pointer exception on login #27279
 58856. perf: reduce image load time #58856
+22231. refactor: split large controller into smaller functions #22231
