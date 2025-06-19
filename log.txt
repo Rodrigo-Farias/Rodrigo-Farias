@@ -3956,3 +3956,4 @@
 23843. test: test user registration edge cases #23843
 91784. style: remove trailing whitespace #91784
 78401. fix: prevent crash on empty input #78401
+57230. chore: bump dependencies #57230
