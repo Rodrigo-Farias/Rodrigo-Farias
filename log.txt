@@ -3950,3 +3950,4 @@
 58856. perf: reduce image load time #58856
 22231. refactor: split large controller into smaller functions #22231
 97574. style: reformat files with black #97574
+94425. chore: add GitHub actions badge #94425
