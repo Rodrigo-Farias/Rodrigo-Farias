@@ -3957,3 +3957,4 @@
 91784. style: remove trailing whitespace #91784
 78401. fix: prevent crash on empty input #78401
 57230. chore: bump dependencies #57230
+66705. test: add integration test for /submit endpoint #66705
