@@ -3953,3 +3953,4 @@
 94425. chore: add GitHub actions badge #94425
 36489. refactor: remove redundant code blocks #36489
 54016. perf: reduce image load time #54016
+23843. test: test user registration edge cases #23843
