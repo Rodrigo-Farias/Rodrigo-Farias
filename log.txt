@@ -3962,3 +3962,4 @@
 48452. perf: optimize database query for quiz results #48452
 58603. chore: add GitHub actions badge #58603
 46526. refactor: organize models into subfolders #46526
+66466. perf: lazy-load components #66466
