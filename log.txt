@@ -3967,3 +3967,4 @@
 65720. perf: optimize database query for quiz results #65720
 14317. feat: add export to CSV option #14317
 40565. fix: resolve issue with date parsing #40565
+38628. feat: add export to CSV option #38628
