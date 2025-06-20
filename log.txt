@@ -2324,3 +2324,4 @@
 67628. feat: create admin dashboard #67628
 14859. chore: clean up unused files #14859
 92038. style: reformat files with black #92038
+25165. chore: rename env.example #25165
