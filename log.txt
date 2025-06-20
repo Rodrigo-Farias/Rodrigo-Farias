@@ -3958,3 +3958,4 @@
 78401. fix: prevent crash on empty input #78401
 57230. chore: bump dependencies #57230
 66705. test: add integration test for /submit endpoint #66705
+8901. docs: update README with setup steps #8901
