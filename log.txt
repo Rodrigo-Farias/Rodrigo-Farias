@@ -3983,3 +3983,4 @@
 90329. fix: fix null pointer exception on login #90329
 29365. refactor: split large controller into smaller functions #29365
 30934. fix: prevent crash on empty input #30934
+58094. fix: correct typo in registration form #58094
