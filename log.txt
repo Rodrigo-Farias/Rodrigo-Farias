@@ -3975,3 +3975,4 @@
 3369. feat: support email verification #3369
 84401. feat: add export to CSV option #84401
 47879. perf: reduce image load time #47879
+84589. docs: write FAQ section #84589
