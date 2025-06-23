@@ -3986,3 +3986,4 @@
 58094. fix: correct typo in registration form #58094
 95020. docs: add API usage examples #95020
 79125. docs: clarify environment setup #79125
+0747. docs: document token refresh logic #747
