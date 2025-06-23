@@ -2328,3 +2328,4 @@
 58880. style: reformat files with black #58880
 35062. style: reformat files with black #35062
 47360. fix: fix null pointer exception on login #47360
+57546. refactor: organize models into subfolders #57546
