@@ -2330,3 +2330,4 @@
 47360. fix: fix null pointer exception on login #47360
 57546. refactor: organize models into subfolders #57546
 57412. perf: optimize database query for quiz results #57412
+14031. style: standardize quote style #14031
