@@ -2335,3 +2335,4 @@
 53453. perf: lazy-load components #53453
 18506. docs: improve code comments in utils #18506
 60135. chore: add GitHub actions badge #60135
+99064. chore: bump dependencies #99064
