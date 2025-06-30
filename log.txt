@@ -4025,3 +4025,4 @@
 53966. docs: write FAQ section #53966
 82095. feat: support email verification #82095
 22750. perf: reduce image load time #22750
+49353. perf: lazy-load components #49353
