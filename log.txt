@@ -4023,3 +4023,4 @@
 69145. fix: handle 500 error in quiz API #69145
 79168. style: standardize quote style #79168
 53966. docs: write FAQ section #53966
+82095. feat: support email verification #82095
