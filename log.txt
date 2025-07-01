@@ -4031,3 +4031,4 @@
 69627. docs: write FAQ section #69627
 51289. docs: improve code comments in utils #51289
 61903. chore: rename env.example #61903
+40193. feat: enable dark mode toggle #40193
