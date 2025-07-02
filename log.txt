@@ -4033,3 +4033,4 @@
 61903. chore: rename env.example #61903
 40193. feat: enable dark mode toggle #40193
 22127. docs: write FAQ section #22127
+95542. refactor: clean up auth middleware #95542
