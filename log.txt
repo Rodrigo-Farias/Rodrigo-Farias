@@ -4039,3 +4039,4 @@
 92580. refactor: remove redundant code blocks #92580
 48857. perf: reduce image load time #48857
 72218. chore: add GitHub actions badge #72218
+88541. docs: clarify environment setup #88541
