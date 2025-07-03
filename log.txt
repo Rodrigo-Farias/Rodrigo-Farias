@@ -192,3 +192,4 @@
 93803. fix: correct typo in registration form #93803
 51216. chore: add GitHub actions badge #51216
 75107. chore: rename env.example #75107
+57128. chore: bump dependencies #57128
