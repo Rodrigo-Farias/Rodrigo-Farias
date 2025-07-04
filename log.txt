@@ -2342,3 +2342,4 @@
 71248. refactor: refactor quiz grading logic #71248
 85662. perf: optimize database query for quiz results #85662
 4022. fix: fix null pointer exception on login #4022
+96040. fix: prevent crash on empty input #96040
