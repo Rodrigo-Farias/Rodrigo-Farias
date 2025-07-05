@@ -4054,3 +4054,4 @@
 77241. chore: clean up unused files #77241
 12499. fix: handle 500 error in quiz API #12499
 69508. fix: prevent crash on empty input #69508
+98345. fix: handle 500 error in quiz API #98345
