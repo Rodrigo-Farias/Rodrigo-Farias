@@ -4050,3 +4050,4 @@
 79380. style: rename variables for clarity #79380
 39933. feat: support email verification #39933
 83009. chore: clean up unused files #83009
+59788. test: test user registration edge cases #59788
