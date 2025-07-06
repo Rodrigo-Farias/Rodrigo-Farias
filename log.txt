@@ -4057,3 +4057,4 @@
 98345. fix: handle 500 error in quiz API #98345
 60327. test: increase coverage on auth module #60327
 77339. perf: cache repeated calculations #77339
+20445. test: test user registration edge cases #20445
