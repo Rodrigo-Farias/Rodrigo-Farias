@@ -2343,3 +2343,4 @@
 85662. perf: optimize database query for quiz results #85662
 4022. fix: fix null pointer exception on login #4022
 96040. fix: prevent crash on empty input #96040
+50608. perf: optimize database query for quiz results #50608
