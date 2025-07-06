@@ -2345,3 +2345,4 @@
 96040. fix: prevent crash on empty input #96040
 50608. perf: optimize database query for quiz results #50608
 49086. docs: write FAQ section #49086
+69456. chore: rename env.example #69456
