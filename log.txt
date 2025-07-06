@@ -4061,3 +4061,4 @@
 10848. chore: add GitHub actions badge #10848
 74480. style: remove trailing whitespace #74480
 63819. feat: implement quiz timer feature #63819
+44419. fix: fix broken CSS in mobile view #44419
