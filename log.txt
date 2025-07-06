@@ -4058,3 +4058,4 @@
 60327. test: increase coverage on auth module #60327
 77339. perf: cache repeated calculations #77339
 20445. test: test user registration edge cases #20445
+10848. chore: add GitHub actions badge #10848
