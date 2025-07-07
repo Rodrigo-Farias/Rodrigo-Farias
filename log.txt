@@ -4064,3 +4064,4 @@
 44419. fix: fix broken CSS in mobile view #44419
 37541. feat: create admin dashboard #37541
 96809. docs: document token refresh logic #96809
+91654. style: remove trailing whitespace #91654
