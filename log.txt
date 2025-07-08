@@ -4066,3 +4066,4 @@
 96809. docs: document token refresh logic #96809
 91654. style: remove trailing whitespace #91654
 88784. chore: update .gitignore #88784
+25016. test: increase coverage on auth module #25016
