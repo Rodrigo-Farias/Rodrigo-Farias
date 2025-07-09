@@ -4067,3 +4067,4 @@
 91654. style: remove trailing whitespace #91654
 88784. chore: update .gitignore #88784
 25016. test: increase coverage on auth module #25016
+22144. test: mock database connection in test suite #22144
