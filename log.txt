@@ -4071,3 +4071,4 @@
 68547. refactor: clean up auth middleware #68547
 10043. docs: add API usage examples #10043
 10014. perf: reduce image load time #10014
+8581. chore: clean up unused files #8581
