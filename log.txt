@@ -2353,3 +2353,4 @@
 59366. docs: improve code comments in utils #59366
 37525. fix: handle 500 error in quiz API #37525
 63065. style: apply consistent indentation #63065
+44380. feat: support email verification #44380
