@@ -4081,3 +4081,4 @@
 42867. test: test user registration edge cases #42867
 45759. feat: add user authentication #45759
 33447. test: mock database connection in test suite #33447
+93624. feat: support email verification #93624
