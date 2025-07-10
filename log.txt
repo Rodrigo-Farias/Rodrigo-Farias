@@ -4078,3 +4078,4 @@
 16632. style: standardize quote style #16632
 40366. refactor: split large controller into smaller functions #40366
 25374. chore: clean up unused files #25374
+42867. test: test user registration edge cases #42867
