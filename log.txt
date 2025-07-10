@@ -4080,3 +4080,4 @@
 25374. chore: clean up unused files #25374
 42867. test: test user registration edge cases #42867
 45759. feat: add user authentication #45759
+33447. test: mock database connection in test suite #33447
