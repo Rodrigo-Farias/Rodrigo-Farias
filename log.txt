@@ -4088,3 +4088,4 @@
 23160. feat: support email verification #23160
 85373. refactor: remove redundant code blocks #85373
 4612. test: increase coverage on auth module #4612
+66052. docs: document token refresh logic #66052
