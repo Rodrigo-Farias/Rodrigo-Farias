@@ -4092,3 +4092,4 @@
 36594. style: apply consistent indentation #36594
 88989. chore: rename env.example #88989
 25825. feat: create admin dashboard #25825
+64631. refactor: clean up auth middleware #64631
