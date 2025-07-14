@@ -4110,3 +4110,4 @@
 36207. chore: rename env.example #36207
 48861. perf: reduce image load time #48861
 18610. feat: enable dark mode toggle #18610
+49549. fix: prevent crash on empty input #49549
