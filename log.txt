@@ -4129,3 +4129,4 @@
 1183. chore: rename env.example #1183
 8046. refactor: clean up auth middleware #8046
 21186. test: increase coverage on auth module #21186
+42139. docs: document token refresh logic #42139
