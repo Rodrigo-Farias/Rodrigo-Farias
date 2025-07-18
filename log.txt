@@ -4135,3 +4135,4 @@
 22024. test: add integration test for /submit endpoint #22024
 41178. refactor: split large controller into smaller functions #41178
 13335. perf: reduce image load time #13335
+99812. fix: resolve issue with date parsing #99812
