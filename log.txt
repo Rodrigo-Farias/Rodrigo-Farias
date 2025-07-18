@@ -4137,3 +4137,4 @@
 13335. perf: reduce image load time #13335
 99812. fix: resolve issue with date parsing #99812
 54391. chore: rename env.example #54391
+62395. feat: add user authentication #62395
