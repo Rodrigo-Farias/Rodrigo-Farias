@@ -4141,3 +4141,4 @@
 1907. docs: document token refresh logic #1907
 14380. refactor: refactor quiz grading logic #14380
 19475. chore: bump dependencies #19475
+52565. fix: prevent crash on empty input #52565
