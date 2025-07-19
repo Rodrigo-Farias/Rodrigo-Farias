@@ -2358,3 +2358,4 @@
 67596. chore: clean up unused files #67596
 73021. style: apply consistent indentation #73021
 45589. feat: create admin dashboard #45589
+4342. perf: reduce image load time #4342
