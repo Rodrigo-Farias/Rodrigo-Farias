@@ -2359,3 +2359,4 @@
 73021. style: apply consistent indentation #73021
 45589. feat: create admin dashboard #45589
 4342. perf: reduce image load time #4342
+94247. perf: lazy-load components #94247
