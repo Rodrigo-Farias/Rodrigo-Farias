@@ -4148,3 +4148,4 @@
 14398. fix: fix null pointer exception on login #14398
 19904. docs: write FAQ section #19904
 68501. fix: fix broken CSS in mobile view #68501
+82416. test: increase coverage on auth module #82416
