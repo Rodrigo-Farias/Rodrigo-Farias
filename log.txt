@@ -4160,3 +4160,4 @@
 18636. test: add integration test for /submit endpoint #18636
 85012. test: test user registration edge cases #85012
 90582. fix: prevent crash on empty input #90582
+25155. feat: add user authentication #25155
