@@ -4159,3 +4159,4 @@
 31655. refactor: remove redundant code blocks #31655
 18636. test: add integration test for /submit endpoint #18636
 85012. test: test user registration edge cases #85012
+90582. fix: prevent crash on empty input #90582
