@@ -4157,3 +4157,4 @@
 26315. test: mock database connection in test suite #26315
 59485. perf: cache repeated calculations #59485
 31655. refactor: remove redundant code blocks #31655
+18636. test: add integration test for /submit endpoint #18636
