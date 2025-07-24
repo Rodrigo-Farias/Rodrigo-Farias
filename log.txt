@@ -4166,3 +4166,4 @@
 23960. perf: cache repeated calculations #23960
 25584. test: increase coverage on auth module #25584
 19572. chore: clean up unused files #19572
+27156. fix: handle 500 error in quiz API #27156
