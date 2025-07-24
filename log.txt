@@ -4168,3 +4168,4 @@
 19572. chore: clean up unused files #19572
 27156. fix: handle 500 error in quiz API #27156
 11072. chore: clean up unused files #11072
+79802. chore: bump dependencies #79802
