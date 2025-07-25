@@ -4170,3 +4170,4 @@
 11072. chore: clean up unused files #11072
 79802. chore: bump dependencies #79802
 39616. feat: support email verification #39616
+11595. perf: lazy-load components #11595
