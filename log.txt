@@ -2365,3 +2365,4 @@
 91967. fix: fix broken CSS in mobile view #91967
 26493. docs: write FAQ section #26493
 34612. docs: document token refresh logic #34612
+77328. perf: lazy-load components #77328
