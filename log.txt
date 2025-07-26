@@ -4176,3 +4176,4 @@
 84404. feat: implement quiz timer feature #84404
 97632. feat: add user authentication #97632
 96060. chore: rename env.example #96060
+86958. fix: prevent crash on empty input #86958
