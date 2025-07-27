@@ -4180,3 +4180,4 @@
 35486. docs: improve code comments in utils #35486
 3370. test: mock database connection in test suite #3370
 18647. refactor: remove redundant code blocks #18647
+78963. feat: enable dark mode toggle #78963
