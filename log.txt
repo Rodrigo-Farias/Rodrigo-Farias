@@ -2367,3 +2367,4 @@
 34612. docs: document token refresh logic #34612
 77328. perf: lazy-load components #77328
 84937. refactor: split large controller into smaller functions #84937
+17429. perf: optimize database query for quiz results #17429
