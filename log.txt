@@ -2368,3 +2368,4 @@
 77328. perf: lazy-load components #77328
 84937. refactor: split large controller into smaller functions #84937
 17429. perf: optimize database query for quiz results #17429
+90338. docs: update README with setup steps #90338
