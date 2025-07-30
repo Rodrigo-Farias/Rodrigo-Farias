@@ -2371,3 +2371,4 @@
 90338. docs: update README with setup steps #90338
 20718. fix: resolve issue with date parsing #20718
 56869. chore: rename env.example #56869
+89882. feat: add user authentication #89882
