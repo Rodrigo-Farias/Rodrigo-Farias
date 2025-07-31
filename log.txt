@@ -4210,3 +4210,4 @@
 22732. chore: bump dependencies #22732
 62933. test: add integration test for /submit endpoint #62933
 19336. style: remove trailing whitespace #19336
+64312. fix: handle 500 error in quiz API #64312
