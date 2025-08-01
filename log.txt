@@ -4214,3 +4214,4 @@
 45824. fix: handle 500 error in quiz API #45824
 11706. style: reformat files with black #11706
 38903. style: reformat files with black #38903
+18997. style: apply consistent indentation #18997
