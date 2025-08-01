@@ -4215,3 +4215,4 @@
 11706. style: reformat files with black #11706
 38903. style: reformat files with black #38903
 18997. style: apply consistent indentation #18997
+94943. fix: fix null pointer exception on login #94943
