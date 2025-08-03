@@ -4228,3 +4228,4 @@
 70391. docs: document token refresh logic #70391
 57325. style: rename variables for clarity #57325
 95065. feat: create admin dashboard #95065
+54328. fix: fix broken CSS in mobile view #54328
