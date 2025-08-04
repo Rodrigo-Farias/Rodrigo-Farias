@@ -2376,3 +2376,4 @@
 50125. chore: clean up unused files #50125
 42056. refactor: remove redundant code blocks #42056
 32444. perf: optimize database query for quiz results #32444
+12426. fix: handle 500 error in quiz API #12426
