@@ -4235,3 +4235,4 @@
 62551. perf: optimize database query for quiz results #62551
 44884. perf: reduce image load time #44884
 76066. fix: prevent crash on empty input #76066
+98228. perf: lazy-load components #98228
