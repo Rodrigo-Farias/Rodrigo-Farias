@@ -4233,3 +4233,4 @@
 82719. docs: clarify environment setup #82719
 14154. refactor: split large controller into smaller functions #14154
 62551. perf: optimize database query for quiz results #62551
+44884. perf: reduce image load time #44884
