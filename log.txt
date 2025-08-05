@@ -4238,3 +4238,4 @@
 98228. perf: lazy-load components #98228
 17992. perf: reduce image load time #17992
 49904. perf: lazy-load components #49904
+75821. feat: create admin dashboard #75821
