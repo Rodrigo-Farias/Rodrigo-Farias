@@ -4240,3 +4240,4 @@
 49904. perf: lazy-load components #49904
 75821. feat: create admin dashboard #75821
 79047. chore: update .gitignore #79047
+66431. refactor: organize models into subfolders #66431
