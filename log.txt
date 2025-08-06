@@ -4244,3 +4244,4 @@
 80500. test: add unit test for quiz service #80500
 64977. docs: update README with setup steps #64977
 17639. perf: lazy-load components #17639
+39380. test: mock database connection in test suite #39380
