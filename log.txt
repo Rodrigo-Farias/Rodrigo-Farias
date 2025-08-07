@@ -4249,3 +4249,4 @@
 50427. fix: handle 500 error in quiz API #50427
 52238. style: standardize quote style #52238
 50520. chore: rename env.example #50520
+22217. chore: add GitHub actions badge #22217
