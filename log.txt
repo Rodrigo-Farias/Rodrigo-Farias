@@ -4258,3 +4258,4 @@
 91025. refactor: split large controller into smaller functions #91025
 56845. test: test user registration edge cases #56845
 19443. style: remove trailing whitespace #19443
+60369. docs: add API usage examples #60369
