@@ -2379,3 +2379,4 @@
 12426. fix: handle 500 error in quiz API #12426
 13710. fix: fix broken CSS in mobile view #13710
 47404. chore: clean up unused files #47404
+1425. perf: reduce image load time #1425
