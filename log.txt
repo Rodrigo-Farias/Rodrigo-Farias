@@ -4267,3 +4267,4 @@
 39971. refactor: organize models into subfolders #39971
 50468. style: remove trailing whitespace #50468
 82643. style: rename variables for clarity #82643
+83845. style: standardize quote style #83845
