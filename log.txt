@@ -4277,3 +4277,4 @@
 19337. perf: cache repeated calculations #19337
 97933. chore: rename env.example #97933
 84330. refactor: organize models into subfolders #84330
+87560. perf: lazy-load components #87560
