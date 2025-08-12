@@ -4281,3 +4281,4 @@
 34026. perf: optimize database query for quiz results #34026
 12213. fix: fix broken CSS in mobile view #12213
 96657. test: test user registration edge cases #96657
+90360. feat: add user authentication #90360
