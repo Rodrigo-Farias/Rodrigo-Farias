@@ -4290,3 +4290,4 @@
 42502. chore: bump dependencies #42502
 71555. fix: fix broken CSS in mobile view #71555
 74282. perf: optimize database query for quiz results #74282
+42437. style: apply consistent indentation #42437
