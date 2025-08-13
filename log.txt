@@ -2381,3 +2381,4 @@
 47404. chore: clean up unused files #47404
 1425. perf: reduce image load time #1425
 34586. perf: optimize database query for quiz results #34586
+73145. docs: clarify environment setup #73145
