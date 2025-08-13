@@ -4291,3 +4291,4 @@
 71555. fix: fix broken CSS in mobile view #71555
 74282. perf: optimize database query for quiz results #74282
 42437. style: apply consistent indentation #42437
+14319. docs: update README with setup steps #14319
