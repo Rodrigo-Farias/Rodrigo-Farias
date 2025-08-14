@@ -4297,3 +4297,4 @@
 28768. docs: improve code comments in utils #28768
 15347. refactor: organize models into subfolders #15347
 93335. style: standardize quote style #93335
+58975. perf: optimize database query for quiz results #58975
