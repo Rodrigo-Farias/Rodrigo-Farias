@@ -2382,3 +2382,4 @@
 1425. perf: reduce image load time #1425
 34586. perf: optimize database query for quiz results #34586
 73145. docs: clarify environment setup #73145
+35636. docs: update README with setup steps #35636
