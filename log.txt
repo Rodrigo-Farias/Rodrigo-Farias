@@ -2385,3 +2385,4 @@
 35636. docs: update README with setup steps #35636
 31235. refactor: clean up auth middleware #31235
 23091. feat: create admin dashboard #23091
+65902. chore: add GitHub actions badge #65902
