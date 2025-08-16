@@ -2386,3 +2386,4 @@
 31235. refactor: clean up auth middleware #31235
 23091. feat: create admin dashboard #23091
 65902. chore: add GitHub actions badge #65902
+60061. style: reformat files with black #60061
