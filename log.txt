@@ -4305,3 +4305,4 @@
 10372. chore: clean up unused files #10372
 22718. test: add integration test for /submit endpoint #22718
 1891. refactor: refactor quiz grading logic #1891
+80875. test: mock database connection in test suite #80875
