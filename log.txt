@@ -4311,3 +4311,4 @@
 91477. test: test user registration edge cases #91477
 14428. style: apply consistent indentation #14428
 59282. feat: support email verification #59282
+96329. test: add unit test for quiz service #96329
