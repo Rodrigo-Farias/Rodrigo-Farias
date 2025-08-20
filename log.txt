@@ -2393,3 +2393,4 @@
 92354. chore: rename env.example #92354
 94283. perf: optimize database query for quiz results #94283
 31638. chore: rename env.example #31638
+36159. fix: fix null pointer exception on login #36159
