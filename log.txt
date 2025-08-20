@@ -4326,3 +4326,4 @@
 71028. docs: document token refresh logic #71028
 11458. docs: improve code comments in utils #11458
 7505. refactor: split large controller into smaller functions #7505
+7842. docs: update README with setup steps #7842
