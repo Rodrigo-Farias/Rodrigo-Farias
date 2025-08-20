@@ -4323,3 +4323,4 @@
 61497. test: add unit test for quiz service #61497
 78057. docs: add API usage examples #78057
 38540. style: reformat files with black #38540
+71028. docs: document token refresh logic #71028
