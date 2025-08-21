@@ -2395,3 +2395,4 @@
 31638. chore: rename env.example #31638
 36159. fix: fix null pointer exception on login #36159
 48077. docs: write FAQ section #48077
+99542. docs: clarify environment setup #99542
