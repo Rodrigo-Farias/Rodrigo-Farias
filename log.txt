@@ -4342,3 +4342,4 @@
 70565. docs: improve code comments in utils #70565
 91679. feat: create admin dashboard #91679
 92042. style: rename variables for clarity #92042
+40785. fix: handle 500 error in quiz API #40785
