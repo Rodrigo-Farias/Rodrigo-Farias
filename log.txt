@@ -4349,3 +4349,4 @@
 71245. feat: enable dark mode toggle #71245
 30898. docs: update README with setup steps #30898
 36120. test: test user registration edge cases #36120
+12800. feat: create admin dashboard #12800
