@@ -4354,3 +4354,4 @@
 43881. perf: lazy-load components #43881
 26945. chore: bump dependencies #26945
 90811. refactor: remove redundant code blocks #90811
+81405. perf: optimize database query for quiz results #81405
