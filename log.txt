@@ -4379,3 +4379,4 @@
 89317. perf: cache repeated calculations #89317
 19607. style: standardize quote style #19607
 19680. docs: update README with setup steps #19680
+31244. feat: enable dark mode toggle #31244
