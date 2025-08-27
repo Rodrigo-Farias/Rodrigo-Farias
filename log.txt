@@ -197,3 +197,4 @@
 5280. perf: reduce image load time #5280
 80954. fix: resolve issue with date parsing #80954
 53953. docs: update README with setup steps #53953
+71271. docs: write FAQ section #71271
