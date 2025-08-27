@@ -4387,3 +4387,4 @@
 23445. test: add unit test for quiz service #23445
 42327. chore: update .gitignore #42327
 68813. chore: add GitHub actions badge #68813
+68264. test: increase coverage on auth module #68264
